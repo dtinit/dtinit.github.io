@@ -1,5 +1,4 @@
 <div class="section" markdown="1">
-## DTP --> DTI
 <div class="mustache">
 </div>
 The Data Transfer Initiative is a nonprofit organization **dedicated to the mission of empowering technology users** by enabling them to transfer their data from one service to another. Three contributors to the Data Transfer Project - Apple, Meta, and Google - came together to support the creation of DTI to continue and expand the work of bringing data portability to all.
