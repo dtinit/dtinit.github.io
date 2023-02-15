@@ -47,7 +47,7 @@ DTI’s unique blend of product and policy engagement requires unique leadership
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-071822.css" rel="stylesheet" type="text/css">
 <style type="text/css">
-#mc_embed_signup{background:#1b1c1d; clear:left; font-family:georgia;
+#mc_embed_signup{background:#1b1c1d; clear:left; font-family:arial;
   font-weight: 300; font-size: 1rem; color: #fff; width:100%;
   padding: 1rem;}
   #mc_embed_signup .helper_text{
