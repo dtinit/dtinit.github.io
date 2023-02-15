@@ -3,7 +3,7 @@
 <div class="mustache">
 </div>
 
-The terms of each organization’s API determine the data types that can be transferred between providers. This ordinarily includes data stored in a specific users’s account, but may not be limited to that data, depending on the organizations involved.  Additional or substitute functionality outside of the Data Transfer Project would be required for data transfers requiring particularly high integrity (e.g. health records).
+The terms of each organization’s API determine the data types that can be transferred between providers. This ordinarily includes data stored in a specific users’s account, but may not be limited to that data, depending on the organizations involved.  Additional or substitute functionality outside of the Data Transfer Project would be necessary for data transfers requiring particularly high integrity (e.g. health records).
 
 </div>
 
@@ -21,7 +21,7 @@ Each organization is responsible for securing and protecting the data stored on 
 <div class="mustache">
 </div>
 
-No, when a user initiates a data transfer, their encrypted information flows from one provider directly to another that is chosen by the users. Only the source service, the destination service (and hosting provider, if it is not the source or destination service) have access to the data.  No other contributors or 3rd parties have access to a copy of the data as part of the transfer.
+No, when a user initiates a data transfer, their encrypted information flows from one provider directly to another that is chosen by the user. Only the source service, the destination service (and hosting provider, if it is not the source or destination service) have access to the data.  No other contributors or 3rd parties have access to a copy of the data as part of the transfer.
 
 </div>
 
