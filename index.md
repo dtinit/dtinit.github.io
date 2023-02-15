@@ -5,6 +5,8 @@
 The Data Transfer Initiative is a nonprofit organization **dedicated to the mission of empowering technology users** by enabling them to transfer their data from one service to another. Three contributors to the Data Transfer Project - Apple, Meta, and Google - came together to support the creation of DTI to continue and expand the work of bringing data portability to all.
 </div>
 
+<button onclick="window.location.href='#mc_embed_signup_scroll';">Keep Up with the Data Transfer Initiative</button>
+
 <div class="section" markdown="1">
 ## In the Beginning: The Data Transfer Project
 <div class="mustache">
@@ -23,7 +25,10 @@ The Data Transfer Initiative is a nonprofit organization **dedicated to the miss
 </div>
 The Data Transfer Initiative invests dedicated engineering and product resources to the design and implementation of data transfer tools. These contributions will continue to be maintained in an [open source GitHub repository](https://github.com/google/data-transfer-project) to encourage broader adoption of and contributions to the code base. DTI will also offer its expertise with user-driven data transfers as an important resource to policymakers. Data portability continues to be a key element of policy discussions around the world, and **DTI will seek to help translate principle to practice, catalyzing greater user agency and empowerment**.
 
-<br>*"Data portability is becoming a requirement globally to give consumers greater control over their own data, and choice about shifting to different services. At the same time, if portability is badly implemented, consumers face significant privacy and security risks. The Data Transfer Project has become the global leader for making data portability a reality for users, and the new Data Transfer Initiative will provide the thought leadership needed to consider the multiple relevant policy goals." – Peter Swire, J.Z. Liang Chair, College of Computing, Georgia Institute of Technology*
+<p style="text-align: center;">
+<br><i>"Data portability is becoming a requirement globally to give consumers greater control over their own data, and choice about shifting to different services. At the same time, if portability is badly implemented, consumers face significant privacy and security risks. The Data Transfer Project has become the global leader for making data portability a reality for users, and the new Data Transfer Initiative will provide the thought leadership needed to consider the multiple relevant policy goals."</i>
+<br>Peter Swire, J.Z. Liang Chair, College of Computing, Georgia Institute of Technology
+</p>
 </div>
 
 <div class="section" markdown="1">
