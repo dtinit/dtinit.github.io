@@ -9,7 +9,7 @@ description: Data Transfer Project is a collaboration of organizations committed
 <div class="mustache">
 </div>
 
-The Data Transfer Project was launched in 2018 to create an open-source, service-to-service data portability platform so that all individuals across the web could easily move their data between online service providers whenever they want.
+The Data Transfer Project is an open-source project launched in 2018 to enable service-to-service data portability so that all individuals across the web can easily move their data between online service providers whenever they want.
 
 The contributors to the Data Transfer Project believe portability and interoperability are central to innovation. Making it easier for individuals to choose among services facilitates competition, empowers individuals to try new services and enables them to choose the offering that best suits their needs.
 
@@ -40,10 +40,10 @@ There are many use cases for users porting data directly between services, some 
 
 <div class="section" markdown="1">
 <div class="section-text" markdown="1">
-## Why do we need DTP
+## Benefits of DTP
 <div class="mustache">
 </div>
-Users should be in control of their data on the web, part of this is the ability to move their data. Currently users can download a copy of their data from most services, but that is only half the battle in terms of moving their data. DTP aims make move data between providers significantly easier for users.
+Without DTP, transferring a copy of data from one service to another can be a time consuming process, requiring a user to download a copy of their data to a local device and re-upload it to a new service. This can be particularly challenging for mobile-only users, those with limited bandwidth, and in markets where people pay-as-they-go for data usage. The data portability tools built on the Data Transfer Project framework remove the need for local device storage and transfer, enabling users to move their data directly between services. DTP makes this process easier for companies as well by providing standard data formats and necessary adapters.
 
 [Learn More]({{site.baseurl}}/why-dtp){: .learn-more}  
 </div>
