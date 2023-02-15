@@ -1,5 +1,5 @@
 <div class="section" markdown="1">
-## Q: Are there common standards by which Data Transfer Project partners should abide in performing transfers?
+## Q: Are there common standards by which contributors to the Data Transfer Project should abide in performing transfers?
 <div class="mustache">
 </div>
 As described in the white paper, DTP adheres to the following principles:
@@ -33,11 +33,11 @@ Each organization is responsible for securing and protecting the data stored on 
 </div>
 
 <div class="section" markdown="1">
-## Q: When data is transferred, do the Partners all get a copy?
+## Q: When data is transferred, do contributors to DTP or partners of the Data Transfer Initiative all get a copy?
 <div class="mustache">
 </div>
 
-No, when a user initiates a data transfer, their encrypted information flows from one provider directly to another that is chosen by the users. Only the source service, the destination service (and hosting provider, if it is not the source or destination service) have access to the data.  No other DTP partners or 3rd parties have access to a copy of the data as part of the transfer.
+No, when a user initiates a data transfer, their encrypted information flows from one provider directly to another that is chosen by the users. Only the source service, the destination service (and hosting provider, if it is not the source or destination service) have access to the data.  No other contributors or 3rd parties have access to a copy of the data as part of the transfer.
 
 </div>
 
