@@ -59,5 +59,4 @@ Note: For both of these you need to get your own API keys from the services you 
 
   * [Via Docker](https://github.com/google/data-transfer-project/blob/master/Documentation/RunningLocally.md)
   * [Via Code](https://github.com/google/data-transfer-project/blob/master/Documentation/Developer.md)
-  * Sites powered by DTP (coming soon)
 </div>

@@ -1,12 +1,17 @@
+---
+title: Data Transfer Project
+tagline:  a platform for transferring data
+description: Data Transfer Project is a collaboration of organizations committed to building a common framework with open-source code that can connect any two online service providers, enabling a seamless, direct transfer of data between the two platforms.
+---
+
 <div class="section" markdown="1">
-## TODO: fill in with Data Transfer Initiative content
+## Data Transfer Project
 <div class="mustache">
 </div>
 
 The Data Transfer Project was launched in 2018 to create an open-source, service-to-service data portability platform so that all individuals across the web could easily move their data between online service providers whenever they want.
 
 The contributors to the Data Transfer Project believe portability and interoperability are central to innovation. Making it easier for individuals to choose among services facilitates competition, empowers individuals to try new services and enables them to choose the offering that best suits their needs.
-
 
 <div class="section" markdown="1">
 <div class="section-text" markdown="1">
