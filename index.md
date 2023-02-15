@@ -1,9 +1,12 @@
-
-
+<div class="section" markdown="1">
+## DTP --> DTI
+<div class="mustache">
+</div>
 The Data Transfer Initiative is a nonprofit organization **dedicated to the mission of empowering technology users** by enabling them to transfer their data from one service to another. Three contributors to the Data Transfer Project - Apple, Meta, and Google - came together to support the creation of DTI to continue and expand the work of bringing data portability to all.
+</div>
 
 <div class="section" markdown="1">
-## About the Data Transfer Project
+## In the Beginning: The Data Transfer Project
 <div class="mustache">
 </div>
 
@@ -16,7 +19,6 @@ DTP makes it easier for people to switch services, or try new and innovative pro
 
 </div>
 <div class="section" markdown="1">
-<div class="section-text" markdown="1">
 ## About the Data Transfer Initiative
 <div class="mustache">
 </div>
@@ -24,7 +26,6 @@ The Data Transfer Initiative invests dedicated engineering and product resources
 
 
 *"Data portability is becoming a requirement globally to give consumers greater control over their own data, and choice about shifting to different services. At the same time, if portability is badly implemented, consumers face significant privacy and security risks. The Data Transfer Project has become the global leader for making data portability a reality for users, and the new Data Transfer Initiative will provide the thought leadership needed to consider the multiple relevant policy goals." – Peter Swire, J.Z. Liang Chair, College of Computing, Georgia Institute of Technology*
-</div>
 </div>
 
 <div class="section" markdown="1">
