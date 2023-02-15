@@ -5,28 +5,13 @@ description: Data Transfer Project is a collaboration of organizations committed
 ---
 
 <div class="section" markdown="1">
-## About us
+## Data Transfer Project
 <div class="mustache">
 </div>
 
 The Data Transfer Project was launched in 2018 to create an open-source, service-to-service data portability platform so that all individuals across the web could easily move their data between online service providers whenever they want.
 
 The contributors to the Data Transfer Project believe portability and interoperability are central to innovation. Making it easier for individuals to choose among services facilitates competition, empowers individuals to try new services and enables them to choose the offering that best suits their needs.
-
-Current contributors include:
-
-<div class="contributors-container">
-	<img class="logo-image" src="./images/logo-apple.png">
-	<img class="logo-image" src="./images/logo-facebook.png">
-	<img class="logo-image" src="./images/logo-google.png">
-	
-</div>
-<div class="contributors-container">
-    <img class="logo-image" src="./images/logo-microsoft.png">
-    <img class="logo-image" src="./images/logo-smugmug.png">
-	<img class="logo-image" src="./images/logo-twitter.png">
-</div>
-
 
 <div class="section" markdown="1">
 <div class="section-text" markdown="1">
