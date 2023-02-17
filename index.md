@@ -62,7 +62,7 @@ DTI’s unique blend of product and policy engagement requires unique leadership
 <div class="mustache">
 </div>
 
-**The scope of data portability is as broad and diverse as user data itself**. We welcome you to join us in our efforts. To express interest, please sign up below. 
+**The scope of data portability is as broad and diverse as user data itself**. We welcome you to join us in our efforts. To follow along with DTI's work going forward, please sign up below. 
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-071822.css" rel="stylesheet" type="text/css">
