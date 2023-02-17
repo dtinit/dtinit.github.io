@@ -29,8 +29,9 @@ The Data Transfer Initiative is a nonprofit organization **dedicated to the miss
 
 <br>DTP makes it easier for people to switch services, or try new and innovative products, by improving the ease and speed of data portability. **Without DTP**, transferring a copy of data from one service to another can be a time consuming process, requiring a user to download a copy of their data to a local device and re-upload it to a new service. This can be particularly challenging for mobile-only users, those with limited bandwidth, and in markets where people pay-as-they-go for data usage. The data portability tools built on the Data Transfer Project framework remove the need for local device storage and transfer–**enabling users to move their data directly between services**. The project makes this easier for companies as well by providing standard data formats and necessary adapters.
 
-<br>[Learn More about the Data Transfer Project in this video](https://www.youtube.com/watch?v=_mVhmDnhrWo&feature=youtu.be)
-
+<p style="text-align: center;font-size: 1rem">
+<br>[Learn More about the Data Transfer Project (video)](https://www.youtube.com/watch?v=_mVhmDnhrWo&feature=youtu.be)
+</p>
 </div>
 <div class="section" markdown="1">
 ## About the Data Transfer Initiative
