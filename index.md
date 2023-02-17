@@ -187,3 +187,11 @@ DTI’s unique blend of product and policy engagement requires unique leadership
 <!--End mc_embed_signup-->
 
 </div>
+
+<div class="section" markdown="1">
+## Additional Resources
+<div class="mustache">
+</div>
+ * [Comments to the Federal Trade Commission submitted by the Data Transfer Project](https://www.regulations.gov/document/FTC-2020-0062-0010) (2020)
+ * [Data Transfer Project Overview and Fundamentals](https://datatransferproject.dev/dtp-overview.pdf) (PDF) (2018)
+</div>
