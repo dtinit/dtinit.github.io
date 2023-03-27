@@ -1,3 +1,17 @@
+<!--Change These -->
+<meta property="og:title" content="Data Transfer Initiative">
+
+<meta property="og:image" content="DTImeta.jpg">
+<meta name="twitter:site" content="@DTinitiative">
+<meta property="og:description" content="Home page for the Data Transfer Initiative web presence">
+<meta property="og:site_name" content="dtinit.org">
+<meta name="twitter:image:alt" content="Capital letters D, T, and I with a line underneath, all in blue">
+
+<!-- Don't change these -->
+<meta property="og:url" content="https://DTinit.org/index.html">
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary_large_image">
+
 <div class="section" markdown="1">
 ## DTI: A New Era for DTP
 <div class="mustache">
