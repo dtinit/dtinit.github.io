@@ -6,6 +6,7 @@
 <meta property="og:description" content="Home page for the Data Transfer Initiative web presence">
 <meta property="og:site_name" content="dtinit.org">
 <meta name="twitter:image:alt" content="Capital letters D, T, and I with a line underneath, all in blue">
+<meta name="twitter:image" content="https://DTinit.org/DTImeta.jpg"> 
 
 <!-- Don't change these -->
 <meta property="og:url" content="https://DTinit.org/index.html">
