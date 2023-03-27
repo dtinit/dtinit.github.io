@@ -1,7 +1,7 @@
 <!--Change These -->
 <meta property="og:title" content="Data Transfer Initiative">
 
-<meta property="og:image" content="DTImeta.jpg">
+<meta property="og:image" content="https://DTinit.org/DTImeta.jpg">
 <meta name="twitter:site" content="@DTinitiative">
 <meta property="og:description" content="Home page for the Data Transfer Initiative web presence">
 <meta property="og:site_name" content="dtinit.org">
