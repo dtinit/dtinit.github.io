@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//macOS 12.6.3//EN
+N:Derakhshani ;Delara;;;
+FN:Delara Derakhshani 
+ORG:Data Transfer Initiative;
+EMAIL;type=INTERNET;type=WORK;type=pref:delara@dtinit.org
+TEL;type=CELL;type=VOICE;type=pref:7039012077
+URL;type=WORK;type=pref:http://dtinit.org/
+item1.URL:https://www.linkedin.com/in/delaraderakhshani/
+item1.X-ABLabel:LinkedIn
+END:VCARD

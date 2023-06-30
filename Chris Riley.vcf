@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Chris Riley
+N;CHARSET=UTF-8:Riley;Chris;;;
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:mchris@dtinit.org
+TEL;TYPE=WORK,VOICE:+1 510-629-0654
+ORG;CHARSET=UTF-8:Data Transfer Initiative 
+URL;type=WORK;CHARSET=UTF-8:dtinit.org
+X-SOCIALPROFILE;TYPE=twitter:https://www.twitter.com/mchrisriley
+REV:2023-02-03T22:04:30.305Z
+END:VCARD
