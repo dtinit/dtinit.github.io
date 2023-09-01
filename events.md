@@ -14,10 +14,10 @@ We’re also excited to announce our keynote speakers. Brian Fitzpatrick - found
 Our goal for this conference is to add to the existing fora helping connect the world’s federated service creators to each other, and to start a discussion about:
 
 <ol>
-<li>Usable - and sustainable - personal information mobility,
-<li>Community and administrative safety,
-<li>What do healthy approaches to mutualism and reciprocity look like, and
-<li>What guardrails around data integrity, liability and mutual support will be necessary for the federated internet to prosper and thrive.
+<li>Usable - and sustainable - personal information mobility,</li>
+<li>Community and administrative safety,</li>
+<li>What do healthy approaches to mutualism and reciprocity look like, and</li>
+<li>What guardrails around data integrity, liability and mutual support will be necessary for the federated internet to prosper and thrive.</li>
 </ol>
 
 We believe that there is a great deal of freedom and opportunity in inter-service migration, for users and developers alike, but the risks to any system that lets the worst people in the world dump any elaboration of “history” into any Fediverse site they’re inclined to ruin can’t be ignored.
