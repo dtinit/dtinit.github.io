@@ -9,7 +9,8 @@
 <meta name="twitter:image:alt" content="Capital letters D, T, and I with a line underneath, all in blue">
 <meta name="twitter:image" content="https://DTinit.org/DTImeta.jpg"> 
 <meta property="twitter:description" content="Home page for the Data Transfer Initiative, a nonprofit organization dedicated to promoting data transfers">
-
+<link href="//cdn-images.mailchimp.com/embedcode/classic-071822.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
 <!-- Don't change these -->
 <meta property="og:url" content="https://DTinit.org/index.html">
 <meta property="og:type" content="website" />
@@ -83,62 +84,7 @@ DTI’s unique blend of product and policy engagement requires unique leadership
 **The scope of data portability is as broad and diverse as user data itself**. We welcome you to join us in our efforts. To follow along with DTI's work going forward, please sign up below. 
 
 <!-- Begin Mailchimp Signup Form -->
-<link href="//cdn-images.mailchimp.com/embedcode/classic-071822.css" rel="stylesheet" type="text/css">
-<style type="text/css">
-	#mc_embed_signup {
-		background: #334ea1;
-		clear: left;
-		font-family: "Helvetica Neue LT", "Helvetica Neue", Helvetica, Arial, sans-serif;
-		font-weight: 300;
-		font-size: 1rem;
-		color: #fff;
-		width: 100%;
-		padding: 1rem;
-	}
 
-	#mc_embed_signup .helper_text {
-		background-color: #1b1c1d;
-	}
-
-	#mc_embed_signup .mc-field-group {
-		width: 100%;
-	}
-
-	#mc_embed_signup h2 {
-		margin: 1rem;
-		text-align: center;
-		font-weight: 700;
-		font-size: 1.5rem;
-		color: #fff;
-	}
-
-	#mc_embed_signup .names {
-		display: flex;
-		align-items: stretch;
-		gap: 10px;
-
-	}
-
-	#mc_embed_signup .button {
-		background: #fff;
-		color: #334ea1;
-		font-size: 1.5rem;
-		border-radius: 0px;
-	}
-
-	#mc_embed_signup .names .mcname {
-		flex-grow: 1;
-	}
-
-	.section #mc_embed_signup .mc-field-group input {
-		width: 100%;
-	}
-
-	#mc-embedded-subscribe {}
-
-	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
-  We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-</style>
 <div id="mc_embed_signup">
 	<form action="https://dtinit.us21.list-manage.com/subscribe/post?u=3ba10a090b97c2dc608fd780e&amp;id=1bb7a69318&amp;f_id=0012d8e1f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
 		<div id="mc_embed_signup_scroll">
@@ -147,23 +93,18 @@ DTI’s unique blend of product and policy engagement requires unique leadership
 			<div class="names">
 				<div class="mc-field-group mcname">
 					<input type="text" value="" name="FNAME" class="required" id="mce-FNAME" required placeholder="First Name*">
-					<span id="mce-FNAME-HELPERTEXT" class="helper_text"></span>
 				</div>
 				<div class="mc-field-group mcname"><input type="text" value="" name="LNAME" class="required" id="mce-LNAME" required placeholder="Last Name*">
-					<span id="mce-LNAME-HELPERTEXT" class="helper_text"></span>
 				</div>
 			</div>
 			<div class="mc-field-group">
 				<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" required placeholder="Email*">
-				<span id="mce-EMAIL-HELPERTEXT" class="helper_text"></span>
 			</div>
 			<div class="mc-field-group">
 				<input type="text" value="" name="MMERGE8" class="" id="mce-MMERGE8" placeholder="Organization">
-				<span id="mce-MMERGE8-HELPERTEXT" class="helper_text"></span>
 			</div>
 			<div class="mc-field-group">
 				<input type="text" value="" name="MMERGE6" class="" id="mce-MMERGE6" placeholder="Title">
-				<span id="mce-MMERGE6-HELPERTEXT" class="helper_text"></span>
 			</div>
 			<div id="mce-responses" class="clear">
 				<div class="response" id="mce-error-response" style="display:none"></div>
