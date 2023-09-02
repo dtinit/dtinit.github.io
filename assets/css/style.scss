@@ -30,15 +30,10 @@ h2 {
     letter-spacing: 0rem;
     color: #0e3ec1;
     display: block;
-    -webkit-margin-before: 1.33em;
-    -webkit-margin-after: 1.33em;
-    -webkit-margin-start: 0px;
-    -webkit-margin-end: 0px;
     letter-spacing: normal;
     word-spacing: normal;
     padding: 0px 0 10px 0;
-    margin-top: 0px;
-    margin-bottom: 0px;
+    margin: 0.7em 0;
     clear: both;
 }
 
@@ -255,6 +250,44 @@ header {
     margin: 2px 3px 2px 0;
     padding: 4px 3px;
   }
+}
+
+
+.posts, .post-container {
+  list-style-type: none;
+}
+
+.post-title {
+  margin-bottom: 10px;
+}
+
+ul.posts {
+  margin-left: 0px;
+}
+
+.calendar-icon:before { 
+  //# TODO: Put a calendar icon in here
+  content: ''; 
+}
+
+.post-date {
+  color: #959595;
+  font-size: 0.8rem;
+  margin-right: 10px;
+}
+
+.post-tags {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+.post-tags li {
+  float: left;
+  background-color: #e3e3e3;
+  padding: 5px 20px;
+  border-radius: 2px;
+  margin-right: 10px;
+  font-size: 0.8rem;
 }
 
 // MailChimp embedded signup form styles

@@ -1,7 +1,6 @@
 <div class="section" markdown="1">
 ## The Federated Data Transfer Miniconference 
-<div class="mustache">
-</div>
+<div class="mustache"></div>
 
 On September 27th and 28th, the Data Transfer Initiative, will be hosting our first online conference for social software developers, the Federated Data Transfer Miniconference.  
 
@@ -13,12 +12,11 @@ We’re also excited to announce our keynote speakers. Brian Fitzpatrick - found
 
 Our goal for this conference is to add to the existing fora helping connect the world’s federated service creators to each other, and to start a discussion about:
 
-<ol>
-<li>Usable - and sustainable - personal information mobility,</li>
-<li>Community and administrative safety,</li>
-<li>What do healthy approaches to mutualism and reciprocity look like, and</li>
-<li>What guardrails around data integrity, liability and mutual support will be necessary for the federated internet to prosper and thrive.</li>
-</ol>
+1. Usable - and sustainable - personal information mobility,
+1. Community and administrative safety,
+1. What do healthy approaches to mutualism and reciprocity look like, and
+1. What guardrails around data integrity, liability and mutual support will be necessary for the federated internet to prosper and thrive.   
+
 
 We believe that there is a great deal of freedom and opportunity in inter-service migration, for users and developers alike, but the risks to any system that lets the worst people in the world dump any elaboration of “history” into any Fediverse site they’re inclined to ruin can’t be ignored.
 
