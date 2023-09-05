@@ -1,0 +1,24 @@
+---
+layout: default
+---
+<div class="post-meta">
+  <div>{{page.author}}</div>
+  <div class="post-date">
+    <i class="calendar-icon"></i>
+    {{ page.date | date: "%b %-d, %Y" }}
+  </div>
+  {%- if page.tags.size > 0-%}
+
+    <div>  
+      <ul class="post-tags">
+        {%- for tag in page.tags -%}
+          <li>{{ tag }}</li>
+        {%- endfor -%}
+      </ul>
+    </div>
+  {%- endif -%}
+</div>
+
+<br/>
+{{content}}
+
