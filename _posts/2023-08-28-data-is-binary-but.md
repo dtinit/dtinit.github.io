@@ -2,7 +2,7 @@
 layout: post
 title:  Data is binary, but that doesn’t make portability simple.
 tags: challenges
-author: Chris M Riley
+author: Chris Riley
 post-excerpt: "Data sometimes feels like the simplest thing in the world. It’s just a bunch of 1’s and 0’s, right?
 Often we treat all data the same. For portability, however, we cannot."
 ---
