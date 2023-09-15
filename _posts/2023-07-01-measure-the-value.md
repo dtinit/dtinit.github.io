@@ -2,7 +2,7 @@
 layout: post
 title:  It's hard to measure the value of data (transfers).
 tags: metrics
-author: Chris M Riley
+author: Chris Riley
 post-excerpt: "Data’s fundamental characteristics, including its non-rivalrous nature and its ability to capture key learnings about the past and present – and even, as we see clearly through today’s explosion of large language models, predict the future – allow for an incredible range of valuable use cases, including through the combination of data across sources and across users. But some of the most valuable data is personal data, in which people have privacy rights and (in many countries) robust legal protections. "
 ---
 # It's hard to measure the value of data (transfers).
