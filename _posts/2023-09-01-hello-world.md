@@ -1,6 +1,5 @@
 ---
-layout: post
-title:  "Publishing the newsletter as a blog"
+title:  Publishing the newsletter as a blog
 tags: admin
 author: Lisa Dusseault
 post-excerpt: Our newsletter has been going out by email without our own permanent page and link, but here we are with a blog section at dtinit.org now.

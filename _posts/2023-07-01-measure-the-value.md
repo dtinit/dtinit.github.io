@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  It's hard to measure the value of data (transfers).
 tags: metrics
 author: Chris Riley
@@ -30,5 +29,3 @@ What We’re Reading
 * [Europe’s agenda for… not ‘the metaverse’](https://www.politico.com/newsletters/digital-future-daily/2023/07/11/europes-agenda-for-not-the-metaverse-00105730) - Politico 
 
 * [Data portability and interoperability](https://www.brookings.edu/articles/data-portability-and-interoperability-a-primer-on-two-policy-tools-for-regulation-of-digitized-industries-2/): A primer on two policy tools for regulation of digitized industries - Brookings 
-
-

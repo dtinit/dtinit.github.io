@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  Data portability serves multiple goals
 tags: metrics
 author: Lisa Dusseault
@@ -65,4 +64,3 @@ It can be hard to define goals and metrics with more nuance and less black and w
 
 
 Bottom line, focusing more on user empowerment as a goal when discussing portability policy and architecture, rather than an overly narrow competition-only lens, is more likely to help achieve the best outcomes, not to mention convince others that this work is worth doing.
-

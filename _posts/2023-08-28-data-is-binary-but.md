@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  Data is binary, but that doesn’t make portability simple.
 tags: challenges
 author: Chris Riley

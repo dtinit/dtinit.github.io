@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  Law isn’t code. The vote is just the beginning.
 tags: policy
 author: Chris Riley
