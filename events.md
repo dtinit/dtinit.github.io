@@ -17,8 +17,42 @@ Our goal for this conference is to add to the existing fora helping connect the 
 1. What do healthy approaches to mutualism and reciprocity look like, and
 1. What guardrails around data integrity, liability and mutual support will be necessary for the federated internet to prosper and thrive.   
 
-
 We believe that there is a great deal of freedom and opportunity in inter-service migration, for users and developers alike, but the risks to any system that lets the worst people in the world dump any elaboration of “history” into any Fediverse site they’re inclined to ruin can’t be ignored.
+
+## The Agenda!
+
+Day 1: Risks, Threats, Bad Actors and Attack Surfaces.
+
+We expect Day 1 to be kind of a downer, in truth, but these are not just critically important discussions to have but crucial scenarios to plan for. The prospect of social data migration is one of uprooting data from one person's
+
+1. Opening keynote from Brian Fitzpatrick (20-30 mins)
+1. A few brief administrative remarks on the process, questions, notetaking and agenda (5 mins max)
+1. Breakout Discussions:
+   * The Purpose Of A System Is What It Does: What Do We Mean, What Do We Want, And Who Is "We"? (30 mins)
+   * Bright Lines And Guardrails: Moderation Standards, Moderator Health And Sustainability (30 mins)
+   * Break (15 mins)
+   * Lawyers, Guns And Money: Real-Life Consequences, Fears And Responsiblities Of Instance Ownership (30 mins)
+   * Community Safety, Norms And Expectations Around Data Migration (30 mins)
+1. Concluding remarks, Q&A and meeting note consolidation.
+
+Day 2: Optimism, Collaboration And Integration
+
+1. Opening keynote from Lisa Dusseault (20-30 mins)
+1. Brief administrative remarks again, questions, notetaking and agenda (5-10 mins)
+1. Breakout Discussions: Day 2's agenda will be informed by our Day 1 conversations, with a focus on what we have, what we value, what is possible and how we can get there together. Expect the same structure as Day 1: two 30 minute breakout sessions, followed by a 15 minute break and two more sessions.
+1. Concluding remarks, Q&A and meeting note consolidation.
+
+After these meetings a draft report on the conference will be proposed, and - following a confirmation check with the conference participants  - will be published on the DTInit.org site. 
+
+## Conference Participation Guidelines And Expected Conduct
+
+In order to ensure that this is a safe, welcoming and participatory event, we are adopting Mozilla's Community Participation Guidelines for this conference, with modest caveats around process.
+
+https://www.mozilla.org/about/governance/policies/participation/
+
+In particular, please review the section on behavior that will not be tolerated, including threats, personal attacks, unwelcome attention or disruptive behavior; the reporting contact for this event is <a href="mailto:mhoye@dtinit.org">Mike Hoye</a>. 
+
+The caveat is this: while Mozilla's CPG outlines an investigation and appeals process, we don't have the resources to offer that process here. Because this event will be quite short, the Data Transfer Initiative is a small organization, the conference will be relatively brief, and the bar for basic human decency so easy to meet, the reporting and investigation for this conference will consist of a judgement call from a moderator (mhoye), possibly followed by the offender's summary expulsion from the conference for its duration. 
 
 If you have questions, please email them to <a href="mailto:mhoye@dtinit.org">Mike Hoye</a>; we'll have more information here as we get closer to the day.
 </div>
