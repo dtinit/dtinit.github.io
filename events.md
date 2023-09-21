@@ -39,20 +39,20 @@ Day 2: Optimism, Collaboration And Integration
 
 1. Opening keynote from Lisa Dusseault (20-30 mins)
 1. Brief administrative remarks again, questions, notetaking and agenda (5-10 mins)
-1. Breakout Discussions: Day 2's agenda will be informed by our Day 1 conversations, with a focus on what we have, what we value, what is possible and how we can get there together.
+1. Breakout Discussions: Day 2's agenda will be informed by our Day 1 conversations, with a focus on what we have, what we value, what is possible and how we can get there together. Expect the same structure as Day 1: two 30 minute breakout sessions, followed by a 15 minute break and two more sessions.
 1. Concluding remarks, Q&A and meeting note consolidation.
 
 After these meetings a draft report on the conference will be proposed, and - following a confirmation check with the conference participants  - will be published on the DTInit.org site. 
 
 ## Conference Participation Guidelines And Expected Conduct
 
-In order to ensure that this is a safe, welcoming and participatory event, we are adopting Mozilla's Community Participation Guidelines for this conference, with minor caveats.
+In order to ensure that this is a safe, welcoming and participatory event, we are adopting Mozilla's Community Participation Guidelines for this conference, with modest caveats around process.
 
 https://www.mozilla.org/about/governance/policies/participation/
 
 In particular, please review the section on behavior that will not be tolerated, including threats, personal attacks, unwelcome attention or disruptive behavior; the reporting contact for this event is <a href="mailto:mhoye@dtinit.org">Mike Hoye</a>. 
 
-The minor caveat is this: while the Mozilla CPG outlines an investigation and appeals process, we don't have the resources to offer that process here. Because this event will be quite short, the Data Transfer Initiative is a small organization, the conference will be relatively brief, and the bar for basic human decency so easy to meet, the reporting and investigation for this conference will consist of a judgement call from a moderator (mhoye), followed by the summary expulsion of  summary expulsion from the conference for its duration. 
+The caveat is this: while Mozilla's CPG outlines an investigation and appeals process, we don't have the resources to offer that process here. Because this event will be quite short, the Data Transfer Initiative is a small organization, the conference will be relatively brief, and the bar for basic human decency so easy to meet, the reporting and investigation for this conference will consist of a judgement call from a moderator (mhoye), possibly followed by the offender's summary expulsion from the conference for its duration. 
 
 If you have questions, please email them to <a href="mailto:mhoye@dtinit.org">Mike Hoye</a>; we'll have more information here as we get closer to the day.
 </div>
