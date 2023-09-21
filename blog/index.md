@@ -13,7 +13,7 @@
           {%- if post.tags.size > 0-%}
           <ul class="post-tags">
             {%- for tag in post.tags -%}
-            <li><a href="/blog/tags#{{tag}}">{{ tag }}</a></li>
+            <li><a href="tags#{{tag}}">{{ tag }}</a></li>
             {%- endfor -%}
           </ul>
           {%- endif -%}

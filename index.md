@@ -10,7 +10,6 @@
 <meta name="twitter:image" content="https://DTinit.org/DTImeta.jpg"> 
 <meta property="twitter:description" content="Home page for the Data Transfer Initiative, a nonprofit organization dedicated to promoting data transfers">
 <link href="//cdn-images.mailchimp.com/embedcode/classic-071822.css" rel="stylesheet" type="text/css">
-<link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
 <!-- Don't change these -->
 <meta property="og:url" content="https://DTinit.org/index.html">
 <meta property="og:type" content="website" />
