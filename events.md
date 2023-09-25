@@ -2,7 +2,7 @@
 ## The Federated Data Transfer Miniconference 
 <div class="mustache"></div>
 
-On September 27th and 28th, the Data Transfer Initiative, will be hosting our first online conference for social software developers, the Federated Data Transfer Miniconference.  
+On September 27th and 28th - (08:00 Pacific, 11:00 Eastern, 15:00 UTC) - the Data Transfer Initiative, will be hosting our first online conference for social software developers, the Federated Data Transfer Miniconference.  
 
 The miniconference is remote-only, and we’ll be hosting it on Jitsi - https://jitsi.org/ - with the technical details to come. 
 
