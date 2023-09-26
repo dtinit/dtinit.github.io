@@ -2,7 +2,7 @@
 <ul class="posts">
   {% for post in site.posts %}
     <li>
-        <a class="post-link" href="{{ post.url | relative_url }}">
+        <a href="{{ post.url | relative_url }}">
           <h2 class="post-title">{{ post.title | escape }}</h2>
         </a>
         <div class="post-meta">
