@@ -64,10 +64,6 @@ p, li {
 .main-content :where(a) {
   font-size: 0.87rem;
   letter-spacing: 0.03rem;
-  &:hover, :focus {
-    font-size: 0.87rem;
-    letter-spacing: 0.03rem;
-  }
 }
 
 .link__button {
