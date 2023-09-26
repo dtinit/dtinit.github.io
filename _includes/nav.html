@@ -1,19 +1,40 @@
 <div class="header-wrapper">
-  <div id="logo-bar" style="padding-top: 50px;">
-      <a href="{{site.baseurl}}/" class="logo">
-<div class="logo-text" style="
-	font-size: 2rem;
-"> Data Transfer Initiative</div>
-      </a>
-  </div>
+  <a href="{{site.baseurl}}/" class="logo__text">
+    Data Transfer Initiative
+  </a>
 
-
-  <ul id='nav_list'>
-    <li class='nav_item'><a href="{{site.baseurl}}/" class='{% if "/" == page.url %}active{% endif %}'>About</a></li>
-    <li class='nav_item'><a href="{{site.baseurl}}/blog" class='{% if "/blog" == page.url %}active{% endif %}'>Blog</a></li>
-    <li class='nav_item'><a href="{{site.baseurl}}/project" class='{% if "/project" == page.url %}active{% endif %}'>Project</a></li>
-    <li class='nav_item'><a href="{{site.baseurl}}/documentation" class='{% if "/documentation" == page.url %}active{% endif %}'>Documentation</a></li>
-    <li class='nav_item'><a href="{{site.baseurl}}/events" class='{% if "/events" == page.url %}active{% endif %}'>Events</a></li>
-    <li class='nav_item'><a href="{{site.baseurl}}/faq" class='{% if "/faq" == page.url %}active{% endif %}'>FAQ</a></li>
-  </ul>
+  <nav>
+    <ul class='nav__list'>
+      <li class='nav__item'>
+        <a href="{{site.baseurl}}/" class='{% if "/" == page.url %}active{% endif %}'>
+          About
+        </a>
+      </li>
+      <li class='nav__item'>
+        <a href="{{site.baseurl}}/blog" class='{% if "/blog" == page.url %}active{% endif %}'>
+          Blog
+        </a>
+      </li>
+      <li class='nav__item'>
+        <a href="{{site.baseurl}}/project" class='{% if "/project" == page.url %}active{% endif %}'>
+          Project
+        </a>
+      </li>
+      <li class='nav__item'>
+        <a href="{{site.baseurl}}/documentation" class='{% if "/documentation" == page.url %}active{% endif %}'>
+          Documentation
+        </a>
+      </li>
+      <li class='nav__item'>
+        <a href="{{site.baseurl}}/events" class='{% if "/events" == page.url %}active{% endif %}'>
+          Events
+        </a>
+      </li>
+      <li class='nav__item'>
+        <a href="{{site.baseurl}}/faq" class='{% if "/faq" == page.url %}active{% endif %}'>
+          FAQ
+        </a>
+      </li>
+    </ul>
+  </nav>
 </div>

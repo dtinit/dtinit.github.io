@@ -9,23 +9,23 @@
 </script>
 
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: " en-US " }}">
+<html lang="{{ site.lang | default: "en-US" }}">
 
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="theme-color" content="#157878">
-  <link href="favicon.ico" rel="shortcut icon" type="image/x-icon">
+  <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon">
   <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
 </head>
+
 <body>
   <header>
     {% include nav.html %}
   </header>
 
-  <section class="main-content">
+  <main class="main-content">
     {{ content }}
-  </section>
+  </main>
 
   {% if site.google_analytics %}
   <script type="text/javascript">
