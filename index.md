@@ -9,7 +9,6 @@
 <meta name="twitter:image:alt" content="Capital letters D, T, and I with a line underneath, all in blue">
 <meta name="twitter:image" content="https://DTinit.org/DTImeta.jpg"> 
 <meta property="twitter:description" content="Home page for the Data Transfer Initiative, a nonprofit organization dedicated to promoting data transfers">
-<link href="//cdn-images.mailchimp.com/embedcode/classic-071822.css" rel="stylesheet" type="text/css">
 <!-- Don't change these -->
 <meta property="og:url" content="https://DTinit.org/index.html">
 <meta property="og:type" content="website" />
@@ -23,19 +22,10 @@ The Data Transfer Initiative is a nonprofit organization **dedicated to the miss
 </div>
 
 <br><!-- Scroll Down Button -->
-<a href="#mc_embed_signup_scroll" style="
-	background: #0e3ec1;
-	color: #fff;
-	padding: 10px;
-	display: table;
-	width: auto;
-	font-size: 1.2rem;
-	margin: auto;
-	text-align: center;
-">Keep Up with the Data Transfer Initiative</a>
+<a class="link__button" href="#mc_embed_signup_scroll">
+	Keep Up with the Data Transfer Initiative
+</a>
 <!-- End Scroll Down Button -->
-
-<!-- <br><a href='#mc_embed_signup_scroll'>Keep Up with the Data Transfer Initiative</a> -->
 
 <div class="section" markdown="1">
 ## In the Beginning: The Data Transfer Project
@@ -81,69 +71,7 @@ DTI’s unique blend of product and policy engagement requires unique leadership
 </div>
 
 **The scope of data portability is as broad and diverse as user data itself**. We welcome you to join us in our efforts. To follow along with DTI's work going forward, please sign up below. 
-
-<!-- Begin Mailchimp Signup Form -->
-
-<div id="mc_embed_signup">
-	<form action="https://dtinit.us21.list-manage.com/subscribe/post?u=3ba10a090b97c2dc608fd780e&amp;id=1bb7a69318&amp;f_id=0012d8e1f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-		<div id="mc_embed_signup_scroll">
-			<h2>Keep up with the Data Transfer Initiative</h2>
-			<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
-			<div class="names">
-				<div class="mc-field-group mcname">
-					<input type="text" value="" name="FNAME" class="required" id="mce-FNAME" required placeholder="First Name*">
-				</div>
-				<div class="mc-field-group mcname"><input type="text" value="" name="LNAME" class="required" id="mce-LNAME" required placeholder="Last Name*">
-				</div>
-			</div>
-			<div class="mc-field-group">
-				<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" required placeholder="Email*">
-			</div>
-			<div class="mc-field-group">
-				<input type="text" value="" name="MMERGE8" class="" id="mce-MMERGE8" placeholder="Organization">
-			</div>
-			<div class="mc-field-group">
-				<input type="text" value="" name="MMERGE6" class="" id="mce-MMERGE6" placeholder="Title">
-			</div>
-			<div id="mce-responses" class="clear">
-				<div class="response" id="mce-error-response" style="display:none"></div>
-				<div class="response" id="mce-success-response" style="display:none"></div>
-			</div> <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-			<div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_3ba10a090b97c2dc608fd780e_1bb7a69318" tabindex="-1" value=""></div>
-			<div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-		</div>
-	</form>
-</div>
-<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script>
-<script type='text/javascript'>
-	(function($) {
-		window.fnames = new Array();
-		window.ftypes = new Array();
-		fnames[0] = 'EMAIL';
-		ftypes[0] = 'email';
-		fnames[1] = 'FNAME';
-		ftypes[1] = 'text';
-		fnames[2] = 'LNAME';
-		ftypes[2] = 'text';
-		fnames[3] = 'ADDRESS';
-		ftypes[3] = 'address';
-		fnames[4] = 'PHONE';
-		ftypes[4] = 'phone';
-		fnames[5] = 'BIRTHDAY';
-		ftypes[5] = 'birthday';
-		fnames[6] = 'MMERGE6';
-		ftypes[6] = 'text';
-		fnames[7] = 'MMERGE7';
-		ftypes[7] = 'text';
-		fnames[8] = 'MMERGE8';
-		ftypes[8] = 'text';
-		fnames[9] = 'MMERGE9';
-		ftypes[9] = 'text';
-	}(jQuery));
-	var $mcj = jQuery.noConflict(true);
-</script>
-<!--End mc_embed_signup-->
-
+	{% include newsletter-signup.html %}
 </div>
 
 <div class="section" markdown="1">

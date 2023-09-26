@@ -5,7 +5,10 @@
 
 To get a more in-depth understanding of the [data-transfer-project](https://github.com/google/data-transfer-project) work, its fundamentals and the details involved, please download [“Data Transfer Project Overview and Fundamentals”]({{site.baseurl}}/dtp-overview.pdf).
 
-<a href="{{site.baseurl}}/dtp-overview.pdf" class="download-link" ><img class="download-image" src="{{site.baseurl}}/images/download.png"></a>
+{% comment %} TODO: Needs to be replaced with accessible text {% endcomment %}
+<a href="{{site.baseurl}}/dtp-overview.pdf">
+  <img src="{{site.baseurl}}/images/download.png">
+</a>
 </div>
 
 <div class="section" markdown="1">
