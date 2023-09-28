@@ -1,0 +1,10 @@
+- name: About
+  link: /
+- name: Blog
+  link: /blog/
+- name: Documentation
+  link: /documentation
+- name: Events
+  link: /events
+- name: FAQ
+  link: /faq

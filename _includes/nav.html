@@ -4,32 +4,14 @@
   </a>
 
   <nav>
-    <ul class='nav__list'>
-      <li class='nav__item'>
-        <a href="{{site.baseurl}}/" class='{% if "/" == page.url %}active{% endif %}'>
-          About
-        </a>
-      </li>
-      <li class='nav__item'>
-        <a href="{{site.baseurl}}/blog" class='{% if "/blog" == page.url %}active{% endif %}'>
-          Blog
-        </a>
-      </li>
-      <li class='nav__item'>
-        <a href="{{site.baseurl}}/documentation" class='{% if "/documentation" == page.url %}active{% endif %}'>
-          Documents
-        </a>
-      </li>
-      <li class='nav__item'>
-        <a href="{{site.baseurl}}/events" class='{% if "/events" == page.url %}active{% endif %}'>
-          Events
-        </a>
-      </li>
-      <li class='nav__item'>
-        <a href="{{site.baseurl}}/faq" class='{% if "/faq" == page.url %}active{% endif %}'>
-          FAQ
-        </a>
-      </li>
+    <ul class="nav__list">
+      {% for item in site.data.navigation %}
+        <li class="nav__item">
+          <a href="{{item.link}}" {% if item.link == page.url %}class="active"{% endif %}>
+            {{ item.name }}
+          </a>
+        </li>
+      {% endfor %}
     </ul>
   </nav>
 </div>
