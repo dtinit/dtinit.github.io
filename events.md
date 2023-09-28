@@ -1,3 +1,5 @@
+# Events
+
 <div class="section" markdown="1">
 ## The Federated Data Transfer Miniconference 
 <div class="mustache"></div>
@@ -56,4 +58,3 @@ The caveat is this: while Mozilla's CPG outlines an investigation and appeals pr
 
 If you have questions, please email them to <a href="mailto:mhoye@dtinit.org">Mike Hoye</a>; we'll have more information here as we get closer to the day.
 </div>
-
