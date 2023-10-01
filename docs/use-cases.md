@@ -19,4 +19,4 @@ The innovation in each of these examples lies behind the scenes: Data Transfer P
 
 The illustration below demonstrates what an interaction might look like. In this case, the customer wants to join a new Provider (Microsoft) and is requesting their files from their existing Provider (Google):
 
-<img src="./images/dashboard-flow.png" />
+<img src="/images/dashboard-flow.png" />

@@ -1,3 +1,17 @@
+
+<div class="section" markdown="1">
+## Q: What are some use cases for data portability?
+<div class="mustache">
+</div>
+
+There are many use cases for users porting data directly between services, some we know about today, and some we have yet to discover. A couple of examples of ones we know users want today are:
+
+  * Trying out a new service
+  * Leaving a service
+  * Creating online backups for bulk online personal data
+
+[Learn More]({{site.baseurl}}/docs/use-cases){: .learn-more}  
+
 <div class="section" markdown="1">
 ## Q: What kinds of data can be transferred through DTP?
 <div class="mustache">
