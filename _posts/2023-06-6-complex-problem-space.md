@@ -1,5 +1,5 @@
 ---
-title: Communications, information, tools, and pathways
+title: The complex problem space of data portability
 tags: policy
 author: Chris Riley
 post-excerpt: "Articulating the landscape of portability-related problems as classic data portability, protocol interoperability, bulk data transfers, and continuous and realtime portability."
