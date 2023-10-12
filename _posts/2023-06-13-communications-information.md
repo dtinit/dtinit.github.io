@@ -1,6 +1,6 @@
 ---
 title: Communications, information, tools, and pathways
-tags: policy
+tags: communications
 author: Chris Riley
 post-excerpt: "Thoughts on how to communicate DTI's work effectively, and how the multiplicity of channels landscape parallels data portability."
 ---
