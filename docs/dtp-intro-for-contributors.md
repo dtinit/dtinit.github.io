@@ -79,7 +79,7 @@ The DTP server itself runs a Jetty Servlet, and the project comes with Kubernete
 
 This section may be needed by frontend developers who are building access to DTP into Web pages, or other developers triggering DTP jobs from components such as automated scripts.
 
-Note that DTP has a demo Web site that illustrates how to trigger DTP jobs, but this Web site [add link] is not run by anybody in production - it is used for testing, development and to illustrate use of DTP.
+Note that DTP has a demo Web site that illustrates how to trigger DTP jobs, but [this Web site](https://github.com/google/data-transfer-project/tree/master/distributions/demo-server) is not run by anybody in production - it is used for testing, development and to illustrate use of DTP.
 
 The endpoints are defined using a [Jersey TransportBinder](https://github.com/google/data-transfer-project/blob/master/extensions/transport/portability-transport-jettyrest/src/main/java/org/datatransferproject/transport/jettyrest/rest/JerseyTransportBinder.java), including endpoints to
 * create transfer job
@@ -95,7 +95,7 @@ The endpoints are defined using a [Jersey TransportBinder](https://github.com/go
 
 **DTP maintainer community** -- Ask DTI about joining the DTP maintainer chat channels.  Once an implementation is seriously underway, DTP participants may meet regularly to solve problems and keep changes coordinated, until the new extension or any refactoring required begins to settle down and the project moves into deployment phases.  Note that DTP maintainers sign a Contributor License Agreement - this is what allows each contributor to legally run all the code in DTP without license concerns.
 
-**DTI's role** -- The Data Transfer Initiative is a non-profit supported by corporate members.  While DTI facilitates and supports work on DTP, especially for new folks getting started, membership in DTI is not a requirement to participate in or run DTP or have access to DTP communities.
+**DTI's role** -- The Data Transfer Initiative is an independent non-profit working with and supported by corporate partners.  While DTI facilitates and supports work on DTP, especially for new folks getting started, partnership in DTI is not a requirement to participate in or run DTP or have access to DTP communities.
 
 
 
