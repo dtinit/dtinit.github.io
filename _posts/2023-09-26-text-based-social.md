@@ -43,7 +43,7 @@ What happens then? If a server shuts down, all the posts published on that serve
 
 For a lot of online activity, that might be ok. The URLs of most social media posts are not linked to by news articles or other outside pieces.** But the scholarly references, the posts cited by blog posts and academic papers?** The keen observations, the thoughtful commentary, those bits of diamond mixed into the oceans of social media coal? They go away, and their Web links point to servers that get shut down; they are gone, and can’t be found again.
 
-Some general purpose resources have developed over the years to address a problem known as “[link rot](https://en.wikipedia.org/wiki/Link_rot#:~:text=Link%20rot%20(also%20called%20link,address%20or%20becoming%20permanently%20unavailable.)”; [Perma.cc](https://perma.cc/) and the [Internet Archive](https://archive.org/) are classic examples. While these add enormous value, they are archival tools, and aren’t designed to make the content available through another social media service. The data survives, but the engagement and dialogue do not. 
+Some general purpose resources have developed over the years to address a problem known as “[link rot](https://en.wikipedia.org/wiki/Link_rot)”; [Perma.cc](https://perma.cc/) and the [Internet Archive](https://archive.org/) are classic examples. While these add enormous value, they are archival tools, and aren’t designed to make the content available through another social media service. The data survives, but the engagement and dialogue do not. 
 
 ## We can rebuild them; we have the technology.
 
