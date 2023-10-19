@@ -1,9 +1,7 @@
 # FAQ
 
-<div class="section" markdown="1">
+<article class="section" markdown="1">
 ## Q: What are some use cases for data portability?
-<div class="mustache">
-</div>
 
 There are many use cases for users porting data directly between services, some we know about today, and some we have yet to discover. A couple of examples of ones we know users want today are:
 
@@ -11,39 +9,33 @@ There are many use cases for users porting data directly between services, some 
   * Leaving a service
   * Creating online backups for bulk online personal data
 
-[Learn More]({{site.baseurl}}/docs/use-cases){: .learn-more}  
+[Learn more about use cases]({{site.baseurl}}/docs/use-cases)
+</article>
 
-<div class="section" markdown="1">
+<article class="section" markdown="1">
 ## Q: What kinds of data can be transferred through DTP?
-<div class="mustache">
-</div>
 
 The terms of each organization’s API determine the data types that can be transferred between providers. This ordinarily includes data stored in a specific users’s account, but may not be limited to that data, depending on the organizations involved.  Additional or substitute functionality outside of the Data Transfer Project would be necessary for data transfers requiring particularly high integrity (e.g. health records).
 
-</div>
+</article>
 
-<div class="section" markdown="1">
+<article class="section" markdown="1">
 ## Q: Who is responsible for protecting data before, during, and after the transfer takes place?
-<div class="mustache">
-</div>
 
 Each organization is responsible for securing and protecting the data stored on its platform, regardless of whether it is supporting a transfer out or receiving a transfer from another organization. Generally, this includes established practices in securing access, authorization, and authentication to public APIs or other mechanisms. Additionally, this includes writing and enforcing policies governing access to that information through an API or other mechanism. Those specific terms govern the conditions of transferring data into or out of each provider. Additionally, there are baseline security requirements detailed in the White Paper, such as  encryption in transit, that should always be adhered to.
 
-</div>
+</article>
 
-<div class="section" markdown="1">
+<article class="section" markdown="1">
 ## Q: When data is transferred, do contributors to DTP or partners of the Data Transfer Initiative all get a copy?
-<div class="mustache">
-</div>
 
 No, when a user initiates a data transfer, their encrypted information flows from one provider directly to another that is chosen by the user. Only the source service, the destination service (and hosting provider, if it is not the source or destination service) have access to the data.  No other contributors or 3rd parties have access to a copy of the data as part of the transfer.
 
-</div>
+</article>
 
-<div class="section" markdown="1">
+<article class="section" markdown="1">
 ## Q: Are there common standards by which contributors to the Data Transfer Project should abide in performing transfers?
-<div class="mustache">
-</div>
+
 As described in the white paper, DTP adheres to the following principles:
 
 We believe the following principles around interoperability and portability of data promote user choice and encourage responsible product development, maximizing the benefits to users and mitigating the potential drawbacks.
@@ -54,4 +46,4 @@ We believe the following principles around interoperability and portability of d
   * **Focus on user’s data**: Portability efforts should emphasize data and use cases that support the individual user. Focusing on content a user creates, imports, approves for collection, or has control over reduces the friction for users who want to switch among products or services or use their data in novel ways, because the data they export is meaningful to them. Portability should not extend to data that may negatively impact the privacy of other users, or data collected to improve a service, including data generated to improve system performance or train models that may be commercially sensitive or proprietary. This approach encourages companies to continue to support data portability, knowing that their proprietary technologies are not threatened by data portability requirements. For a detailed taxonomy of such data, see ISO/IEC 19944:2017.
   * **Respect Everyone**: We live in a collaborative world: people connect and share on social media, they edit docs together, and they comment on videos, pictures and more. Data portability tools should focus only on providing data that is directly tied to the person requesting the transfer. We think this strikes the right balance between portability, privacy, and benefits of trying a new service.
 
-</div>
+</article>

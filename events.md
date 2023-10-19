@@ -1,8 +1,7 @@
 # Events
 
-<div class="section" markdown="1">
+<article class="section" markdown="1">
 ## The Federated Data Transfer Miniconference 
-<div class="mustache"></div>
 
 On September 27th and 28th - (08:00 Pacific, 11:00 Eastern, 15:00 UTC) - the Data Transfer Initiative, will be hosting our first online conference for social software developers, the Federated Data Transfer Miniconference.  
 
@@ -21,7 +20,7 @@ Our goal for this conference is to add to the existing fora helping connect the 
 
 We believe that there is a great deal of freedom and opportunity in inter-service migration, for users and developers alike, but the risks to any system that lets the worst people in the world dump any elaboration of “history” into any Fediverse site they’re inclined to ruin can’t be ignored.
 
-## The Agenda!
+### The Agenda!
 
 Day 1: Risks, Threats, Bad Actors and Attack Surfaces.
 
@@ -46,7 +45,7 @@ Day 2: Optimism, Collaboration And Integration
 
 After these meetings a draft report on the conference will be proposed, and - following a confirmation check with the conference participants  - will be published on the DTInit.org site. 
 
-## Conference Participation Guidelines And Expected Conduct
+### Conference Participation Guidelines And Expected Conduct
 
 In order to ensure that this is a safe, welcoming and participatory event, we are adopting Mozilla's Community Participation Guidelines for this conference, with modest caveats around process.
 
@@ -57,4 +56,4 @@ In particular, please review the section on behavior that will not be tolerated,
 The caveat is this: while Mozilla's CPG outlines an investigation and appeals process, we don't have the resources to offer that process here. Because this event will be quite short, the Data Transfer Initiative is a small organization, the conference will be relatively brief, and the bar for basic human decency so easy to meet, the reporting and investigation for this conference will consist of a judgement call from a moderator (mhoye), possibly followed by the offender's summary expulsion from the conference for its duration. 
 
 If you have questions, please email them to <a href="mailto:mhoye@dtinit.org">Mike Hoye</a>; we'll have more information here as we get closer to the day.
-</div>
+</article>

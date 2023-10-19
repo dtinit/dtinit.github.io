@@ -4,10 +4,7 @@ tags: social
 author: Chris Riley
 post-excerpt: "At DTI, we’re starting to dig into portability solutions for something we’ve been calling “text-based social media” – think Mastodon, Threads, Bluesky, and the-service-formerly-known-as-Twitter. In a social space, the problems are both technical and social problems, and the solutions must be as well."
 ---
-<div class="section" markdown="1">
-## Building a more portable future for text-based social
-<div class="mustache">
-</div>
+# Building a more portable future for text-based social
 
 At DTI, we’re starting to dig into portability solutions for something we’ve been calling “text-based social media” – think Mastodon, Threads, Bluesky, and the-service-formerly-known-as-Twitter. In a social space, the problems are both technical and social problems, and the solutions must be as well.
 

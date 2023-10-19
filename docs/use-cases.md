@@ -1,10 +1,5 @@
 # Data Transfer Project Use Cases
 
-<div class="section" markdown="1">
-## Data Transfer Project Use Cases
-<div class="mustache">
-</div>
-
 Individuals have many reasons to transfer data, but we want to highlight a few examples that demonstrate the additional value of service-to-service portability.
 
  - A user discovers a new photo printing service offering beautiful and innovative photo book formats, but their photos are stored in their social media account. With the Data Transfer Project, they could visit a website or app offered by the photo printing service and initiate a transfer directly from their social media platform to the photo book service.

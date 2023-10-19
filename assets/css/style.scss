@@ -10,6 +10,8 @@ html {
   --dark-blue: #053975;
   --primary-color: #0e3ec1;
 
+  --header-color-primary: #000;
+  --header-color-secondary: var(--primary-color, #0e3ec1);
   --link-color: #0e3ec1; // TODO: This should be different than the primary color
   --link-focus-color: var(--dark-blue, #053975);
   --text-color: var(--dark-gray, #657786);
@@ -27,21 +29,37 @@ header {
   padding-top: 50px;
 }
 
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-weight: 500;
+}
+
 h1, h3 {
-  color: #000;
+  color: var(--header-color-primary);
 }
 
 h1 {
-  font-size: 1.75rem;
+  font-size: 2rem;
+  margin-top: 30px;
+  margin-bottom: 30px;
 }
 
 h2 {
-  color: var(--primary-color);
-  font-weight: 700;
+  color: var(--header-color-secondary);
   font-size: 1.5rem;
   line-height: 1.5rem;
-  margin: 0.7em 0;
-  padding: 0px 0 10px 0;
+  margin-bottom: 30px;
+  &::after:not(.post-title) {
+    background-color: var(--primary-color);
+    content: " ";
+    display: block;
+    height: 6px;
+    margin-top: 22px;
+    width: 72px;
+  }
 }
 
 h3 {
@@ -50,6 +68,10 @@ h3 {
 
 p, li {
   line-height: 1.5rem;
+}
+
+p:last-child {
+  margin-bottom: 0;
 }
 
 :where(a) {
@@ -61,7 +83,7 @@ p, li {
   }
 }
 
-.main-content :where(a) {
+.main-content :not(h2) > :where(a) {
   font-size: 0.87rem;
   letter-spacing: 0.03rem;
 }
@@ -112,76 +134,33 @@ p, li {
   }
 }
 
-.section {
-  margin-top: 50px;
-}
-
-.section-image {
-  display: inline-block;
-  vertical-align: middle;
-  width: 220px;
-}
-
-.section-image-container {
-  display: inline-block;
-  vertical-align: middle;
-}
-
-// TODO: Should probably be a blockquote?
-.section-text {
-  display: inline-block;
-  vertical-align: middle;
-  max-width: 70%;
-}
-
-// TODO: Should be an hr
-.mustache {
-  background-color: var(--primary-color);
-  height: 6px;
-  margin-bottom: 30px;
-  width: 72px;
-}
-
-.posts {
-  list-style-type: none;
+.section + .section {
+  margin-top: 40px;
 }
 
 .post-title {
   margin-bottom: 0px;
 }
 
-ul.posts {
-  margin-left: 0px;
-  padding-left: 0px;
-  > li {
-    padding-top: 10px;
-    padding-bottom: 10px;
-  }
-}
-
-.calendar-icon:before { 
-  // TODO: Put a calendar icon in here
-  content: ''; 
-}
-
 .post-meta {
   align-items: center;
   color: var(--light-gray);
   display: flex;
+  gap: 16px;
   justify-content: space-between;
-  margin-left: 10px;
 }
 
 .post-date {
   font-size: 0.8rem;
-  margin-right: 10px;
-  min-width: 150px;
 }
 
-.post-tags ul {
+.post-tags {
+  margin-bottom: 0;
+  margin-top: 0;
   padding: 0;
 }
-.post-tags li {
+
+.post-tags > li {
   background-color: var(--lighter-gray);
   border-radius: 2px;
   display: inline-block;
@@ -202,31 +181,20 @@ ul.posts {
   }
 }
 
-.posts-by-tag li {
-  list-style: none;
+.posts-by-tag {
+  li {
+    list-style: none;
+  }
+  > li + li {
+    margin-top: 10px;
+  }
 }
-.tag-anchor > a {
+
+.tag-anchor {
   font-weight: 300;
 }
 
 // MEDIA QUERIES
-
-@media (max-width: 1000px) and (min-width: 500px) {
-  .section-image {
-    width: 100px;
-  }
-}
-
-// On small screens skip the images
-@media (max-width: 500px) {
-  .section-image {
-    visibility: hidden;
-    width: 0px;
-  }
-  .section-text {
-    max-width: 100%;
-  }
-}
 
 @media (max-width: 520px) {
   .nav_item a {

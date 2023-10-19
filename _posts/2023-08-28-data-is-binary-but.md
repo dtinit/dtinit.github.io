@@ -5,10 +5,8 @@ author: Chris Riley
 post-excerpt: "Data sometimes feels like the simplest thing in the world. It’s just a bunch of 1’s and 0’s, right?
 Often we treat all data the same. For portability, however, we cannot."
 ---
-<div class="section" markdown="1">
-## Data is binary, but that doesn’t make portability simple.
-<div class="mustache">
-</div>
+# Data is binary, but that doesn’t make portability simple.
+
 Data sometimes feels like the simplest thing in the world. It’s just a bunch of 1’s and 0’s, right?
 Often we treat all data the same, whether we’re looking at the storage capacity of a new smartphone 
 (do we really need 512GB?) or when Dropbox tells us we’re out of storage space yet again.
