@@ -1,12 +1,12 @@
+# DTP Documentation
 
-<br/>
 ## How does DTP Work
 
 DTP comprises three main components:
 
-* Data Models are the canonical formats that establish a common understanding of how to transfer data.
-* Adapters provide a method for converting each Provider’s proprietary data and authentication formats into a form that is usable by the system.
-* Task Management Library provides the plumbing to power the system.
+1. Data Models are the canonical formats that establish a common understanding of how to transfer data.
+1. Adapters provide a method for converting each Provider’s proprietary data and authentication formats into a form that is usable by the system.
+1. Task Management Library provides the plumbing to power the system.
 
 ### Data Models
 
@@ -18,7 +18,7 @@ Ideally, a Vertical will have a small number of well-defined and widely-adopted 
 
 One goal of DTP is to encourage organizations to use common Data Models in their systems, which will happen if organizations take importing and exporting data into consideration when initially designing their systems or providing updates. Using a common Data Model will significantly reduce the need for companies to maintain and update proprietary APIs.
 
-See [current data models](https://github.com/google/data-transfer-project/tree/master/portability-types-common/src/main/java/org/datatransferproject/types/common/models).
+See [current data models](https://github.com/google/data-transfer-project/tree/master/portability-types-common/src/main/java/org/datatransferproject/types/common/models){:target="blank"}.
 
 ### Company Specific Adapters
 
@@ -28,7 +28,7 @@ Data Adapters Data Adapters are pieces of code that translate a given Provider�
 
 Authentication Adapters Authentication Adapters are pieces of code that allow consumers to authenticate their accounts before transferring data out of or into another Provider. OAuth is likely to be the choice for most Providers, however DTP is agnostic to the type of authentication.
 
-See [current Adapters](https://github.com/google/data-transfer-project/tree/master/extensions/data-transfer).
+See [current Adapters](https://github.com/google/data-transfer-project/tree/master/extensions/data-transfer){:target="blank"}.
 
 ### Task Management
 
@@ -39,15 +39,11 @@ DTP has developed a collection of Task Management Libraries as a reference imple
 
 ## More in-depth information
 
-While the documentation in the repository is most likely to keep up-to-date, [this overview]({{site.baseurl}}/dtp-overview.pdf) may be useful.
-
+While the documentation in the repository is most likely to keep up-to-date, [this DTP overview document](/assets/dtp-overview.pdf) may be useful.
 
 ## How to try it out
 
-DTP is still in development and is not quite ready for everyone to use yet. However if you want to give it a shot we have a couple methods you can try out:
+DTP is still in development and is not quite ready for everyone to use yet. However if you want to give it a shot we have a couple methods you can try out. _Note: For both of these you need to get your own API keys from the services you want to port data between; please see instructions for getting keys._
 
-Note: For both of these you need to get your own API keys from the services you want to port data between; please see instructions for getting keys.
-
-  * [Via Docker](https://github.com/google/data-transfer-project/blob/master/Documentation/RunningLocally.md)
-  * [Via Code](https://github.com/google/data-transfer-project/blob/master/Documentation/Developer.md)
-</div>
+  * [Via Docker](https://github.com/google/data-transfer-project/blob/master/Documentation/RunningLocally.md){:target="blank"}
+  * [Via Code](https://github.com/google/data-transfer-project/blob/master/Documentation/Developer.md){:target="blank"}
