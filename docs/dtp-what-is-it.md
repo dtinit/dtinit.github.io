@@ -11,9 +11,9 @@ Today, a data exporter can run DTP on a server inside their service, and provide
 
 If you're a person with content on Google, Meta or Apple, you may be able to port that content to other platforms. The ability to move data directly from one service to another is often housed alongside the features that allow data export, because data export is often used to achieve data portability when users download content that they then upload to a different platform.  These services listed below offer both exporting and direct service-to-service porting, depending on content-type - and because that availability may change over time as developer are constantly at work, we'll just list the umbrella data access/export/porting services here. 
 
-* [Google Takeout](https://takeout.google.com/).
+* [Google Takeout](https://takeout.google.com/)
 * [Apple Privacy](https://privacy.apple.com)
-* [Meta's View Your Information](https://auth.meta.com/settings/vyi/)
+* [Meta's Take Your Information](https://www.facebook.com/tyi)
 
 If you do port your content from one service to another service, you may be using DTP without knowing it.  The goal of the DTP contributor community is to make data porting work better (more complete transfer, fewer steps, faster results) and that's often invisible.
 
