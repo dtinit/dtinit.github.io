@@ -13,7 +13,7 @@ If you're a person with content on Google, Meta or Apple, you may be able to por
 
 * [Google Takeout](https://takeout.google.com/)
 * [Apple Privacy](https://privacy.apple.com)
-* [Meta's Take Your Information](https://www.facebook.com/tyi)
+* Facebook's [Transfer Your Information](https://facebook.com/tyi) and [Download Your Information](https://facebook.com/dyi)
 
 If you do port your content from one service to another service, you may be using DTP without knowing it.  The goal of the DTP contributor community is to make data porting work better (more complete transfer, fewer steps, faster results) and that's often invisible.
 
