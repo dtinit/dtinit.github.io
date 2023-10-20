@@ -54,9 +54,9 @@ DTP continues to be developed and grow today.  Further documentation can be foun
 The Data Transfer Initiative invests dedicated engineering and product resources to the design and implementation of data transfer tools. These contributions will continue to be maintained in an [open source GitHub repository](https://github.com/google/data-transfer-project){:target="blank"} to encourage broader adoption of and contributions to the code base. DTI will also offer its expertise with user-driven data transfers as an important resource to policymakers. Data portability continues to be a key element of policy discussions around the world, and **DTI will seek to help translate principle to practice, catalyzing greater user agency and empowerment**.
 
 <blockquote>
-<p>"Data portability is becoming a requirement globally to give consumers greater control over their own data, and choice about shifting to different services. At the same time, if portability is badly implemented, consumers face significant privacy and security risks. The Data Transfer Project has become the global leader for making data portability a reality for users, and the new Data Transfer Initiative will provide the thought leadership needed to consider the multiple relevant policy goals."</p>
+<p>Data portability is becoming a requirement globally to give consumers greater control over their own data, and choice about shifting to different services. At the same time, if portability is badly implemented, consumers face significant privacy and security risks. The Data Transfer Project has become the global leader for making data portability a reality for users, and the new Data Transfer Initiative will provide the thought leadership needed to consider the multiple relevant policy goals.</p>
 <footer>
-<cite>&mdash;Peter Swire, J.Z. Liang Chair, College of Computing, Georgia Institute of Technology</cite>
+<cite>Peter Swire, J.Z. Liang Chair, College of Computing, Georgia Institute of Technology</cite>
 </footer>
 </blockquote>
 </section>
@@ -67,9 +67,9 @@ The Data Transfer Initiative invests dedicated engineering and product resources
 DTI’s unique blend of product and policy engagement requires unique leadership. **To take on this challenge, the Board of Directors has selected Chris Riley as the organization’s Executive Director**. Chris comes from the R Street Institute, a Washington, DC-based think tank, prior to which he led the Mozilla Corporation’s global public policy efforts for several years. His open source roots go back even further to his time working on the internet freedom portfolio at the U.S. Department of State, where he supported open source security and anti-censorship tools dedicated to advancing human rights online. Chris received his B.S. in computer science from Wheeling Jesuit University, his Ph.D. in computer science from Johns Hopkins University and his J.D. from Yale Law School.
 
 <blockquote>
-<p>“Data portability fosters innovation and empowers individual choice. Throughout my career, I have sought to advance these values of user and technology freedom at every turn. Building open user data tools through the Data Transfer Initiative is an incredibly timely and impactful opportunity for me to continue this important work. I’m excited for what we can all accomplish together, and I am honored to help grow this community to lead these critical efforts.”</p>
+<p>Data portability fosters innovation and empowers individual choice. Throughout my career, I have sought to advance these values of user and technology freedom at every turn. Building open user data tools through the Data Transfer Initiative is an incredibly timely and impactful opportunity for me to continue this important work. I’m excited for what we can all accomplish together, and I am honored to help grow this community to lead these critical efforts.</p>
 <footer>
-<cite>&mdash;Chris Riley, Executive Director, Data Transfer Initiative</cite>
+<cite>Chris Riley, Executive Director, Data Transfer Initiative</cite>
 </footer>
 </blockquote>
 </div>
