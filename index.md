@@ -41,11 +41,15 @@ DTP runs as a server in a data exporter's platform. From there, it makes it easi
 
 As an Open Source project, DTP's code defines a service that can be deployed by data exporters and run in their environment, connected to existing front-end interfaces and backend APIs, to support data portability well.   It also defines extensions that data importers contribute to support transfers into their services.  The Open Source project makes portability easier for these companies by providing standard data formats and mechanisms for managing long-running portability "jobs".  Multiple data importing/exporting platforms have contributed adaptors, such that a service adopting DTP can quickly offer multiple interoperable destinations.
 
-DTP continues to be developed and grow today.  Further documentation can be found in our [DTI docs page](/docs).
+DTP continues to be developed and grow today. Further documentation can be found in our [DTI docs page](/docs).
 
-<p style="text-align: center;">
-<a href="https://www.youtube.com/watch?v=_mVhmDnhrWo&feature=youtu.be" style="font-size: 1.2rem;">Learn More about the Data Transfer Project (video)</a>
-</p>
+<figure class="video__wrapper">
+<iframe class="video__embed" width="560" height="315" src="https://www.youtube-nocookie.com/embed/_mVhmDnhrWo?si=BYbCUhmeT34HCHwQ" title="YouTube video player that plays a video describing the Data Transfer Project" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<figcaption class="video__description">
+To learn more about the Data Transfer Project's goals and participants, this video serves as a good introduction.
+</figcaption>
+</figure>
+
 </section>
 
 <section class="section" markdown="1">
