@@ -4,12 +4,7 @@ tags: metrics
 author: Lisa Dusseault
 post-excerpt: "Competition is a compelling narrative to support data portability policy, and with the implementation of Europe’s Digital Markets Act taking headlines, it’s often front of mind. It’s important to remember that competition is not the only lens..."
 ---
-<div class="section" markdown="1">
-## Data portability serves multiple goals
-<div class="mustache">
-</div>
-
-
+# Data portability serves multiple goals
 
 Competition is a compelling narrative to support data portability policy, and with the implementation of Europe’s Digital Markets Act taking headlines, it’s often front of mind. Open access principles foster competition and have contributed, in part, to massive successes in the telecom industry – including phone number portability and the ability to buy phones from somebody other than your phone provider. It’d be great to see a similarly large impact in innovation and choice where user-generated content on the Internet is concerned, and it’s very much possible. To help make progress, however, it’s important to remember that competition is not the only lens. Articulating goals and metrics for data portability must see beyond win-lose framings.
 

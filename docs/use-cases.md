@@ -1,7 +1,4 @@
-<div class="section" markdown="1">
-## Data Transfer Project Use Cases
-<div class="mustache">
-</div>
+# Data Transfer Project Use Cases
 
 Individuals have many reasons to transfer data, but we want to highlight a few examples that demonstrate the additional value of service-to-service portability.
 

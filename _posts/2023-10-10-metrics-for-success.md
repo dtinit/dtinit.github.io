@@ -4,10 +4,8 @@ tags: social
 author: Chris Riley
 post-excerpt: "How do you measure success? It's more than the KPIs or OKRs. At DTI we're articulating outcomes, capacities, and outputs to tell our story of impact."
 ---
-<div class="section" markdown="1">
-## Metrics for success in data portability work
-<div class="mustache">
-</div>
+
+# Metrics for success in data portability work
 
 How do you measure success?
 
