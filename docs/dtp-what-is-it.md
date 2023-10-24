@@ -1,6 +1,6 @@
 # Data Transfer Project &mdash; What is it
 
-A few years ago, several companies wanted to move the state of the art forward for data portability.  Wanting to move further together than they could separately, they started collaborating on an Open Source project that allowed them to make use of each other's contributions.  That project became the [https://github.com/google/data-transfer-project](Data Transfer Project){:target="blank"} (DTP) and is now supported by a non-profit, the Data Transfer Initiative (DTI).
+A few years ago, several companies wanted to move the state of the art forward for data portability.  Wanting to move further together than they could separately, they started collaborating on an Open Source project that allowed them to make use of each other's contributions.  That project became the [Data Transfer Project](https://github.com/google/data-transfer-project){:target="blank"} (DTP) and is now supported by a non-profit, the Data Transfer Initiative (DTI).
 
 Today, a data exporter can run DTP on a server inside their service, and provide a higher quality and scalability of data portability of user content to other data platforms.  The Open Source (OS) project has common data models and a library of adapters to connect data objects to the services APIs that are providing or receiving those data objects.
 
@@ -21,7 +21,7 @@ The folks who run DTP and contribute adapters or core code to DTP are primarily 
 
 As a result, it's engineers at these services who have built the majority of DTP's functionality.  Because DTP is open source, they can benefit from each other's work.  A new adapter that can send data to a new destination can be used by all the exporters for whom sending to that destination makes sense. 
 
-Open Source contributors are often "scratching their own itch" famously, and solving their own needs while supporting the Open Source project.  DTP solves the needs of data exporters (and data destinations) involved in mass data portability.  Thus, if you're not working on data portability at a data exporting platform, it may be hard to contribute to DTP!  Still, if you believe you have an angle, please elaborate on it (via [https://github.com/google/data-transfer-project/issues](github issues), most likely); the contributors are all friendly.
+Open Source contributors are often "scratching their own itch" famously, and solving their own needs while supporting the Open Source project.  DTP solves the needs of data exporters (and data destinations) involved in mass data portability.  Thus, if you're not working on data portability at a data exporting platform, it may be hard to contribute to DTP!  Still, if you believe you have an angle, please elaborate on it (via [github issues](https://github.com/google/data-transfer-project/issues), most likely); the contributors are all friendly.
 
 ## What is the future for DTP?
 
@@ -31,3 +31,5 @@ DTP already provides great value where it's running and in use, but work continu
 * Handling of skippable errors - when an error occurs with one data object in the middle of a transfer, it need not prevent subsequent data objects from being transferred successfully
 
 The maintainers and supporters of DTP also look forward to adding new adapters, adding more data sources and destinations to the ecosystem, as more companies make data portability a priority and a commitment.
+
+If you already know that your company or service should be running DTP, we have an [intro for incoming contibutors](dtp-intro-for-contributors) especially to help understand what service components will be affected and what kinds of engineers within the organization will need to be involved.
