@@ -5,11 +5,12 @@
 
 There are many use cases for users porting data directly between services, some we know about today, and some we have yet to discover. A couple of examples of ones we know users want today are:
 
-  * Trying out a new service
-  * Leaving a service
-  * Creating online backups for bulk online personal data
+**Creating online backups for bulk personal data** &mdash; Getting a backup of years' worth of photos and videos, in case anything goes wrong with an account or a service, is a precaution many people can't afford to take if local storage must be involved.  Backups to online cloud backup service ought to be widely available and easy to use.
 
-[Learn more about use cases]({{site.baseurl}}/docs/use-cases)
+**Trying out a new service** &mdash; Whether a user is moving an album worth of photos to an album printer, or testing a new music service or a service to track everything they read, it should be possible to port some or all of one's photos, playlists or reading history to try out the new service.
+
+**Leaving a service** &mdash; A home-owner in a low-bandwidth area has been working with architects who have developed detailed drawings and plans for new buildings. When the project is over, there should be an easy way that doesn't consume all the home-owner's bandwidth to transfer the large project files to long-term cloud storage.
+
 </article>
 
 <article class="section" markdown="1">
