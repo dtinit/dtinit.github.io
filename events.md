@@ -1,11 +1,14 @@
 # Events
 
+Watch this space for upcoming events. TBD - a spring policy event in DC.
+
+# Past Events
 <article class="section" markdown="1">
 ## The Federated Data Transfer Miniconference 
 
-On September 27th and 28th - (08:00 Pacific, 11:00 Eastern, 15:00 UTC) - the Data Transfer Initiative, will be hosting our first online conference for social software developers, the Federated Data Transfer Miniconference.  
+*On September 27th and 28th - (08:00 Pacific, 11:00 Eastern, 15:00 UTC) - the Data Transfer Initiative hosted our first online conference for social software developers, the Federated Data Transfer Miniconference.*
 
-The miniconference is remote-only, and we’ll be hosting it on Jitsi - https://jitsi.org/ - with the technical details to come. 
+---
 
 We’re excited about our attendees list so far! We don’t want to give too much away, but on top of the world’s biggest ActivityPub projects and the world’s biggest tech companies we’re expecting guests from established Indieweb projects, small shops with promising new ideas, community safety and security professionals and even researchers who study developer mental health and thriving.
 
