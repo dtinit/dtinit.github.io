@@ -1,11 +1,15 @@
 # Events
 
+Watch this space for upcoming events. TBD - a spring policy event in DC.
+
+## Past Events
 <article class="section" markdown="1">
-## The Federated Data Transfer Miniconference 
 
-On September 27th and 28th - (08:00 Pacific, 11:00 Eastern, 15:00 UTC) - the Data Transfer Initiative, will be hosting our first online conference for social software developers, the Federated Data Transfer Miniconference.  
+### The Federated Data Transfer Miniconference 
 
-The miniconference is remote-only, and we’ll be hosting it on Jitsi - https://jitsi.org/ - with the technical details to come. 
+*On September 27th and 28th - (08:00 Pacific, 11:00 Eastern, 15:00 UTC) - the Data Transfer Initiative hosted our first online conference for social software developers, the Federated Data Transfer Miniconference.*
+
+---
 
 We’re excited about our attendees list so far! We don’t want to give too much away, but on top of the world’s biggest ActivityPub projects and the world’s biggest tech companies we’re expecting guests from established Indieweb projects, small shops with promising new ideas, community safety and security professionals and even researchers who study developer mental health and thriving.
 
@@ -20,7 +24,7 @@ Our goal for this conference is to add to the existing fora helping connect the 
 
 We believe that there is a great deal of freedom and opportunity in inter-service migration, for users and developers alike, but the risks to any system that lets the worst people in the world dump any elaboration of “history” into any Fediverse site they’re inclined to ruin can’t be ignored.
 
-### The Agenda!
+#### The Agenda!
 
 Day 1: Risks, Threats, Bad Actors and Attack Surfaces.
 
@@ -45,7 +49,7 @@ Day 2: Optimism, Collaboration And Integration
 
 After these meetings a draft report on the conference will be proposed, and - following a confirmation check with the conference participants  - will be published on the DTInit.org site. 
 
-### Conference Participation Guidelines And Expected Conduct
+#### Conference Participation Guidelines And Expected Conduct
 
 In order to ensure that this is a safe, welcoming and participatory event, we are adopting Mozilla's Community Participation Guidelines for this conference, with modest caveats around process.
 
