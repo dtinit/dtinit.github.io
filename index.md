@@ -57,7 +57,7 @@ To learn more about the Data Transfer Project's goals and participants, this vid
 
 **The Data Transfer Initiative commits dedicated policy and engineering resources to the promotion of data portability.**
 
-Data portability legislation happens at the EU, in the US (both federal and state level) and in other countries and jurisdictions, Those laws affect technology platforms very broadly since so many data and content platforms and services are likely to have international userbases or to participate in data transfers involving parties in other jurisdictions.  DTI policy staff are following or engaged in many active areas of policy across these jurisdictions.  
+Data portability legislation happens at the EU, in the US (both federal and state level) and in other countries and jurisdictions. Those laws affect technology platforms very broadly since so many data and content platforms and services are likely to have international userbases or to participate in data transfers involving parties in other jurisdictions.  DTI policy staff are following or engaged in many active areas of policy across these jurisdictions.  
 
 Awareness of technical constraints and risks helps to support good policy and ultimately good interoperability.  DTI technical staff work closely with policy staff to analyze solutions and risks and share that analysis via our newsletter and other forums, including directly with policy-makers.
 
