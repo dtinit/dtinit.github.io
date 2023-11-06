@@ -1,4 +1,7 @@
-# Blog
+<h1>Blog&nbsp;<a class="socialIcon" rel="me" href="/feed.xml" target="_blank">
+  <img height="24px" src="/images/rss+feed+24px.png" alt="The abstract icon with radiating quarter-rings that means transmission or feed"/>
+</a></h1>
+
 
 {% for post in site.posts %}
   <article class="section">

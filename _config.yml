@@ -22,3 +22,6 @@ collections:
     layout: post
     output: true
     permalink: /blog/:year/:month/:day/:title
+
+plugins:
+  - jekyll-feed
