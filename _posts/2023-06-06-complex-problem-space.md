@@ -2,10 +2,8 @@
 title: The complex problem space of data portability
 tags: policy
 author: Chris Riley
-post-excerpt: "Articulating the landscape of portability-related problems as classic data portability, protocol interoperability, bulk data transfers, and continuous and realtime portability."
+excerpt: Articulating the landscape of portability-related problems as classic data portability, protocol interoperability, bulk data transfers, and continuous and realtime portability.
 ---
-
-# The complex problem space of data portability
 
 This week, I was invited by my friend [Chinmayi Sharma](https://www.linkedin.com/in/chinmayi-sharma-61b054142?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACKI03cBtYVeRlTjMhS7KdB-GfZkK-GTW7U) to speak to her class at UT Austin (virtually - another instance where I'm glad for the ways we've all collectively embraced remote engagement!). Her students are studying decentralization and how protocols and interoperability factor in - a timely space that has seen a ton of new ideas in recent years. I was of course eager to talk about the Data Transfer Initiative and our relevant work, but to do so properly in an educational setting requires quite a lot of context and, well, education. A lot of what I talked about falls into a category of "data portability fundamentals" that isn't yet widely known, so I'm writing up a version of that here - enjoy!
 

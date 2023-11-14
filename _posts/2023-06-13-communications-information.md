@@ -2,10 +2,8 @@
 title: Communications, information, tools, and pathways
 tags: communications
 author: Chris Riley
-post-excerpt: "Thoughts on how to communicate DTI's work effectively, and how the multiplicity of channels landscape parallels data portability."
+excerpt: Thoughts on how to communicate DTI's work effectively, and how the multiplicity of channels landscape parallels data portability.
 ---
-
-# Communications, information, tools, and pathways
 
 One of the unique things about running an organization is universal responsibility. I’ve been in many jobs where I feel like I’m spinning plates on poles, running back and forth between the wobblers, just trying to keep things up and running. In the past, though, there were entire categories of tasks that were “not my problem”, plates that I knew someone else would take responsibility for. Here, ultimately, it’s all on me. And that makes for quite a lot of variability in my days! Let’s look at what’s open on one of my web browser windows right now: I have my DTI email inbox, of course, and my calendar. (I keep my personal email, Twitter/Mastodon/Bluesky, and my todo list open in a different window.) I’m reading an IEEE article about privacy-preserving data exchange agreements. I have a Google Doc open where I’m compiling notes and ideas for a potential future data transfer product. The other four tabs reflect the active project that prompted me to write this piece: two for LinkedIn, one for micro.blog, and one for a tool called MarsEdit, on which I’m currently writing. Because in addition to managing DTI’s substantive product and policy work, legal work, and accounting (with the help of consultants and a growing team, thankfully), I drive DTI's communications work, and that is the topic of today’s piece.
 
