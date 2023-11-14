@@ -1,3 +1,7 @@
+---
+title: Blog
+---
+
 <h1>
   Blog
   <a class="socialIcon" href="/feed.xml">
