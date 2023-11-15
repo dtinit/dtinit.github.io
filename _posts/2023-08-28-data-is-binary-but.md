@@ -2,15 +2,12 @@
 title:  Data is binary, but that doesn’t make portability simple.
 tags: challenges
 author: Chris Riley
-post-excerpt: "Data sometimes feels like the simplest thing in the world. It’s just a bunch of 1’s and 0’s, right?
-Often we treat all data the same. For portability, however, we cannot."
+excerpt: Data sometimes feels like the simplest thing in the world. It’s just a bunch of 1’s and 0’s, right? Often we treat all data the same. For portability, however, we cannot.
 ---
-# Data is binary, but that doesn’t make portability simple.
 
 Data sometimes feels like the simplest thing in the world. It’s just a bunch of 1’s and 0’s, right?
 Often we treat all data the same, whether we’re looking at the storage capacity of a new smartphone 
 (do we really need 512GB?) or when Dropbox tells us we’re out of storage space yet again.
-
 
 The metaphors we use double down on homogeneity too. How many times have you heard “Data is the new oil”? Or “money”? Fortunately such blunt comparisons have been widely debunked. But ideas are sticky. Like … oil.
 
