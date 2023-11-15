@@ -2,10 +2,8 @@
 title: Global developments in data portability law
 tags: policy
 author: Delara Derakhshani
-post-excerpt: "Five years after GDPR, policymakers around the world have a new, or renewed, interest in data portability. DTI is engaging in this growing landscape."
+excerpt: Five years after GDPR, policymakers around the world have a new, or renewed, interest in data portability. DTI is engaging in this growing landscape.
 ---
-
-# Global developments in data portability law
 
 In [an earlier post from DTI](https://dtinit.org/blog/2023/08/01/law-isnt-code), Chris wrote: “tech policy doesn’t stop being relevant when laws are adopted; to the contrary, that’s when the real work begins.” Implicit in what he wrote is that the first step is the law. Today’s post will check in on the law in the context of data portability.
 

@@ -23,7 +23,7 @@
       {%- endif -%}
     </div>
     <p>
-      {{ post.post-excerpt }}
+      {{ post.excerpt }}
     </p>
   </article>
 {% endfor %}
