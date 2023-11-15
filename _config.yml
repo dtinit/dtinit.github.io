@@ -5,10 +5,16 @@ permalink: /:categories/:year/:month/:day/:title
 exclude: [".rvmrc", ".rbenv-version", "ReadMe.md", "Rakefile", "changelog.md", "License.md"]
 highlighter: rouge
 
-# Themes are encouraged to use these universal variables
-# so be sure to set them if your theme uses them.
-#
+# Many of the plugins make use of these variables
 title : Data Transfer Initiative
+description: Home page for the Data Transfer Initiative, a nonprofit organization dedicated to promoting data transfers
+logo: /images/DTImeta.jpg
+social:
+  name: Data Transfer Initiative
+  links:
+    - https://techpolicy.social/@DTinitiative
+    - https://www.linkedin.com/company/data-transfer-initiative/
+    - https://github.com/dtinit
 
 # NOTE: If replacing this next line with your own URL, you likely want "https://" not "http://"
 production_url : https://dtinit.github.io/data-transfer-initiative
@@ -25,3 +31,4 @@ collections:
 
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag

@@ -2,22 +2,6 @@
 title: Data Transfer Initiative
 ---
 
-<!--Change These -->
-<meta property="og:title" content="Data Transfer Initiative">
-<meta name="description" content="Home page for the Data Transfer Initiative, a nonprofit organization dedicated to promoting data transfers">
-
-<meta property="og:image" content="https://DTinit.org/images/DTImeta.jpg">
-<meta name="twitter:site" content="@DTinitiative">
-<meta property="og:description" content="Home page for the Data Transfer Initiative, a nonprofit organization dedicated to promoting data transfers">
-<meta property="og:site_name" content="dtinit.org">
-<meta name="twitter:image:alt" content="Capital letters D, T, and I with a line underneath, all in blue">
-<meta name="twitter:image" content="https://DTinit.org/images/DTImeta.jpg"> 
-<meta property="twitter:description" content="Home page for the Data Transfer Initiative, a nonprofit organization dedicated to promoting data transfers">
-<!-- Don't change these -->
-<meta property="og:url" content="https://DTinit.org/index.html">
-<meta property="og:type" content="website" />
-<meta name="twitter:card" content="summary_large_image">
-
 {% comment %}We really need an h1 here but should reorganize info first{% endcomment %}
 
 <section class="section" markdown="1" style="margin-top: 40px;">
