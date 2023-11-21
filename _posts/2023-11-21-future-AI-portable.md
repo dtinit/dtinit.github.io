@@ -2,7 +2,7 @@
 title: The future of generative AI is personal – and portable?
 tags: trust
 author: Chris Riley
-excerpt: Generative AI news fills all inboxes. But a key question of its future is not yet being asked: will users be locked in, or will their data be portable?
+excerpt: Generative AI news fills all inboxes. But a key question of its future isn't yet being asked -- will users be locked in, or will their data be portable?
 ---
 
 We’ve had lots of tech policy bubbles in recent years, issues that dominated the headlines for a time, then faded away as the promises of an emerging technology were revealed as more illusional than illustrious. Today, public attention (and massive investment) is intensely focused on the power of large language models to create compelling artificial language and imagery.
