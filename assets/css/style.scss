@@ -216,6 +216,10 @@ blockquote {
   }
 }
 
+table {
+  border-spacing: 20px;
+}
+
 .socialIcon {
   display: inline-block;
   & + .socialIcon {
