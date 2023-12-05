@@ -6,8 +6,6 @@ post-excerpt: "Before starting to describe a threat model for data portability, 
 use cases and a reference architecture."
 ---
 
-# Reference architecture for Portability threat modeling
-
 Among the many [un- or under-researched questions](https://techpolicy.press/future-horizons-for-data-portability-research/) in data portability, risk and threat issues loom large. We’d love to do some crunchy deep-dive threat modeling, but we’ll get lost in the weeds if we don’t focus. 
 
 “Data portability” collects together an interesting set of use cases. Not all of these are covered by the exact same architecture and functionality, or even involve the same parties. It’s all too easy to get lost in hypotheticals and lose track of how decisions fit together - like trying to solve two jigsaw puzzles at once but without committing to fit any pieces together.
