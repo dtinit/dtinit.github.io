@@ -18,3 +18,12 @@ The Data Transfer Project (DTP) is an open source project that uses services' ex
 
 The [data-transfer-project repository](https://github.com/google/data-transfer-project){:target="blank"} also has documentation in various README.md files.
 </article>
+
+<article class="section" markdown="1">
+## DTP Event Reports 
+
+DTP has run our first of - we hope! - many community events on data portability and migration. 
+
+* [The Federated Data Transfer Miniconference](/docs/dtp-federated-miniconference-report) 
+
+</article>
