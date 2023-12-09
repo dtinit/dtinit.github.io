@@ -9,6 +9,8 @@ Watch this space for upcoming events. TBD - a spring policy event in DC.
 
 *On September 27th and 28th - (08:00 Pacific, 11:00 Eastern, 15:00 UTC) - the Data Transfer Initiative hosted our first online conference for social software developers, the Federated Data Transfer Miniconference.*
 
+*Update: [The full Federated Data Transfer Miniconference Event Report](/docs/dtp-federated-miniconference-report) is now available.*
+
 ---
 
 We’re excited about our attendees list so far! We don’t want to give too much away, but on top of the world’s biggest ActivityPub projects and the world’s biggest tech companies we’re expecting guests from established Indieweb projects, small shops with promising new ideas, community safety and security professionals and even researchers who study developer mental health and thriving.
