@@ -7,7 +7,7 @@ post-excerpt: "DTI's Director of Policy Delara interviews Joe Jerome, in advance
 
 At DTI, we’re working at the cutting edge of data portability. One of the most exciting parts of my job as Director of Policy is pushing the frontiers of data knowledge with experts in the field, including people working on emerging technologies.
 
-For this edition of DTI’s newsletter, I am pleased to interview Joseph Jerome, Visiting Assistant Professor, University of Tampa and a leading voice in AR/VR policy. Below, we explore some of the challenges and unique opportunities for value creation in the Metaverse. 
+For this edition of DTI’s newsletter, I am pleased to interview Joseph Jerome, Visiting Assistant Professor, University of Tampa and a leading voice in AR/VR policy. Joe and I worked together for several years at Meta and I got to know him as one of the leading experts on privacy and data policy in emerging technologies. I’m excited to discuss with him some of the challenges and unique opportunities for value creation in the Metaverse.
 
 We look forward to exploring these and other issues in more depth with Joe and other scholars at our upcoming event on February 29, which will bring together academics, civil society, regulators, and industry for a day of in-depth discussion about the future of data portability.
 
