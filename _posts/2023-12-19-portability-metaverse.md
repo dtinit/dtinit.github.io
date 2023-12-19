@@ -1,3 +1,4 @@
+---
 title: Data Portability and the Metaverse: Q&A with Joe Jerome
 tags: metaverse
 author: Delara Derakhshani
