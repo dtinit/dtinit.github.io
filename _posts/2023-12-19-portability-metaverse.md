@@ -5,9 +5,9 @@ author: Delara Derakhshani
 post-excerpt: "DTI's Director of Policy Delara interviews Joe Jerome, in advance of DTI's future event showcasing Joe and other scholars writing on portability."
 ---
 
-At DTI, we’re working at the cutting edge of data portability. One of the most exciting parts of my job is pushing the frontiers of data knowledge with experts in the field, including people working on emerging technologies.
+At DTI, we’re working at the cutting edge of data portability. One of the most exciting parts of my job as Director of Policy is pushing the frontiers of data knowledge with experts in the field, including people working on emerging technologies.
 
-For this edition of DTI’s newsletter, our director of policy Delara Derakhshani is pleased to interview Joseph Jerome, Visiting Assistant Professor, University of Tampa and a leading voice in AR/VR policy. Below, we explore some of the challenges and unique opportunities for value creation in the Metaverse. 
+For this edition of DTI’s newsletter, I am pleased to interview Joseph Jerome, Visiting Assistant Professor, University of Tampa and a leading voice in AR/VR policy. Below, we explore some of the challenges and unique opportunities for value creation in the Metaverse. 
 
 We look forward to exploring these and other issues in more depth with Joe and other scholars at our upcoming event on February 29, which will bring together academics, civil society, regulators, and industry for a day of in-depth discussion about the future of data portability.
 
