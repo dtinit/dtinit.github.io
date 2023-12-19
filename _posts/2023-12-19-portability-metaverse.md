@@ -1,5 +1,5 @@
 ---
-title: Data Portability and the Metaverse -- Q&A with Joe Jerome
+title: Data Portability and the Metaverse – Q&A with Joe Jerome
 tags: metaverse
 author: Delara Derakhshani
 excerpt: "DTI's Director of Policy Delara interviews Joe Jerome in advance of DTI's future event showcasing Joe and other scholars writing on portability."
