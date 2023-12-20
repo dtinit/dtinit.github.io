@@ -32,3 +32,11 @@ collections:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+
+defaults:
+  - 
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      thumbnail: /images/blog/Firefly-notepad-green-desk.jpg

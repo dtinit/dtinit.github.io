@@ -2,6 +2,7 @@
 title:  Law isn’t code. The vote is just the beginning.
 tags: policy
 author: Chris Riley
+thumbnail: /images/blog/Decision Path Signpost.jpg
 ---
 
 In the data portability world, foundational laws like the EU’s General Data Protection Regulation and California’s privacy laws provide users with the right to request their data from businesses, and the Digital Markets Act in Europe imposes additional portability duties on designated gatekeepers. But tech policy doesn’t stop being relevant when laws are adopted; to the contrary, that’s when the real work begins.

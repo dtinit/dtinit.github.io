@@ -3,6 +3,7 @@ title: A framework for trusted, safe third-party data transfers
 tags: trust
 author: Chris Riley
 excerpt: At DTI, we're looking to build a framework to establish trust between data hosts and recipients, keeping users safe and empowered at the same time.
+thumbnail: /images/blog/Hands stock illustration.jpg
 ---
 
 DTI is a small organization tasked with a big mission: building a healthy data portability ecosystem. Most of our work is collaborative in nature – identifying what we can do alongside other organizations, including of course our partners, but also other organizations both large and small, from industry and civil society.

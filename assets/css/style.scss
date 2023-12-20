@@ -164,6 +164,31 @@ blockquote {
   margin-top: 40px;
 }
 
+article.section {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+
+.post-image {
+  margin: 8px 16px 16px 8px;
+}
+
+.post-image {
+  width: 200px;
+  height: 140px;
+  overflow: hidden;
+}
+
+.post-image img {
+  width: 100%;
+  height: auto;
+}
+
+.post-text-stuff {
+  width:75%;
+}
+
 .post-title {
   margin-bottom: 0px;
 }
