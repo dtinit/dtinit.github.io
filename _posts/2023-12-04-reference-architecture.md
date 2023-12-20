@@ -4,6 +4,7 @@ tags: security
 author: Lisa Dusseault
 post-excerpt: "Before starting to describe a threat model for data portability, we will need some core
 use cases and a reference architecture."
+thumbnail: /images/architecture-assumes-like-to-like.png
 ---
 
 Among the many [un- or under-researched questions](https://techpolicy.press/future-horizons-for-data-portability-research/) in data portability, risk and threat issues loom large. We’d love to do some crunchy deep-dive threat modeling, but we’ll get lost in the weeds if we don’t focus. 
