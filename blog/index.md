@@ -11,7 +11,7 @@ title: Blog
 
 
 {% for post in site.posts %}
-  <article class="section">
+  <article class="post">
     <div class="post-image">
       <img src="{{ post.thumbnail }}"/>
     </div>
