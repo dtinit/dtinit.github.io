@@ -65,7 +65,8 @@ A related and recurring note was that any sort of inherent technical competency 
 Participants also noted that learning from revealed preferences was limiting, given expectations around interoperability, that "informed consent" is an important bar to clear given that the bar here historically has been "basically nothing works". It was observed sarcastically that in terms of utility, we want to make this better for people whose current benchmark is the shitpost, the screenshot taken in one service and paste into another. It won’t be hard to do more, but there’s a lot of work between "more" and "better."
 
 Hearteningly, developer ergonomics - while understood to be important for development and adoption - were not the driving force of this part of the conversation. The general consensus was that understanding and bringing humility to the exploration of the complex interplay of evolving user needs, identities, safety and risks particularly on the margins, is of the highest priority.
-Bright Lines And Guardrails: Moderation Standards, Moderator Health And Sustainability
+
+## Bright Lines And Guardrails: Moderation Standards, Moderator Health And Sustainability
 
 "Migration", of course, is not "export". A migration is departure, a transit, and an arrival, often to new communities with different norms, standards, cultures and rules. A successful migration isn’t just about leaving with all your stuff, but about the safe arrival in the new environment. Starting from that point, the conversation quickly became about asymmetries of resources and scale. 
 
