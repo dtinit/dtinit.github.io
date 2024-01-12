@@ -1,10 +1,8 @@
-- name: About
+- name: Home
   link: /
+- name: About
+  link: /about
+- name: Our Work
+  link: /our-work
 - name: Blog
   link: /blog/
-- name: Documents
-  link: /documentation
-- name: Events
-  link: /events
-- name: FAQ
-  link: /faq
