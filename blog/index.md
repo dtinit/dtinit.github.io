@@ -1,5 +1,6 @@
 ---
 title: Blog
+logo: light
 ---
 
 <h1>

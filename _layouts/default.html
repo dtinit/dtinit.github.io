@@ -11,6 +11,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,500;0,700;1,400&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/pygments-default.css?v=' | append: site.github.build_revision | relative_url }}">
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <!-- <script async src="https://www.googletagmanager.com/gtag/js?id=UA-51297152-3"></script> -->
   <script>
@@ -23,18 +24,15 @@
 </head>
 
 <body>
-  <header>
-    {% include nav.html %}
-  </header>
+  {% include header.html %}
+  {% include nav.html %}
+  {% include hero.html %}
 
   <main class="main-content">
     {{ content }}
   </main>
 
-  <footer class="main-footer">
-    {% include social-media-icons.html %}
-  </footer>
-
+  {% include footer.html %}
 </body>
 
 </html>

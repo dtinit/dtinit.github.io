@@ -1,8 +1,7 @@
 ---
 title: Data Transfer Initiative
+logo: dark
 ---
-
-{% comment %}We really need an h1 here but should reorganize info first{% endcomment %}
 
 <section class="section" markdown="1" style="margin-top: 40px;">
 ## DTI: A New Era for DTP
