@@ -198,8 +198,7 @@ strong {
 .main-content {
   grid-area: main;
   max-width: 1320px;
-  padding-left: 20px;
-  padding-right: 20px;
+  padding-inline: 20px;
 }
 
 .main-footer {
@@ -323,6 +322,25 @@ summary {
   font-style: normal;
   font-weight: 700;
   line-height: 1.6875rem;
+}
+
+/* || POSTS */
+
+.recent-posts-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(375px, 1fr));
+  column-gap: 32px;
+}
+
+.recent-post {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: auto;
+  > img {
+    height: 300px;
+    max-width: 100%;
+    object-fit: contain;
+  }
 }
 
 // OLD STYLES TO BE REMOVED ONCE REPLACEMENTS ARE FINISHED
@@ -478,6 +496,6 @@ table {
   }
 
   .main-content {
-    justify-self: center;
+    padding-inline: 60px;
   }
 }
