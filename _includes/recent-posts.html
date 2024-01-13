@@ -1,0 +1,25 @@
+<section>
+	<h2>Recent posts</h2>
+	<div class="recent-posts-container">
+		{% for post in site.posts limit:3 %}
+			<article class="recent-post">
+				<img src="{{ post.thumbnail }}"/>
+				<ul class="tag-list">
+					{%- for tag in post.tags -%}
+						<li class="tag-item">{{ tag }}</li>
+					{%- endfor -%}
+				</ul>
+				<h3>
+					{{ post.title | escape }}
+				</h3>
+				<p>
+					{{ post.excerpt }}
+				</p>
+				<a href="{{ post.url | relative_url }}">
+					Read more
+				</a>
+			</article>
+		{% endfor %}
+	</div>
+	<a class="button button-outline" href="/blog">View all</a>
+</section>

@@ -62,3 +62,5 @@ Data portability continues to be a key element of policy discussions around the 
 **The scope of data portability is as broad and diverse as user data itself**. We welcome you to join us in our efforts. To follow along with DTI's work going forward, please sign up below. 
 	{% include newsletter-signup.html %}
 </section>
+
+{% include recent-posts.html %}
