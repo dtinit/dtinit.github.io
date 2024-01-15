@@ -28,6 +28,9 @@ collections:
     layout: post
     output: true
     permalink: /blog/:year/:month/:day/:title
+  staff:
+    sort_by: order_number
+
 
 plugins:
   - jekyll-feed
