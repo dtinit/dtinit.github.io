@@ -11,6 +11,7 @@ html {
   --contrast-green: #3BB54A;
   --logo-green: #0B9A33;
 
+  --background-gray: #F0F0F0;
   --lighter-gray: #F4F4F4;
   --dark-gray: #505050;
 
@@ -62,18 +63,20 @@ h5 {
 }
 
 h1 {
-  font-size: 3rem;
-  line-height: 3.6rem;
-
-  //margin-top: 30px;
-  //margin-bottom: 30px;
+  font-size: 2.5rem;
+  line-height: 3rem;
+  margin-top: 0;
+  margin-bottom: 30px;
+  &.extraLarge {
+    font-size: 3rem;
+    line-height: 3.6rem;
+  }
 }
 
 h2 {
   font-size: 2.375rem;
   line-height: 2.85rem;
-
-  //margin-bottom: 24px;
+  margin-bottom: 24px;
   > a {
     font-size: inherit;
   }
@@ -82,6 +85,7 @@ h2 {
 h3 {
   font-size: 2rem;
   line-height: 2.6rem;
+  margin-bottom: 20px;
 }
 
 h4 {
@@ -94,6 +98,11 @@ h5 {
   line-height: 1.5rem;
 }
 
+.heading-subtitle {
+  font-size: 1.5rem;
+  line-height: 2.1rem;
+}
+
 p, li {
   letter-spacing: 0.03125rem;;
   line-height: 1.4rem;
@@ -101,6 +110,13 @@ p, li {
 
 p:last-child {
   margin-bottom: 0;
+}
+
+.list-heading {
+  display: block;
+  font-size: 1.25rem;
+  font-weight: 500;
+  line-height: 1.875rem;
 }
 
 small {
@@ -193,6 +209,19 @@ strong {
 
 .hero {
   grid-area: hero;
+  padding-inline: 20px;
+}
+
+.hero-about {
+  padding-block: 30px 0;
+  .hero-header {
+    flex: 1 1 50%;
+    font-size: 2rem;
+    line-height: 2.5rem;
+  }
+  > img {
+    flex: 1 1 50%;
+  }
 }
 
 .main-content {
@@ -214,6 +243,24 @@ strong {
 
 .social-icon-container {
   text-align: right;
+}
+
+.gray-background {
+  padding-block: 30px 80px;
+  position: relative;
+  &::before {
+    background-color: var(--background-gray);
+    width: 100vw;
+    height: 100%;
+    content: "";
+    position: absolute;
+    z-index: -1;
+    left: -20px; // Padding of main content
+    top: 0;
+  }
+  > h2 {
+    margin-top: 0;
+  }
 }
 
 /* || BUTTONS AND LINKS */
@@ -280,9 +327,9 @@ strong {
 
 .team-avatar {
   border-radius: 10px;
-  max-width: 296px;
-  display: inline;
-  float: left;
+  height: 288px;
+  object-fit: cover;
+  width: 296px;
 }
 
 /* || FORM ELEMENTS */
@@ -342,6 +389,24 @@ summary {
     height: 300px;
     max-width: 100%;
     object-fit: contain;
+  }
+}
+
+/* || MISC */
+
+.team-container {
+  align-items: end;
+  display: grid;
+  grid-template-columns: 1fr;
+  margin-top: 60px;
+  row-gap: 24;
+  h3 {
+    font-size: 1.25rem;
+    line-height: 1.875rem;
+    margin-block: 0
+  }
+  .team-subtitle {
+    font-size: 1.125rem;
   }
 }
 
@@ -497,7 +562,27 @@ table {
     gap: 42px;
   }
 
-  .main-content {
+  .main-content,
+  .hero {
     padding-inline: 60px;
+  }
+
+  .hero-about {
+    column-gap: 30px;
+    display: flex;
+    padding-block: 60px 0;
+    > .hero-header {
+      font-size: 2.25rem;
+    }
+  }
+
+  .gray-background::before {
+    left: -60px; // Padding of main content
+  }
+
+  .team-container {
+    column-gap: 32px;
+    grid-template-columns: auto 1fr;
+    row-gap: 40px;
   }
 }
