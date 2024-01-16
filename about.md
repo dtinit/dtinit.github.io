@@ -26,6 +26,16 @@ We live in a collaborative world: people connect and share on social media, they
 
 Driven by a shared passion for technology and positive change, our staff brings diverse expertise to our mission.
 
+{% for person in site.staff %}
+
+<image class='team-avatar' src='{{ person.headshot }}'/>
+
+### {{ person.name }}
+### {{ person.position }}
+  
+  <p>{{ person.content | markdownify }}</p>
+{% endfor %}
+
 ## Keep up with DTI
 
 ## FAQs
