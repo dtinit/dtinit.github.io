@@ -13,9 +13,17 @@ The above is what the <em><h1></em> element will look like. There should only be
   <h4>This is an H4</h4>
   <h5>This is an H5</h5>
 
+  <span class="heading-subtitle">
+    Here is some slightly larger text that can be used in sub-title like cases.
+  </span>
+
   <p>
-  This is a paragraph of text. Most body text will probably be this size. If you need bigger or smaller than this but it's still body text, you might want to add a class for that specific instance to attach to the paragraph, or make a re-usuable class that defines the slightly larger body text.
+    This is a paragraph of text. Most body text will probably be this size. If you need bigger or smaller than this but it's still body text, you might want to add a class for that specific instance to attach to the paragraph, or make a re-usuable class that defines the slightly larger body text.
   </p>
+
+  <span class="list-heading">
+  And the .list-heading class can be used for enphasizing something that's almost a header but not semantically a header
+  </span>
 
   <small>This is small text, for little notes and stuff.</small>
 
@@ -88,7 +96,17 @@ The above is what the <em><h1></em> element will look like. There should only be
   <img class="team-avatar" src="/images/chris.jpg" />
   {% endhighlight %}
 
-  <h3>Icons</h3>
+  <h3>Social Icons</h3>
+  <img class="social-icon" src="/images/icons/linkedIn.svg">
+  <img class="social-icon" src="/images/icons/mastodon.svg">
+  <img class="social-icon" src="/images/icons/twitter.svg">
+
+  <h3>White versions of social icons</h3>
+  <div style="background-color: #000;padding: 10px; width: max-content;">
+    <img class="social-icon" src="/images/icons/github-outline.svg">
+    <img class="social-icon" src="/images/icons/linkedIn-outline.svg">
+    <img class="social-icon" src="/images/icons/mastodon-white.svg">
+  </div>
 </section>
 
 <hr>

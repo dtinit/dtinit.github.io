@@ -1,3 +1,5 @@
 <section class="hero">
-  {{ hero }}
+  {% if page.hero %}
+    {% include {{ page.hero }} %}
+  {% endif %}
 </section>
