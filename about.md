@@ -81,42 +81,48 @@ The scope of data portability is as broad and diverse as user data itself. We we
 
 We are committed to providing users with the information they need to make informed decisions about their data.
 
-<dd>
-<dt>
-What are some examples of data portability?
-</dt>
-<dl>
-* Moving one's private photos and photo albums to a different online hosting service as a permanent move
-* Moving social media post history to a new location without having to start from scratch at a new URL
-* Trying out a new service with data from a service you already use, even if you don't decide to make the move
-* Importing content into a new short-form video service and continuing to use it in parallel
-</dl>
-<dt>What is DTP?</dt>
-<dl>
+ <details>
+    <summary>What are some examples of data portability?</summary>
+    <p>
+      There are many use cases for users porting data directly between services, some we know about today, and some we have yet to discover. A couple of examples of ones we know users want today are...
+    </p>
+<ul><li> Moving one's private photos and photo albums to a different online hosting service permanently</li>
+<li>Moving social media post history to a new location without having to start from scratch at a new URL</li>
+<li>Trying out a new service with data from a service you already use, even if you don't decide to make the move</li>
+<li>Importing content into a new short-form video social service and continuing to use it in parallel with the old service</li>
+</ul>
+  </details>
+<details>
+<summary>What is DTP?</summary>
+<p>
 One of the projects that DTI (Data Transfer Initiative) helps support is DTP (Data Transfer Project).  The project
 was started much earlier than DTI was founded, and is an open source project with contributions from several 
 companies.  DTP is hosted by companies and connected to their data services in order to provide portability
 services that work with the other platforms participating in DTP.
-</dl>
-<dt>What kinds of data can be transferred through DTP?</dt>
-<dl>
-DTP can be used to transfer photos, videos and posts or documents.  Platforms that use DTP will offer various
-kinds of data and information to transfer on their Web sites.
-</dl>
-<dt>
-Who is responsible for protecting data?
-</dt>
-<dl>
+</p>
+</details>
+<details>
+<summary>What kinds of data can be transferred through DTP?</summary>
+<p>
+DTP can be used to transfer photos, videos and posts or documents, depending on what kind of data the source can
+send and the destination can accept.  Platforms that use DTP will offer available choices on their data management
+Web sites.
+</p>
+</details>
+<details>
+<summary>Who is responsible for protecting data?
+</summary>
+<p>
 Each organization is responsible for securing and protecting the data it receives, whether received via 
 data portability or another way.  Organizations must also ensure that data is protected in transit
 when participating in data transfer.
-</dl>
-<dt>When data is transferred via DTP, who gets a copy?
-</dt>
-<dl>
+</p>
+</details>
+<details><summary>When data is transferred via DTP, who gets a copy?</summary>
+<p>
 Only the source and destination ever get access to data transfered via the DTP.
-</dl>
-</dd>
+</p>
+</details>
 ### Still have a question?
 <a class="button button-primary" href="/contact">
   Contact
