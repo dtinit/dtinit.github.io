@@ -56,11 +56,67 @@ hero: hero-about.html
 
 <section markdown="1">
 ## Keep up with DTI
+
+The scope of data portability is as broad and diverse as user data itself. We welcome you to join us in our efforts. To follow along with DTI’s work going forward, please sign up below.
+
+<div id="mc_embed_shell">
+  
+<div id="mc_embed_signup">
+    <form action="https://dtinit.us21.list-manage.com/subscribe/post?u=3ba10a090b97c2dc608fd780e&amp;id=1bb7a69318&amp;f_id=0012d8e1f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_self" novalidate="">
+        <div id="mc_embed_signup_scroll">
+            <div class="mc-field-group"><label for="mce-EMAIL">Email Address</label><input type="email" name="EMAIL" class="required email" id="mce-EMAIL" required="" value=""></div>
+        <div id="mce-responses" class="clear">
+            <div class="response" id="mce-error-response" style="display: none;"></div>
+            <div class="response" id="mce-success-response" style="display: none;"></div>
+        </div><div aria-hidden="true" style="position: absolute; left: -5000px;"><input type="text" name="b_3ba10a090b97c2dc608fd780e_1bb7a69318" tabindex="-1" value=""></div><div><input type="submit" name="subscribe" id="mc-embedded-subscribe" class="button" value="Subscribe"></div>
+    </div>
+</form>
+</div>
+</div>
+
 </section>
 
 <section markdown="1">
 ## FAQs
 
+We are committed to providing users with the information they need to make informed decisions about their data.
+
+<dd>
+<dt>
+What are some examples of data portability?
+</dt>
+<dl>
+* Moving one's private photos and photo albums to a different online hosting service as a permanent move
+* Moving social media post history to a new location without having to start from scratch at a new URL
+* Trying out a new service with data from a service you already use, even if you don't decide to make the move
+* Importing content into a new short-form video service and continuing to use it in parallel
+</dl>
+<dt>What is DTP?</dt>
+<dl>
+One of the projects that DTI (Data Transfer Initiative) helps support is DTP (Data Transfer Project).  The project
+was started much earlier than DTI was founded, and is an open source project with contributions from several 
+companies.  DTP is hosted by companies and connected to their data services in order to provide portability
+services that work with the other platforms participating in DTP.
+</dl>
+<dt>What kinds of data can be transferred through DTP?</dt>
+<dl>
+DTP can be used to transfer photos, videos and posts or documents.  Platforms that use DTP will offer various
+kinds of data and information to transfer on their Web sites.
+</dl>
+<dt>
+Who is responsible for protecting data?
+</dt>
+<dl>
+Each organization is responsible for securing and protecting the data it receives, whether received via 
+data portability or another way.  Organizations must also ensure that data is protected in transit
+when participating in data transfer.
+</dl>
+<dt>When data is transferred via DTP, who gets a copy?
+</dt>
+<dl>
+Only the source and destination ever get access to data transfered via the DTP.
+</dl>
+</dd>
 ### Still have a question?
 <a class="button button-primary" href="/contact">
   Contact
