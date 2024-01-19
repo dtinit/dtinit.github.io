@@ -32,7 +32,27 @@ logo: dark
     </div>
   </div>
 </div>
-
+<div style="width: 1440px; height: 555px; padding-left: 65px; padding-right: 65px; padding-top: 60px; padding-bottom: 60px; background: #EDFFF5; flex-direction: column; justify-content: flex-start; align-items: center; gap: 80px; display: inline-flex">
+  <div style="height: 435px; flex-direction: column; justify-content: flex-start; align-items: center; gap: 24px; display: flex">
+    <div style="align-self: stretch; text-align: center; color: black; font-size: 48px; font-family: Roboto; font-weight: 700; line-height: 57.60px; word-wrap: break-word">DTI Members</div>
+    <div style="align-self: stretch; text-align: center">
+			<span style="font-size: 18px;">DTI’s ancestor, the Data Transfer Project, was created in 2018 as an industry collaboration with a mission of enabling users to complete simple, fast, and secure data transfers directly between services. Since its creation, the project has built an open source technology framework that powers direct data transfer features within <a href="https://takeout.google.com/takeout/transfer/custom/photos">Google Takeout</a>, <a href="http://facebook.com/tyi">Facebook’s Transfer your Information</a>, and <a href="https://privacy.apple.com/">Apple’s Data and Privacy page</a>, as well as software libraries that connect to over a dozen additional services.</span>
+			<br/><br/>
+			<span style="font-size: 24px;">DTI members help translate principle to practice, catalyzing greater user agency and empowerment by committing dedicated policy and engineering resources to the promotion of data portability.</span>
+		</div>
+    <div style="padding-top: 24px; padding-bottom: 24px; justify-content: center; align-items: center; gap: 80px; display: inline-flex">
+      <div style="width: 50px; height: 50px; position: relative">
+        <img height="50" src="/images/icons/google.png" alt="Google"/>
+      </div>
+      <div style="width: 48px; height: 60px; position: relative">
+        <img height="50" src="/images/icons/apple.png" alt="Apple"/>
+      </div>
+      <div style="width: 50px; height: 50px; position: relative">
+        <img height="50" src="/images/icons/meta.png" alt="Meta"/>
+      </div>
+    </div>
+  </div>
+</div>
 
 <!-- Scroll Down Button -->
 <a class="link__button" href="#mc_embed_signup_scroll">
