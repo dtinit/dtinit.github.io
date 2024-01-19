@@ -132,6 +132,10 @@ strong {
   font-weight: 500;
 }
 
+.emphasis {
+  color: var(--logo-green);
+}
+
 .tag-list {
   padding-left: 0;
 }
@@ -574,6 +578,13 @@ table {
 .video__description {
   font-size: 0.9rem;
   margin-top: 8px;
+}
+
+.lucide {
+  stroke-width: 1px;
+  color: "#0B9A33";
+  width:50px;
+  height:50px;
 }
 
 // MEDIA QUERIES
