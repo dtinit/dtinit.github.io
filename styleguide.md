@@ -90,10 +90,10 @@ The above is what the <em><h1></em> element will look like. There should only be
 <section>
   <h2>Images</h2>
 
-  <img class="team-avatar" src="/images/chris.jpg" />
+  <img class="team-avatar" src="/images/staff/mcriley.jpg" />
 
   {% highlight html %}
-  <img class="team-avatar" src="/images/chris.jpg" />
+  <img class="team-avatar" src="/images/staff/mcriley.jpg" />
   {% endhighlight %}
 
   <h3>Social Icons</h3>
