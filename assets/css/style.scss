@@ -7,6 +7,9 @@ html {
   --black: #000;
   --transparent: rgba(255, 255, 255, 0);
 
+  --golden-yellow: #FFCE4B;
+  --orange: #F78F31;
+
   --light-green: #EDFFF5;
   --contrast-green: #3BB54A;
   --logo-green: #0B9A33;
@@ -16,6 +19,7 @@ html {
   --dark-gray: #505050;
 
   --blue: #0b8ce9;
+  --dark-blue: #2B5399;
 
   --header-color-primary: var(--black);
   --header-color-secondary: var(--black);
@@ -210,17 +214,27 @@ strong {
 .hero {
   grid-area: hero;
   padding-inline: 20px;
+  position: relative;
 }
 
 .hero-about {
-  padding-block: 30px 0;
+  padding-block: 30px 60px;
   .hero-header {
-    flex: 1 1 50%;
     font-size: 2rem;
     line-height: 2.5rem;
   }
   > img {
-    flex: 1 1 50%;
+    display: none;
+  }
+  &::after {
+    content: " ";
+    background: linear-gradient(180deg, var(--dark-blue) 0 33%, var(--golden-yellow) 33% 66%, var(--orange) 66% 100%);
+    bottom: 0;
+    height: 27px;
+    left: -2px;
+    position: absolute;
+    transform: rotate(3deg);
+    width: calc(100vw + 3px);
   }
 }
 
@@ -245,22 +259,34 @@ strong {
   text-align: right;
 }
 
+section + .gray-background {
+  margin-top: 120px;
+}
+
 .gray-background {
-  padding-block: 30px 80px;
-  position: relative;
-  &::before {
-    background-color: var(--background-gray);
-    width: 100vw;
-    height: 100%;
-    content: "";
-    position: absolute;
-    z-index: -1;
-    left: -20px; // Padding of main content
-    top: 0;
-  }
+  --a: 3deg;
+  $problematic-code: "0//9999px";
+  border-image: conic-gradient(var(--background-gray) 0 0) fill #{$problematic-code};
+  clip-path: 
+    polygon(
+      -9999px calc(100% - tan(var(--a))*9999px),
+        9999px calc(100% + tan(var(--a))*9999px),
+      calc(100% + 9999px) calc(tan(var(--a))*9999px),
+      calc(100% - 9999px) calc(tan(var(--a))*-9999px)
+    );
+  margin-bottom: 100px;
+  margin-top: 11px;
+  padding-block: 36px 90px;
   > h2 {
     margin-top: 0;
   }
+}
+
+.full-line {
+  padding-block: 10px;
+  --b: 9px;
+  --g: linear-gradient(#C02942 33%,#0000 0 66%,#53777A 0);
+  border-image: var(--g) fill 0/calc(100% - var(--b)) 0 0/0 100vw 0 0
 }
 
 /* || BUTTONS AND LINKS */
@@ -342,8 +368,8 @@ label > .text-input {
 .text-input {
   border: 1px solid var(--black); 
   line-height: 1.5rem;
-  min-width: 220px;
   padding: 12px;
+  width: 100%;
   &::placeholder {
     color: var(--dark-gray);
   }
@@ -399,7 +425,7 @@ summary {
   display: grid;
   grid-template-columns: 1fr;
   margin-top: 60px;
-  row-gap: 24;
+  row-gap: 24px;
   h3 {
     font-size: 1.25rem;
     line-height: 1.875rem;
@@ -407,6 +433,15 @@ summary {
   }
   .team-subtitle {
     font-size: 1.125rem;
+  }
+}
+
+.subscribe-container {
+  > img {
+    display: none;
+  }
+  .button {
+    margin-top: 12px;
   }
 }
 
@@ -570,19 +605,47 @@ table {
   .hero-about {
     column-gap: 30px;
     display: flex;
-    padding-block: 60px 0;
+    padding-block: 60px 60px;
+    > * {
+      flex: 1 1 50%;
+    }
     > .hero-header {
       font-size: 2.25rem;
     }
+    > img {
+      display: initial;
+    }
   }
 
-  .gray-background::before {
-    left: -60px; // Padding of main content
+  .gray-background {
+    margin-top: 26px;
+  }
+
+  // Mailchimp style override
+  .mc-field-group {
+    display: inline-block;
+    margin-inline-end: 12px;
+  }
+
+  .subscribe-container {
+    align-items: center;
+    display: flex;
+    column-gap: 80px;
+    .button {
+      margin-top: 0;
+    }
+    > img {
+      display: initial;
+    }
   }
 
   .team-container {
     column-gap: 32px;
     grid-template-columns: auto 1fr;
     row-gap: 40px;
+  }
+
+  .text-input {
+    min-width: 354px;
   }
 }
