@@ -66,7 +66,7 @@ h1 {
   font-size: 2.5rem;
   line-height: 3rem;
   margin-top: 0;
-  margin-bottom: 30px;
+  margin-block-end: 30px;
   &.extraLarge {
     font-size: 3rem;
     line-height: 3.6rem;
@@ -76,7 +76,7 @@ h1 {
 h2 {
   font-size: 2.375rem;
   line-height: 2.85rem;
-  margin-bottom: 24px;
+  margin-block-end: 24px;
   > a {
     font-size: inherit;
   }
@@ -85,7 +85,7 @@ h2 {
 h3 {
   font-size: 2rem;
   line-height: 2.6rem;
-  margin-bottom: 20px;
+  margin-block: 0 20px;
 }
 
 h4 {
@@ -109,7 +109,7 @@ p, li {
 }
 
 p:last-child {
-  margin-bottom: 0;
+  margin-block-end: 0;
 }
 
 .list-heading {
@@ -226,6 +226,7 @@ strong {
 
 .main-content {
   grid-area: main;
+  margin-inline: auto;
   max-width: 1320px;
   padding-inline: 20px;
 }
@@ -282,6 +283,9 @@ strong {
   padding-inline: 24px;
   text-align: center;
   text-transform: uppercase;
+  &:is(a) {
+    display: inline-block;
+  }
   &:not(.button-outline) {
     background: var(--logo-green);
     border: 2px solid transparent;
@@ -376,19 +380,24 @@ summary {
 /* || POSTS */
 
 .recent-posts-container {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(375px, 1fr));
-  column-gap: 32px;
+  margin-block-end: 64px;
+  > p {
+    margin-block: 10px 24px;
+  }
 }
 
-.recent-post {
-  display: grid;
-  grid-template-columns: 1fr;
-  grid-template-rows: auto;
-  > img {
-    height: 300px;
-    max-width: 100%;
-    object-fit: contain;
+.recent-post-header {
+  font-size: 1.5rem;
+  line-height: 2.1rem;
+  margin-block-end: 0;
+}
+
+.recent-post-img {
+  height: 300px;
+  width: 100%;
+  object-fit: contain;
+  &:not(:first-child) {
+    margin-top: 30px;
   }
 }
 
@@ -578,6 +587,17 @@ table {
 
   .gray-background::before {
     left: -60px; // Padding of main content
+  }
+
+  .recent-posts-container {
+    column-gap: 32px;
+    display: grid;
+    grid-auto-flow: column;
+    grid-template-rows: repeat(5, auto);
+  }
+
+  .recent-post-img {
+    object-fit: cover;
   }
 
   .team-container {
