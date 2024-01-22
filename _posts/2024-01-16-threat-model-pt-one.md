@@ -2,7 +2,7 @@
 title: A Threat Model for Data Portability Using a Reference Architecture
 tags: security
 author: Lisa Dusseault
-post-excerpt: "Define categories of threats to data transfer, and examine which threats are easiest to handle with a 
+excerpt: "Define categories of threats to data transfer, and examine which threats are easiest to handle with a 
 reference architecture."
 thumbnail: /images/blog/reference-arch-thumbnail.png
 ---
@@ -213,4 +213,3 @@ I still have three threat categories left that are going to take longer to discu
 * Permission and Access Control
 
 I kind of expected this to telescope into a three-parter blog post once I got started. Any bets on whether I’ll come up with a 4th part before part 3 is out? Stay tuned!
-
