@@ -84,8 +84,4 @@ logo: dark
 </section>
 
 
-<script>
-  lucide.createIcons();
-</script>
-
 {% include recent-posts.html %}
