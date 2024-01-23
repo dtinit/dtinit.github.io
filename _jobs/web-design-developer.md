@@ -51,7 +51,8 @@ Because we’re a small team and each person wears several hats, what other hats
 
 
 ### Application Process
-Please send your resume and optional cover letter to XXX. In the cover letter, help us understand your story and your superpowers. We believe references and portfolios are better demonstrations of your work abilities than interviews, so feel free to send relevant information  up-front if that works well for you.  
+
+Please send your resume and optional cover letter to lisa@dtinit.org. In the cover letter, help us understand your story and your superpowers. We believe references and portfolios are better demonstrations of your work abilities than interviews, so feel free to send relevant information  up-front if that works well for you.  
 
 After reviewing candidate applications, we will select several qualified folks and request to schedule a couple online video interviews to get to know you and assess fit and interest.
 
