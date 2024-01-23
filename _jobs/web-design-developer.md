@@ -56,4 +56,4 @@ Please send your resume and optional cover letter to lisa@dtinit.org. In the cov
 
 After reviewing candidate applications, we will select several qualified folks and request to schedule a couple online video interviews to get to know you and assess fit and interest.
 
-
+The Data Transfer Initiative provides equal employment opportunity (EEO) to all persons regardless of age, color, national origin, citizenship status, physical or mental disability, race, religion, creed, gender, sex, pregnancy, sexual orientation, gender identity and/or expression, genetic information, marital status, status with regard to public assistance, veteran status, or any other characteristic protected by federal, state or local law. We are committed to building a diverse staff and strongly encourage applications from candidates who may be people of color, disabled, gender and sexual minorities, and other disadvantaged backgrounds.
