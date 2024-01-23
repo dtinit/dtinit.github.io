@@ -17,7 +17,7 @@ social:
     - https://github.com/dtinit
 
 # NOTE: If replacing this next line with your own URL, you likely want "https://" not "http://"
-production_url : https://dtinit.github.io/data-transfer-initiative
+production_url : https://dtinit.org
 
 # Tell Github to use the kramdown markdown interpreter
 # (see https://help.github.com/articles/migrating-your-pages-site-from-maruku)
@@ -28,6 +28,11 @@ collections:
     layout: post
     output: true
     permalink: /blog/:year/:month/:day/:title
+
+  jobs:
+    layout: job
+    output: true
+
 
 plugins:
   - jekyll-feed
