@@ -67,9 +67,8 @@ h5 {
 }
 
 h1 {
-  font-size: 2.5rem;
-  line-height: 3rem;
-  margin-top: 0;
+  font-size: 2.25rem;
+  line-height: 2.6rem;
   margin-block-end: 30px;
   &.extraLarge {
     font-size: 3rem;
@@ -78,8 +77,8 @@ h1 {
 }
 
 h2 {
-  font-size: 2.375rem;
-  line-height: 2.85rem;
+  font-size: 2rem;
+  line-height: 2.4rem;
   margin-block-end: 24px;
   > a {
     font-size: inherit;
@@ -89,7 +88,7 @@ h2 {
 h3 {
   font-size: 2rem;
   line-height: 2.6rem;
-  margin-block: 0 20px;
+  margin-block-end: 20px;
 }
 
 h4 {
@@ -121,6 +120,9 @@ p:last-child {
   font-size: 1.25rem;
   font-weight: 500;
   line-height: 1.875rem;
+  & + p {
+    margin-block-end: 0;
+  }
 }
 
 small {
@@ -213,15 +215,15 @@ strong {
 
 .hero {
   grid-area: hero;
-  padding-inline: 20px;
   position: relative;
 }
 
 .hero-about {
+  padding-inline: 20px;
   padding-block: 30px 60px;
   .hero-header {
     font-size: 2rem;
-    line-height: 2.5rem;
+    margin-top: 0;
   }
   > img {
     display: none;
@@ -235,6 +237,22 @@ strong {
     position: absolute;
     transform: rotate(3deg);
     width: calc(100vw + 3px);
+    z-index: 1;
+  }
+}
+
+.hero-home {
+  background-color: var(--black);
+  margin-block-end: 40px;
+  padding-block: 80px;
+  > .hero-header {
+    color: var(--white);
+    font-size: 2rem;
+    line-height: 2.5rem;
+    font-weight: 500;
+    margin-block-start: 0;
+    padding-inline-start: 60px;
+    transform: rotate(3deg);
   }
 }
 
@@ -260,14 +278,14 @@ strong {
   text-align: right;
 }
 
-section + .gray-background {
+section + .slanted-background {
   margin-top: 120px;
 }
 
-.gray-background {
+.slanted-background {
   --a: 3deg;
   $problematic-code: "0//9999px";
-  border-image: conic-gradient(var(--background-gray) 0 0) fill #{$problematic-code};
+  border-image: conic-gradient(var(--slanted-bg-color, var(--background-gray)) 0 0) fill #{$problematic-code};
   clip-path: 
     polygon(
       -9999px calc(100% - tan(var(--a))*9999px),
@@ -362,6 +380,12 @@ section + .gray-background {
   width: 296px;
 }
 
+.lucide {
+  height: 50px;
+  stroke-width: 1px;
+  width: 50px;
+}
+
 /* || FORM ELEMENTS */
 
 label > .text-input {
@@ -403,6 +427,10 @@ summary {
   line-height: 1.6875rem;
 }
 
+.emphasis {
+  color: var(--logo-green);
+}
+
 /* || POSTS */
 
 .recent-posts-container {
@@ -415,7 +443,8 @@ summary {
 .recent-post-header {
   font-size: 1.5rem;
   line-height: 2.1rem;
-  margin-block-end: 0;
+  margin-block: 0;
+  text-wrap: balance;
 }
 
 .recent-post-img {
@@ -428,6 +457,36 @@ summary {
 }
 
 /* || MISC */
+
+.home-intro-text {
+  p:not(.home-intro-subsection > p) {
+    font-size: 1.125rem;
+  }
+}
+
+.home-intro-subsection {
+  display: grid;
+  grid-template-rows: repeat(3, auto);
+  justify-items: center;
+  > .list-heading {
+    margin-block-end: 0;
+  }
+  > p + .lucide {
+    margin-block-start: 16px; 
+  }
+}
+
+.members-container {
+  margin-inline: auto;
+  max-width: 1000px;
+  text-align: center;
+  > :last-child {
+    display: flex;
+    column-gap: 80px;
+    justify-content: center;
+    margin-block-start: 48px;
+  }
+}
 
 .team-container {
   align-items: end;
@@ -576,6 +635,7 @@ table {
   margin-top: 8px;
 }
 
+
 // MEDIA QUERIES
 
 @media (min-width: 850px) {
@@ -587,6 +647,16 @@ table {
     "hero hero"
     "main main"
     "footer footer";
+  }
+
+  h1 {
+    font-size: 2.5rem;
+    line-height: 3rem;
+  }
+
+  h2 {
+    font-size: 2.375rem;
+    line-height: 2.85rem;
   }
 
   .main-header,
@@ -606,28 +676,60 @@ table {
     gap: 42px;
   }
 
-  .main-content,
-  .hero {
+  .main-content {
     padding-inline: 60px;
   }
 
   .hero-about {
     column-gap: 30px;
     display: flex;
+    padding-inline: 60px;
     padding-block: 60px 60px;
     > * {
       flex: 1 1 50%;
     }
     > .hero-header {
-      font-size: 2.25rem;
+      font-size: 2.5rem;
+      line-height: 3.5rem;
     }
     > img {
       display: initial;
     }
   }
 
-  .gray-background {
-    margin-top: 26px;
+  .hero-home {
+    margin-block-end: 100px;
+    > .hero-header {
+      font-size: 2.5rem;
+      line-height: 3.5rem;
+    }
+  }
+
+  .home-intro-container {
+    display: flex;
+    column-gap: 80px;
+    > h1 {
+      margin-block-start: 0;
+    }
+  }
+
+  .home-intro-text {
+    > p:not(.home-intro-subsection > p) {
+      margin-block-start: 0;
+    }
+  }
+
+  .home-intro-subsection {
+    grid-auto-flow: column;
+    justify-items: left;
+    margin-block-start: 22px;
+    > p + .lucide {
+      margin-block-start: 0;
+    }
+  }
+
+  .slanted-background {
+    margin-top: 31px;
   }
 
   // Mailchimp style override
