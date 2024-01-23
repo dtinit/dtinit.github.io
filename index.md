@@ -28,12 +28,12 @@ hero: hero-home.html
 </section>
 
 <section class="slanted-background members-container" style="--slanted-bg-color: var(--light-green)">
-	<h2>DTI Members</h2>
+	<h2>DTI Partners</h2>
 	<p>
 		DTI’s ancestor, the Data Transfer Project, was created in 2018 as an industry collaboration with a mission of enabling users to complete simple, fast, and secure data transfers directly between services. Since its creation, the project has built an open source technology framework that powers direct data transfer features within <a href="https://takeout.google.com/takeout/transfer/custom/photos" target="_blank" rel="noopener nofollow ">Google Takeout</a>, <a href="http://facebook.com/tyi" target="_blank" rel="noopener nofollow">Facebook’s Transfer your Information</a>, and <a href="https://privacy.apple.com/" target="_blank" rel="noopener nofollow">Apple’s Data and Privacy page</a>, as well as software libraries that connect to over a dozen additional services.
 	</p>
 	<p class="heading-subtitle">
-		<strong>DTI members help translate principle to practice, catalyzing greater user agency and empowerment by committing dedicated policy and engineering resources to the promotion of data portability.</strong>
+		<strong>DTI partners help translate principle to practice, catalyzing greater user agency and empowerment by committing dedicated policy and engineering resources to the promotion of data portability.</strong>
 	</p>
 	<div>
 		<img height="50" src="/images/icons/google.png" alt="" />
