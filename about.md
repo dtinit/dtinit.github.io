@@ -3,7 +3,7 @@ logo: light
 hero: hero-about.html
 ---
 
-<section class="gray-background">
+<section class="slanted-background">
   <h2>Our beliefs about standards</h2>
   <p>
     <strong class="list-heading">Build for users</strong>
@@ -54,7 +54,7 @@ hero: hero-about.html
   </div>
 </section>
 
-<section class="gray-background subscribe-container">
+<section class="slanted-background subscribe-container">
   <div>
     <h2>Keep up with DTI</h2>
     <p>
