@@ -278,6 +278,25 @@ strong {
   }
 }
 
+.hero-work {
+  background-color: var(--black);
+  color: var(--white);
+  margin-block-end: 50px;
+  padding-inline: 60px;
+  padding-block: 64px;
+  > .hero-header {
+    color: var(--white);
+    margin-block: 0;
+    white-space: nowrap;
+  }
+  > p {
+    font-size: 1.5rem;
+    line-height: 2.25rem;
+    max-width: 880px;
+  }
+}
+
+
 .main-content {
   grid-area: main;
   margin-inline: auto;
@@ -767,6 +786,18 @@ table {
           transform: rotate(-3deg);
         }
       }
+    }
+  }
+
+  .hero-work {
+    align-items: center;
+    display: flex;
+    column-gap: 80px;
+    margin-block-end: 60px;
+    padding-block: 100px;
+    > p {
+      font-size: 1.75rem;
+      line-height: 2.625rem;
     }
   }
 

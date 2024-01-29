@@ -1,5 +1,6 @@
 ---
 logo: dark
+hero: hero-work.html
 ---
 
 
