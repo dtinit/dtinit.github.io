@@ -46,26 +46,12 @@ hero: hero-home.html
 	<img src="/images/dtinit_logo_lg.svg" alt="" style="max-width: 100%; width: 361px;" />
 </figure>
 
-<section class="subscribe-container" style="padding-bottom: 40px;">
-  <div>
-    <h2>Learn more about DTI and our work!</h2>
-    <div id="mc_embed_shell">
-      <div id="mc_embed_signup">
-        <form action="https://dtinit.us21.list-manage.com/subscribe/post?u=3ba10a090b97c2dc608fd780e&amp;id=1bb7a69318&amp;f_id=0012d8e1f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_self" novalidate="">
-          <div id="mc_embed_signup_scroll">
-            <div class="mc-field-group">
-              <input aria-label="Email address" type="email" name="EMAIL" class="text-input required email" id="mce-EMAIL" required="" value="" placeholder="Enter your email" />
-            </div>
-            <div aria-hidden="true" style="position: absolute; left: -5000px;">
-              <input type="text" name="b_3ba10a090b97c2dc608fd780e_1bb7a69318" tabindex="-1" value="" />
-            </div>
-            <input type="submit" name="subscribe" id="mc-embedded-subscribe" class="button" value="Subscribe" />
-          </div>
-        </form>
-      </div>
-    </div>
-  </div>
-</section>
+<p class="home-learn-more"> 
+  <span>
+		Learn more about DTI and our work!
+	</span>
+	<a class="button" href="/about">About DTI</a>
+</p>
 
 
 {% include recent-posts.html %}

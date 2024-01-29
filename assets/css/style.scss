@@ -510,6 +510,19 @@ summary {
   }
 }
 
+.home-learn-more {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-block: 40px 80px;
+  > span {
+    font-size: 2rem;
+    font-weight: 700;
+    line-height: normal;
+  }
+}
+
 .team-container {
   align-items: end;
   display: grid;
@@ -782,6 +795,14 @@ table {
 
   .slanted-background {
     margin-top: 31px;
+  }
+
+  .home-learn-more {
+    column-gap: 30px;
+    flex-wrap: nowrap;
+    > span {
+      font-size: 3rem;
+    }
   }
 
   // Mailchimp style override
