@@ -127,7 +127,7 @@ hero: hero-about.html
     If you have any questions that are not answered in our FAQ, please feel free to contact us.
   </p>
 
-  <a class="button button-primary" href="/contact">
+  <a class="button button-primary" href="https://github.com/dtinit/dtinit.github.io/issues">
     Contact
   </a>
 </section>
