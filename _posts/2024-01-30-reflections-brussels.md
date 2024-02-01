@@ -1,6 +1,6 @@
 ---
 title: Reflections from Brussels in the snow
-tags: metrics
+tags: news
 author: Chris Riley
 excerpt: "Chris Riley writes a few thoughts on the state of data portability policy in the European Union as the DMA approaches its historic effective date."
 thumbnail: /images/blog/brussels-snow.jpg
