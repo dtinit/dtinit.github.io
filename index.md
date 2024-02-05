@@ -35,11 +35,7 @@ hero: hero-home.html
 	<p class="heading-subtitle">
 		<strong>DTI partners help translate principle to practice, catalyzing greater user agency and empowerment by committing dedicated policy and engineering resources to the promotion of data portability.</strong>
 	</p>
-	<div>
-		<img height="50" src="/images/icons/google.png" alt="" />
-		<img height="50" src="/images/icons/apple.png" alt="" />
-		<img height="50" src="/images/icons/meta.png" alt="" />
-	</div>
+
 </section>
 
 <figure style="text-align: center;">
