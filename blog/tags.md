@@ -1,3 +1,7 @@
+---
+logo: light
+---
+
 # Find a post by its tag(s)
 
 <ul class="posts-by-tag">
