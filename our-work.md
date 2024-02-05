@@ -3,48 +3,110 @@ logo: dark
 hero: hero-work.html
 ---
 
+<section>
+  <h2>Data Transfer Project</h2>
+  <div class="our-work-intro-container">
+    <ul class="our-work-intro">
+      <li>
+        The Data Transfer Project (DTP) is an open source project that uses services’ existing APIs and authorization mechanisms to access data. It then uses service specific adapters to transfer that data into a common format, and then back into the new service’s API.
+      </li>
+      <li>
+        <strong>DTP continues to be developed and grow today.</strong>
+      </li>
+    </ul>
+    <nav class="our-work-nav">
+      <ul class="work-nav-list">
+        <li>
+          <img class="list-icon" src="/images/icons/github-solid.svg" alt="">
+          <a href="https://github.com/dtinit" rel="noopener nofollow" target="_blank">DTP Github Repository</a>
+        </li>
+        <li>
+          <img class="list-icon" src="/images/icons/book-icon.svg" alt="">
+          <a href="/docs/dtp-what-is-it">DTP &mdash; What is it?</a>
+        </li>
+        <li>
+          <img class="list-icon" src="/images/icons/book-icon.svg" alt="">
+          <a href="/docs/dtp-intro-for-contributors">Intro for Potential Participants</a>
+        </li>
+        <li>
+          <img class="list-icon" src="/images/icons/book-icon.svg" alt="">
+          <a href="/docs/dtp-documentation">DTP Component Overview</a>
+        </li>
+      </ul>
+    </nav>
+  </div>
 
-## Policy and Trust work
+  <h3 class="our-work-h3">
+    <img class="header-icon" src="/images/icons/block-icon.svg" alt="" height="40" />
+    Open Source
+  </h3>
 
-Our work on portability policy means that we talk to many policy-makers.  Much of our focus right now is on trust frameworks.  This [blog post](/blog/2023/11/07/framework-trust) is a good introduction.
+  <p>
+    The Data Transfer Project (DTP) is an open source project that uses services’ existing APIs and authorization mechanisms to access data. It then uses service specific adapters to transfer that data into a common format, and then back into the new service’s API. DTP continues to be developed and grow today.
+  </p>
 
+  <h3 class="our-work-h3">
+    <img class="header-icon" src="/images/icons/block-icon.svg" alt="" height="40" />
+    History
+  </h3>
 
-## Events
+  <p>
+    The Data Transfer Project was created in 2018 as an industry collaboration with a mission of enabling users to complete simple, fast, and secure data transfers directly between services. Since its creation, the project has built an open source technology framework that powers direct data transfer features within Google Takeout, Facebook’s Transfer your Information, and Apple’s Data and Privacy page, as well as software libraries that connect to over a dozen additional services.
+  </p>
 
+  <h3 class="our-work-h3">
+    <img class="header-icon" src="/images/icons/block-icon.svg" alt="" height="40" />
+    How it Works
+  </h3>
 
-<strong class="list-heading">Spring Policy Event in DC - Empowerment through Portability</strong>
+  <p>
+    The Data Transfer Project was created in 2018 as an industry collaboration with a mission of enabling users to complete simple, fast, and secure data transfers directly between services. Since its creation, the project has built an open source technology framework that powers direct data transfer features within <a href="https://takeout.google.com/takeout/transfer/custom/photos" rel="noopener nofollow" target="_blank">Google Takeout</a>, <a href="http://facebook.com/tyi" rel="noopener nofollow" target="_blank">Facebook’s Transfer your Information</a>, and <a href="https://privacy.apple.com" rel="noopener nofollow" target="_blank">Apple’s Data and Privacy page</a>, as well as software libraries that connect to over a dozen additional services.
+  </p>
+</section>
 
-The [Data Transfer Summit &mdash; Empowerment through Portability](/docs/feb29summit.md) event convenes
-academics, regulators and industry in DC to discuss difficult policy questions and the future
-of data portability policy.
+<section class="slanted-background">
+  <figure class="video-wrapper">
+    <iframe class="video-embed" width="1100" height="622" src="https://www.youtube-nocookie.com/embed/_mVhmDnhrWo?si=BYbCUhmeT34HCHwQ" title="YouTube video player that plays a video describing the Data Transfer Project" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  </figure>
+  <figcaption class="video-description">
+    This video serves as a good introduction to the Data Transfer Project's goals and participants. The DTP is a project within the DTI, which continues to grow and be developed today.
+  </figcaption>
+</section>
 
-### Past Events
-<article class="section" markdown="1">
+<section>
+  <h2>Events</h2>
+  <article>
+    <h3>
+      Spring Policy Event in DC &mdash; Empowerment through Portability
+    </h3>
+    <p>
+      The <a href="/docs/feb29summit">Data Transfer Summit &mdash; Empowerment through Portability event</a> convenes academics, regulators and industry in DC to discuss difficult policy questions and the future of data portability policy.
+    </p>
+  </article>
+</section>
 
-<strong class="list-heading">The Federated Data Transfer Miniconference </strong>
+<hr/>
 
-On September 27th and 28th - (08:00 Pacific, 11:00 Eastern, 15:00 UTC) - the Data Transfer Initiative hosted our first online conference for social software developers, the Federated Data Transfer Miniconference.
+<section>
+  <h2>Past Events</h2>
+  <article>
+    <h3>The Federated Data Transfer Miniconference</h3>
+    <p>
+      On September 27th and 28th &ndash; (08:00 Pacific, 11:00 Eastern, 15:00 UTC) &ndash; the Data Transfer Initiative hosted our first online conference for social software developers, the Federated Data Transfer Miniconference.
+    </p>
+    <p>
+      <a href="/docs/dtp-federated-miniconference-report">
+        The full Federated Data Transfer Miniconference Event Report
+      </a> is now available.
+    </p>
+  </article>
+</section>
 
-*Update: [The full Federated Data Transfer Miniconference Event Report](/docs/dtp-federated-miniconference-report) is now available.*
+<hr/>
 
-
-
-## Data Transfer Project
-
-DTI helps to shepherd the Data Transfer Project.  **The Data Transfer Project was created in 2018** as an open-source industry collaboration with a mission of enabling users to complete simple, fast, and secure data transfers directly between services. Since its creation, the project has built an open framework that powers functionality within [Google Takeout](https://takeout.google.com/takeout/transfer/custom/photos){:target="blank"}, [Facebook’s Transfer your Information](http://facebook.com/tyi){:target="blank"}, and [Apple’s Data and Privacy page](https://privacy.apple.com){:target="blank"}.  DTP can connect to over a dozen additional services.
-
-<figure class="video__wrapper">
-<iframe class="video__embed" width="560" height="315" src="https://www.youtube-nocookie.com/embed/_mVhmDnhrWo?si=BYbCUhmeT34HCHwQ" title="YouTube video player that plays a video describing the Data Transfer Project" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<figcaption class="video__description">
-To learn more about the Data Transfer Project's goals and participants, this video serves as a good introduction.
-</figcaption>
-</figure>
-
-DTP runs as a server in a data exporter's platform. From there, it makes it easier for the data exporter to offer destinations for porting, exporting or backing up data, even in large volume. In turn this allows people to switch services or try new and innovative products. **Without DTP**, transferring a copy of data from one service to another can be a time consuming process, requiring a user to download a copy of their data to a local device and re-upload it to a new service. This can be particularly challenging for mobile-only users, those with limited bandwidth, and in markets where people pay-as-they-go for data usage. Direct service-to-service portability removes the need for local device storage and transfer -– **enabling users to move their data directly between services**.
-
-As an Open Source project, DTP's code defines a service that can be deployed by data exporters and run in their environment, connected to existing front-end interfaces and backend APIs, to support data portability well.   It also defines extensions that data importers contribute to support transfers into their services.  The Open Source project makes portability easier for these companies by providing standard data formats and mechanisms for managing long-running portability "jobs".  Multiple data importing/exporting platforms have contributed adaptors, such that a service adopting DTP can quickly offer multiple interoperable destinations.
-
-DTP continues to be developed and grow today. Further documentation can be found:
-* [DTP Documentation](/docs/dtp-documentation)
-
-<br>
+<p class="home-learn-more"> 
+  <span>
+		Learn more about DTI and our work!
+	</span>
+	<a class="button" href="/about">About DTI</a>
+</p>

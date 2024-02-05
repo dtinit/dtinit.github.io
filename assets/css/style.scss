@@ -1,6 +1,6 @@
 ---
 ---
-// Note: A lot of the styles start with a mobile-first mentality and then make adjustments in the media queries at bottom
+// NOTE: A lot of the styles start with a mobile-first mentality and then make adjustments in the media queries at bottom for larger screens
 
 html {
   --white: #fff;
@@ -86,14 +86,14 @@ h2 {
 }
 
 h3 {
-  font-size: 2rem;
-  line-height: 2.6rem;
+  font-size: 1.65rem;
+  line-height: 2.1rem;
   margin-block-end: 20px;
 }
 
 h4 {
-  font-size: 1.5rem;
-  line-height: 2.1rem;
+  font-size: 1.4rem;
+  line-height: 1.8rem;
 }
 
 h5 {
@@ -132,6 +132,12 @@ small {
 
 strong {
   font-weight: 500;
+}
+
+hr {
+  border-color: var(--contrast-green);
+  border-width: 2px;
+  margin-block: 20px;
 }
 
 .tag-list {
@@ -407,6 +413,19 @@ section + .slanted-background {
 
 /* || IMAGES */
 
+.header-icon,
+.list-icon {
+  margin-inline-end: 10px;
+}
+
+.header-icon {
+  vertical-align: middle;
+}
+
+.list-icon {
+  vertical-align: text-bottom;
+}
+
 .social-icon {
   display: inline-block;
   & + .social-icon {
@@ -472,6 +491,25 @@ summary {
   color: var(--logo-green);
 }
 
+.video-wrapper,
+.video-description {
+  margin-inline: auto;
+  max-width: 1100px;
+}
+
+.video-description {
+  font-size: 1.125rem;
+  line-height: 1.5rem;
+  margin-block-start: 18px;
+}
+
+.video-embed {
+  aspect-ratio: 16 / 9;
+  border: 2px solid var(--light-gray);
+  height: auto;
+  width: 100%;
+}
+
 /* || POSTS */
 
 .recent-posts-container {
@@ -531,6 +569,7 @@ summary {
 
 .home-learn-more {
   align-items: center;
+  column-gap: 30px;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
@@ -564,6 +603,35 @@ summary {
   }
   .button {
     margin-top: 12px;
+  }
+}
+
+.our-work-intro-container {
+  margin-block-end: 42px;
+}
+
+.our-work-h3 {
+  font-size: 1.75rem;
+}
+
+.our-work-nav {
+  margin-block-start: 24px;
+  margin-inline: auto;
+  .work-nav-list {
+    display: flex;
+    flex-direction: column;
+    margin-block: 0;
+    padding-inline: 0;
+    row-gap: 14px;
+    > li {
+      font-size: 1.25rem;
+      font-weight: 700;
+      letter-spacing: normal;
+      list-style: none;
+    }
+  }
+  .list-icon {
+    height: 36px;
   }
 }
 
@@ -671,24 +739,6 @@ table {
   font-weight: 300;
 }
 
-.video__wrapper {
-  margin-left: auto;
-  margin-right: auto;
-  max-width: 560px;
-}
-
-.video__embed {
-  aspect-ratio: 16 / 9;
-  border: 2px solid var(--light-gray);
-  height: auto;
-  width: 100%;
-}
-
-.video__description {
-  font-size: 0.9rem;
-  margin-top: 8px;
-}
-
 
 // MEDIA QUERIES
 
@@ -711,6 +761,17 @@ table {
   h2 {
     font-size: 2.375rem;
     line-height: 2.85rem;
+  }
+
+  h3 {
+    font-size: 2rem;
+    line-height: 2.6rem;
+    margin-block-end: 20px;
+  }
+
+  h4 {
+    font-size: 1.5rem;
+    line-height: 2.1rem;
   }
 
   .main-header,
@@ -829,7 +890,6 @@ table {
   }
 
   .home-learn-more {
-    column-gap: 30px;
     flex-wrap: nowrap;
     > span {
       font-size: 3rem;
@@ -851,6 +911,49 @@ table {
     }
     > img {
       display: initial;
+    }
+  }
+
+  section:has(.our-work-intro-container) {
+    > h2 {
+      margin-block: 0;
+    }
+  }
+
+  .our-work-intro-container {
+    align-items: flex-end;
+    column-gap: 60px;
+    display: flex;
+  }
+
+  .our-work-h3 + p {
+    font-size: 1.5rem;
+    line-height: 2.1rem;
+  }
+
+  .our-work-intro {
+    flex: 1 1 50%;
+    margin-block: 0;
+    > li {
+      font-size: 1.5rem;
+      letter-spacing: initial;
+      line-height: 2.1rem;
+    }
+  }
+
+  .our-work-nav {
+    margin-block: 0;
+    margin-inline: initial;
+    .work-nav-list {
+      row-gap: 18px;
+      > li {
+        font-size: 1.75rem;
+        line-height: 2.1rem;
+        white-space: nowrap;
+      }
+    }
+    .list-icon {
+      height: initial;
     }
   }
 
