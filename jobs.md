@@ -1,8 +1,10 @@
+---
+logo: light
+---
 
 # Open jobs
 
-  <div>
-
+<div>
 {% for job in site.jobs %}
     <h2 class="post-title">
       <a href="{{ job.url | relative_url }}">
