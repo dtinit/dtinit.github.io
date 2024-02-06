@@ -1,3 +1,6 @@
+---
+logo: dark
+---
 # Data Transfer Project &mdash; Intro for Potential Contributors
 
 If you already have concluded your service or a service you contribute to could usefully run a DTP server, or participate as an exporter or importer in the DTP ecosystem, this document should help get you started.  (On the other hand if you aren't sure about the applicability of DTP, about who runs it or why, checkout our ["what is it" intro](dtp-what-is-it).)
@@ -6,8 +9,6 @@ This overall introduction document explains how the pieces of DTP work together,
  * Ops or release engineers -- [System components and interfaces](#system)
  * Frontend engineers -- [How to drive DTP from frontend ](#frontend)
  * Backend engineers -- [Extensions](#extensions)
-
-
 
 ## Data verticals
 

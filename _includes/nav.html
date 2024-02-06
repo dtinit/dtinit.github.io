@@ -1,17 +1,11 @@
-<div class="header-wrapper">
-  <a href="{{site.baseurl}}/" class="logo__text">
-    Data Transfer Initiative
-  </a>
-
-  <nav>
-    <ul class="nav__list">
-      {% for item in site.data.navigation %}
-        <li class="nav__item">
-          <a href="{{item.link}}" {% if item.link == page.url %}class="active"{% endif %}>
-            {{ item.name }}
-          </a>
-        </li>
-      {% endfor %}
-    </ul>
-  </nav>
-</div>
+<nav class="main-nav {{page.logo}}">
+  <ul class="nav-list">
+    {% for item in site.data.navigation %}
+      <li class="nav-item">
+        <a href="{{item.link}}" {% if item.link == page.url %}class="active"{% endif %}>
+          {{ item.name }}
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+</nav>

@@ -2,8 +2,7 @@
 title: A Reference Architecture for Portability Threat Modeling
 tags: security
 author: Lisa Dusseault
-post-excerpt: "Before starting to describe a threat model for data portability, we will need some core
-use cases and a reference architecture."
+excerpt: "Before starting to describe a threat model for data portability, we will need some core use cases and a reference architecture."
 thumbnail: /images/architecture-assumes-like-to-like.png
 ---
 

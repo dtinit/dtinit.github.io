@@ -213,4 +213,3 @@ I still have three threat categories left that are going to take longer to discu
 * Permission and Access Control
 
 I kind of expected this to telescope into a three-parter blog post once I got started. Any bets on whether I’ll come up with a 4th part before part 3 is out? Stay tuned!
-

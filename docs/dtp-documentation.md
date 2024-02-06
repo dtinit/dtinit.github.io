@@ -1,3 +1,7 @@
+---
+logo: dark
+---
+
 # DTP Documentation
 
 ## How does DTP Work

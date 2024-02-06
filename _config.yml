@@ -44,4 +44,5 @@ defaults:
       path: ""
       type: "posts"
     values:
+      logo: light
       thumbnail: /images/blog/Firefly-notepad-green-desk.jpg

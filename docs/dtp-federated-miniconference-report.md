@@ -1,3 +1,6 @@
+---
+logo: dark
+---
 # The Federated Data Transfer Miniconference: A Summary
 
 On September 27-28, 2023, DTI hosted its first Federated Data Transfer Miniconference online. This event brought together dozens of Fediverse developers with guests from established Indieweb projects and large tech companies alike to discuss the state of play of tooling and policy allowing users to move accounts and personal data, between servers within the Fediverse. While protocol interoperability addresses many compatibility challenges through the shared use of ActivityPub, the larger Fediverse is bigger than ActivityPub and the process of moving between servers and services presents a set of distinctly human challenges.
@@ -168,4 +171,3 @@ Some concrete steps forward identified over the course of discussion include:
 ## Thank You
 
 The Fediverse has a deep bench, and everyone at DTI is grateful to the participants who gave us their time to share their expertise, experience, passion and optimism at our little first-time conference. We hope we’ve done your contributions justice in this too-brief summary, and we hope to do your passion and optimism justice as we all work to build out and build on everything we’ve learned together.
-

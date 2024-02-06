@@ -1,0 +1,18 @@
+- name: Chris Riley
+  position: Executive Director
+  headshot: mcriley.jpg
+  bio: Chris comes from the R Street Institute, a Washington, DC-based think tank, prior to which he led the Mozilla Corporation’s global public policy efforts for several years. His open source roots go back even further to his time working on the internet freedom portfolio at the U.S. Department of State, where he supported open source security and anti-censorship tools dedicated to advancing human rights online. Chris received his B.S. in computer science from Wheeling Jesuit University, his Ph.D. in computer science from Johns Hopkins University and his J.D. from Yale Law School.
+  linkedin: https://www.linkedin.com/in/mchrisriley/
+  mastodon: https://techpolicy.social/@mchris
+- name: Lisa Dusseault
+  position: CTO
+  headshot: lisadusseault.jpg
+  bio: Ms. Dusseault previously served as the CTO and Co-Founder of Compaas. Prior to Compaas, Ms. Dusseault served in technical roles at StubHub, Smule, and Microsoft among others, and spent several years as the Applications Area Director at the Internet Engineering Task Force.
+  linkedin: https://www.linkedin.com/in/lisadusseault/
+  mastodon: https://mastodon.geekery.org/@lisarue
+- name: Delara Derakhshani
+  position: Director of Policy
+  headshot: delara.jpg
+  bio: Ms. Derakhshani brings more than fifteen years of legal and policy expertise in privacy, technology, and telecommunications in the public and private sector serving in roles with Consumer Reports, Meta’s Reality Labs policy team, and the Entertainment Software Association.
+  linkedin: https://www.linkedin.com/in/delaraderakhshani/
+  mastodon:

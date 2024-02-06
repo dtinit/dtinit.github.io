@@ -1,9 +1,11 @@
+---
+logo: dark
+---
 # Data Transfer Project &mdash; What is it
 
 A few years ago, several companies wanted to move the state of the art forward for data portability.  Wanting to move further together than they could separately, they started collaborating on an Open Source project that allowed them to make use of each other's contributions.  That project became the [Data Transfer Project](https://github.com/google/data-transfer-project){:target="blank"} (DTP) and is now supported by a non-profit, the Data Transfer Initiative (DTI).
 
 Today, a data exporter can run DTP on a server inside their service, and provide a higher quality and scalability of data portability of user content to other data platforms.  The Open Source (OS) project has common data models and a library of adapters to connect data objects to the services APIs that are providing or receiving those data objects.
-
 
 ## How does it affect me as a user?
 
