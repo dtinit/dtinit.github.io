@@ -4,7 +4,76 @@ hero: hero-work.html
 ---
 
 <section>
-  <h2>Data Transfer Project</h2>
+  <h2>Annual Report</h2>
+  <article>
+  <p style="font-size: 1.5rem;">Our first ever <a href="/assets/DTI-Annual-Report-2023.pdf">annual report</a> describes our first year of operation.</p>
+  </article>
+</section>
+<br/>
+<section>
+  <h2>Policy Work</h2>
+
+  <div class="our-work-intro-container">
+    <ul class="our-work-intro">
+      <li>
+        Our work on portability policy means that we talk to many policy-makers, directly or via
+        publications and articles.
+      </li>
+      <li>Much of our focus right now is on trust frameworks.  This <a href="/blog/2023/11/07/framework-trust">blog post</a> is a good introduction.
+      </li>
+    </ul>
+    <nav class="our-work-nav">
+      <ul class="work-nav-list">
+        <li>
+          <img class="list-icon" src="/images/icons/book-icon.svg" alt="">
+          <a href="/assets/TPP-direct-data-transfers.pdf">Tech Policy Press article</a> 
+        </li>
+        <li>
+          <img class="list-icon" src="/images/icons/book-icon.svg" alt="">
+          <a href="assets/dti-leglandscape.pdf">Legislative Landscape</a>
+        </li>
+        <li>
+          <img class="list-icon" src="/images/icons/book-icon.svg" alt="">
+          <a href="https://www.regulations.gov/document/FTC-2020-0062-0010" rel="noopener nofollow" target="_blank">2020 Comments to the FTC</a>
+        </li>
+      </ul>
+    </nav>
+  </div>
+  
+</section>
+
+<section>
+  <h2>Events</h2>
+  <article>
+    <h3>
+      Spring Policy Event in DC &mdash; Empowerment through Portability
+    </h3>
+    <p>
+      The <a href="/docs/feb29summit">Data Transfer Summit &mdash; Empowerment through Portability event</a> convenes academics, regulators and industry in DC to discuss difficult policy questions and the future of data portability policy.
+    </p>
+  </article>
+</section>
+
+<section>
+  <h3>Past Events</h3>
+  <article>
+    <h3>The Federated Data Transfer Miniconference</h3>
+    <p>
+      On September 27th and 28th &mdash; (08:00 Pacific, 11:00 Eastern, 15:00 UTC) &mdash; the Data Transfer Initiative hosted our first online conference for social software developers, the Federated Data Transfer Miniconference.
+    </p>
+    <p>
+      <a href="/docs/dtp-federated-miniconference-report">
+        The full Federated Data Transfer Miniconference Event Report
+      </a> is now available.
+    </p>
+  </article>
+</section>
+<hr/>
+
+<section>
+  <h2>Open Source</h2>
+  <h3 class="our-work-h3">
+    Data Transfer Project</h3>
   <div class="our-work-intro-container">
     <ul class="our-work-intro">
       <li>
@@ -38,7 +107,7 @@ hero: hero-work.html
 
   <h3 class="our-work-h3">
     <img class="header-icon" src="/images/icons/block-icon.svg" alt="" height="40" />
-    Open Source
+    Building on Existing APIs
   </h3>
 
   <p>
@@ -73,34 +142,6 @@ hero: hero-work.html
   </figcaption>
 </section>
 
-<section>
-  <h2>Events</h2>
-  <article>
-    <h3>
-      Spring Policy Event in DC &mdash; Empowerment through Portability
-    </h3>
-    <p>
-      The <a href="/docs/feb29summit">Data Transfer Summit &mdash; Empowerment through Portability event</a> convenes academics, regulators and industry in DC to discuss difficult policy questions and the future of data portability policy.
-    </p>
-  </article>
-</section>
-
-<hr/>
-
-<section>
-  <h2>Past Events</h2>
-  <article>
-    <h3>The Federated Data Transfer Miniconference</h3>
-    <p>
-      On September 27th and 28th &ndash; (08:00 Pacific, 11:00 Eastern, 15:00 UTC) &ndash; the Data Transfer Initiative hosted our first online conference for social software developers, the Federated Data Transfer Miniconference.
-    </p>
-    <p>
-      <a href="/docs/dtp-federated-miniconference-report">
-        The full Federated Data Transfer Miniconference Event Report
-      </a> is now available.
-    </p>
-  </article>
-</section>
 
 <hr/>
 
