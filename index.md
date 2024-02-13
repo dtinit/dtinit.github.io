@@ -51,3 +51,21 @@ hero: hero-home.html
 
 
 {% include recent-posts.html %}
+
+<section>
+    <div id="mc_embed_shell">
+      <div id="mc_embed_signup">
+        <form action="https://dtinit.us21.list-manage.com/subscribe/post?u=3ba10a090b97c2dc608fd780e&amp;id=1bb7a69318&amp;f_id=0012d8e1f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_self" novalidate="">
+          <div id="mc_embed_signup_scroll">
+            <div class="mc-field-group">
+              <input aria-label="Email address" type="email" name="EMAIL" class="text-input required email" id="mce-EMAIL" required="" value="" placeholder="Enter your email" />
+            </div>
+            <div aria-hidden="true" style="position: absolute; left: -5000px;">
+              <input type="text" name="b_3ba10a090b97c2dc608fd780e_1bb7a69318" tabindex="-1" value="" />
+            </div>
+            <input type="submit" name="subscribe" id="mc-embedded-subscribe" class="button" value="Subscribe" />
+          </div>
+        </form>
+      </div>
+    </div>
+ </section>
