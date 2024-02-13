@@ -58,7 +58,7 @@ hero: hero-about.html
   <div>
     <h2>Keep up with DTI</h2>
     <p>
-      The scope of data portability is as broad and diverse as user data itself. We welcome you to join us in our efforts. To follow along with DTI’s work going forward, please sign up below.
+      The scope of data portability is as broad and diverse as user data itself. We welcome you to join us in our efforts. To follow along with DTI’s work via our newsletter, please sign up below.
     </p>
     <div id="mc_embed_shell">
       <div id="mc_embed_signup">
