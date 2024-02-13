@@ -1,8 +1,8 @@
 ---
-title: A future that doesn't feel impossible anymore
+title: A future that suddenly feels possible
 tags: social
 author: Mike Hoye
-excerpt: "Tapestry, a new Kickstarter proposing a unified inbox for social media, provides a window into the data portability powered future."
+excerpt: "Tapestry, a new Kickstarter proposing a unified inbox for social media, might be a glimpse of a human-centered future enabled by data portability."
 thumbnail: /images/blog/future-possible.jpg
 ---
 
