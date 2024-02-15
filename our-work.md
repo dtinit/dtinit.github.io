@@ -51,6 +51,10 @@ hero: hero-work.html
     <p>
       The <a href="/docs/feb29summit.html">Data Transfer Summit &mdash; Empowerment through Portability event</a> convenes academics, regulators and industry in DC to discuss difficult policy questions and the future of data portability policy.
     </p>
+    <ul>
+      <li><a href="/docs/feb29summitagenda">Agenda</a></li>
+      <li><a href="/docs/feb29summit.html">RSVP</a></li>
+    </ul>
   </article>
 </section>
 
