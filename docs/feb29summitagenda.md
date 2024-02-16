@@ -12,13 +12,11 @@ DTI will host such a collection of experts and stakeholders on February 29th at 
 The Data Transfer Summit will feature speakers from leading organizations including **NTIA,** **Google**, **Meta**, **Public Knowledge, Center for Democracy & Technology, Foundation for American Innovation**, and more.
 
 **>**  Thursday, February 29th @ 9:00 am - 5:00 pm
-
-  >> National Union Building \
-  >> 918 F St NW, Washington, DC 20004
+**>**  National Union Building
+**>**  918 F St NW, Washington, DC 20004
 
 **<span style="text-decoration:underline;">Agenda</span>**:
 
- \
 **9:00 am: Doors open**
 
 **9:30 - 9:45 am: Opening remarks**
