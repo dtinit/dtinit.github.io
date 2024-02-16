@@ -30,7 +30,7 @@ The Data Transfer Summit will feature speakers from leading organizations includ
 * “Data Portability IRL: A stakeholder assessment of data portability methods” -  Angela Woodall, Research Fellow, CELSA Sorbonne University
 * “Beyond Competition: Designing Data Portability to Support Research on the Digital Information Environment” - Zeve Sanderson, Executive Director, NYU's Center for Social Media and Politics
 
-**11:00 am - 12:00 pm: _The Business Case for Data Portability Panel Discussion _**
+**11:00 am - 12:00 pm: _The Business Case for Data Portability Panel Discussion_**
 
 Numerous open questions remain about data portability, particularly concerning how various laws should work together and with existing frameworks, and how these obligations and expectations mesh with the real worlds of technology design and business operation. And while there is much more to be done, the industry has made progress over several years to make data portability as simple, efficient, and easy as possible for consumers to use. Today, there is not only a regulatory case to be made for portability, but also a business one. During this panel, industry executives will share their perspectives as businesses in meeting this challenge. 
 
