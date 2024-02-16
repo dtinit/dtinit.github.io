@@ -1,4 +1,8 @@
-Subject: Register Today: Data Transfer Summit - Empowerment through Portability \
+---
+logo: dark
+---
+
+Register Today: Data Transfer Summit - Empowerment through Portability \
 **February 29, 2024** at the **National Union Building** from 9 am ET to 5 pm ET
 
 At the nexus point of personal data, regulation, and market opportunity, today a paradigm shift is in progress. From the Digital Markets Act in the EU to pending proposals in Korea, the re-introduction of the ACCESS Act in Congress, and new state proposals in the U.S., forthcoming laws together with new tools and technologies for personal data empowerment will lead to new opportunities for the information economy. Delivering the best collective outcomes through this transition will require collaboration and cooperation among many multidisciplinary stakeholders.
