@@ -42,11 +42,11 @@ Numerous open questions remain about data portability, particularly concerning h
 
 **2:00 pm - 2:45 pm: Scholar presentations and discussion**
 
-* “Faces and Places: Exploring Portability in Immersive Technologies“ - Joe Jerome, Visiting Assistant Professor, University of Tampa
+* “Faces and Places: Exploring Portability in Immersive Technologies“ - Joseph Jerome, Visiting Assistant Professor, University of Tampa
 * “What if you move on from your AI companion? Data portability in the era of autonomous AI agents” - Cornelia Kutterer, Managing Director, Considerati
 * “Implementing 'Continuous and Real Time' Data Portability with Webhooks” - Chand Rajendra-Nicolucci, Director of Product, University of Massachusetts Amherst
 
-**2:45 pm - 3:00 pm: _Lightning Talk: Permission Slip - A Presentation by Consumer Reports_**
+**2:45 pm - 3:00 pm: _Lightning Talk: Consumer Reports Permission Slip_**
 
 **3:30 pm - 4:30 pm: _Data Laws, Rights, and Regulations: Civil Society Panel Discussion_**
 
