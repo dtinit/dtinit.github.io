@@ -54,7 +54,7 @@ Regulators around the world recognize data portability as a tool to protect cons
 
 * Molly Roberts, Editorial Writer, _The Washington Post_
 * Chris Lewis, President & CEO, Public Knowledge
-* Alexandra Reeve Givens, Center for Democracy & Technology 
+* Alexandra Reeve Givens, President & CEO, Center for Democracy & Technology 
 * Zach Graves, Executive Director, Foundation for American Innovation 
 
 **4:30 pm - 5:00 pm: Closing Remarks**
