@@ -1,6 +1,6 @@
 ---
 title: Blog
-logo: light
+logo: dark
 ---
 
 <h1>
@@ -39,4 +39,5 @@ logo: light
       </p>
     </div>
   </article>
+<div class="blog-seperator"></div>
 {% endfor %}
