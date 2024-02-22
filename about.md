@@ -1,9 +1,9 @@
 ---
-logo: light
+logo: dark
 hero: hero-about.html
 ---
 
-<section class="slanted-background">
+<section  style="--slanted-bg-color: var(--light-green)">
   <h2>Our beliefs about standards</h2>
   <p>
     <strong class="list-heading">Build for users</strong>

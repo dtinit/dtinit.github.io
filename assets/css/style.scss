@@ -53,6 +53,7 @@ body {
   * {
     box-sizing: border-box;
   }
+
 }
 
 /* || TYPOGRAPHY */
@@ -67,7 +68,7 @@ h5 {
 }
 
 h1 {
-  font-size: 2.25rem;
+  font-size: 2.0rem;
   line-height: 2.6rem;
   margin-block-end: 30px;
   &.extraLarge {
@@ -77,7 +78,7 @@ h1 {
 }
 
 h2 {
-  font-size: 2rem;
+  font-size: 1.8rem;
   line-height: 2.4rem;
   margin-block-end: 24px;
   > a {
@@ -567,6 +568,18 @@ summary {
   }
 }
 
+.ourwork-container {
+  margin-inline: auto;
+  //max-width: 1000px;
+  text-align: left;
+  > :last-child {
+    display: flex;
+    column-gap: 80px;
+    justify-content: center;
+    margin-block-start: 48px;
+  }
+}
+
 .home-learn-more {
   align-items: center;
   column-gap: 30px;
@@ -611,7 +624,7 @@ summary {
 }
 
 .our-work-h3 {
-  font-size: 1.75rem;
+  font-size: 1.45rem;
 }
 
 .our-work-nav {
@@ -624,8 +637,7 @@ summary {
     padding-inline: 0;
     row-gap: 14px;
     > li {
-      font-size: 1.25rem;
-      font-weight: 700;
+      font-weight: 400;
       letter-spacing: normal;
       list-style: none;
     }
@@ -754,23 +766,23 @@ table {
   }
 
   h1 {
-    font-size: 2.5rem;
+    font-size: 1.8rem;
     line-height: 3rem;
   }
 
   h2 {
-    font-size: 2.375rem;
-    line-height: 2.85rem;
+    font-size: 1.5rem;
+    line-height: 2.45rem;
   }
 
   h3 {
-    font-size: 2rem;
-    line-height: 2.6rem;
+    font-size: 1.3rem;
+    line-height: 2.3rem;
     margin-block-end: 20px;
   }
 
   h4 {
-    font-size: 1.5rem;
+    font-size: 1.1rem;
     line-height: 2.1rem;
   }
 
@@ -804,7 +816,7 @@ table {
       flex: 1 1 50%;
     }
     > .hero-header {
-      font-size: 2.5rem;
+      font-size: 2.0rem;
       line-height: 3.5rem;
     }
     > img {
@@ -827,7 +839,7 @@ table {
     }
 
     > .hero-header {
-      font-size: 2.5rem;
+      font-size: 2.0rem;
       line-height: 3.5rem;
       margin-inline: auto;
       position: relative;
@@ -892,7 +904,7 @@ table {
   .home-learn-more {
     flex-wrap: nowrap;
     > span {
-      font-size: 3rem;
+      font-size: 2rem;
     }
   }
 
@@ -921,7 +933,6 @@ table {
   }
 
   .our-work-intro-container {
-    align-items: flex-end;
     column-gap: 60px;
     display: flex;
   }
@@ -977,4 +988,23 @@ table {
   .text-input {
     min-width: 354px;
   }
+
+  .grid {
+    display: flex;
+  }
+  .col-1-2 {
+    flex: 1;
+  }
+  .cole-1-2:last-child {
+    margin-left: 20px;
+  }
+
+
+.blog-seperator{
+  border-bottom: 1px solid #e6e6e6;
+  padding: 0 0 12px;
+  margin:0 0 12px;
+}
+
+
 }
