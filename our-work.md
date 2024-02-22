@@ -2,6 +2,15 @@
 logo: dark
 hero: hero-work.html
 ---
+accordion:
+- title: <img class="header-icon" src="/images/icons/block-icon.svg" alt="" height="40" /><b>Building on Existing APIs</b>
+  content: The Data Transfer Project (DTP) is an open source project that uses services’ existing APIs and authorization mechanisms to access data. It then uses service specific adapters to transfer that data into a common format, and then back into the new service’s API. DTP continues to be developed and grow today.
+- title:  <img class="header-icon" src="/images/icons/block-icon.svg" alt="" height="40" /> <b>History</b>
+  content: The Data Transfer Project was created in 2018 as an industry collaboration with a mission of enabling users to complete simple, fast, and secure data transfers directly between services. Since its creation, the project has built an open source technology framework that powers direct data transfer features within Google Takeout, Facebook’s Transfer your Information, and Apple’s Data and Privacy page, as well as software libraries that connect to over a dozen additional services..
+-  title: <img class="header-icon" src="/images/icons/block-icon.svg" alt="" height="40" /><b> How it Works</b>
+   content: DTP runs as a server in a data exporter’s platform. From there, it makes it easier for the data exporter to offer destinations for porting, exporting or backing up data, even in large volume. In turn this allows people to switch services or try new and innovative products. Without DTP, transferring a copy of data from one service to another can be a time consuming process, requiring a user to download a copy of their data to a local device and re-upload it to a new service. This can be particularly challenging for mobile-only users, those with limited bandwidth, and in markets where people pay-as-they-go for data usage. Direct service-to-service portability removes the need for local device storage and transfer -– enabling users to move their data directly between services.
+
+---
 
 <section>
   <h2>Annual Report</h2>
