@@ -30,12 +30,12 @@ that support our work. In our current operating practices, we consider prospecti
 
         <div class="col-1-2">
            <div style="padding:12px">
-                <image  src='/images/partners/google.png' style="width:150px; text-align: center"/>
+                <image  src='/images/partners/google_logo.png' style="width:150px; text-align: center"/>
            </div>
         </div>
          <div class="col-1-2">
                <div style="padding:12px">
-              <image  src='/images/partners/meta_2logo.jpg' style="width:150px;text-align: center"/>
+              <image  src='/images/partners/meta_logo.jpg' style="width:150px;text-align: center"/>
                </div>
          </div>
         <div class="col-1-2">
@@ -45,7 +45,7 @@ that support our work. In our current operating practices, we consider prospecti
     </div>
 <div class="col-1-2">
            <div style="padding:12px">
-                <image  src='/images/partners/mastodon_logo2.png' style="width:180px;text-align: center"/>
+                <image  src='/images/partners/mastodon_logo.png' style="width:180px;text-align: center"/>
            </div>
         </div>
   
@@ -57,7 +57,7 @@ that support our work. In our current operating practices, we consider prospecti
 
 <div class="col-1-2">
                <div style="padding:12px">
-              <image  src='/images/partners/apple.jpg' style="width:100px;text-align: center"/>
+              <image  src='/images/partners/apple_logo.jpg' style="width:100px;text-align: center"/>
                </div>
           </div>
 
@@ -71,26 +71,26 @@ that support our work. In our current operating practices, we consider prospecti
 Our collaborators are those organizations with which we work closely on a range of projects and ideas. We are evaluating or building new technologies for data portability, or we are sharing thoughts and perspectives on policy or standards, or we host events or discussions or processes together. We have strong alignment with our collaborators towards a shared vision of a healthy data portability ecosystem. Collaboration with DTI is an informal status, without dues, yet we find significant mutual benefit from our work together. We add collaborators on an ad-hoc basis.
 <br/><br/>
 
-<image  src='/images/partners/bytedance.png' style="width:150px; text-align: center"/>
+<image  src='/images/partners/bytedance_logo.png' style="width:150px; text-align: center"/>
 <br/><br/>
 
-<image  src='/images/partners/code.jpeg' style="width:150px;text-align: center"/>
+<image  src='/images/partners/code_logo.jpeg' style="width:150px;text-align: center"/>
 <br/><br/>
-<image class="center" src='/images/partners/inrupt.jpeg ' style="width:150px;text-align: center"/>
+<image class="center" src='/images/partners/inrupt_logo.jpeg ' style="width:150px;text-align: center"/>
 
 <br/><br/>
 
 <h4>In association with:</h4>
 
-<image  src='/images/partners/fediforum.png' style="width:150px; text-align: center"/>
+<image  src='/images/partners/fediforum_logo.png' style="width:150px; text-align: center"/>
 <br/><br/>
 
 
-<image class="center" src='/images/partners/w3c.png ' style="width:150px;text-align: center"/>
+<image class="center" src='/images/partners/w3c_logo.png ' style="width:150px;text-align: center"/>
 
 <br/><br/>
 
-<image  src='/images/partners/european.jpeg' style="width:150px;text-align: center"/>
+<image  src='/images/partners/european_logo.jpeg' style="width:150px;text-align: center"/>
 <br/><br/>
 </p>
 
