@@ -36,6 +36,12 @@ The Data Transfer Summit will feature speakers from leading organizations includ
 <p><strong class="list-heading">11:00 am - 12:00 pm: <b>The Business Case for Data Portability</b> &mdash; <i>Panel Discussion</i></strong>
 
 Numerous open questions remain about data portability, particularly concerning how various laws should work together and with existing frameworks, and how these obligations and expectations mesh with the real worlds of technology design and business operation. And while there is much more to be done, the industry has made progress over several years to make data portability as simple, efficient, and easy as possible for consumers to use. Today, there is not only a regulatory case to be made for portability, but also a business one. During this panel, industry executives will share their perspectives as businesses in meeting this challenge. </p>
+
+* Mark Scott, Chief Technology Correspondent, _POLITICO_
+* Melinda Claybaugh, Privacy Policy Director, Meta
+* Kate Charlet, Director for Privacy, Safety, Security, Google 
+* Chris Riley, Executive Director, Data Transfer Initiative
+
 <hr/>
 
 <p><strong class="list-heading">12:00 pm - 1:15 pm: Lunch</strong></p>
