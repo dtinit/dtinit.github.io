@@ -1,5 +1,5 @@
 ---
-logo: dark
+logo: light
 hero: hero-work.html
 
 accordion:
