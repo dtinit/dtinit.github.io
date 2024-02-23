@@ -285,25 +285,6 @@ hr {
   }
 }
 
-//.hero-work {
-//  border-top: 1px solid #E3E3E3;
-//  background-color: var(--black);
-//  color: var(--white);
-//  margin-block-end: 50px;
-//  padding-inline: 60px;
-//  padding-block: 64px;
-//  > .hero-header {
-//    color: var(--white);
-//    margin-block: 0;
-//    white-space: nowrap;
-//  }
-//  > p {
-//    font-size: 1.5rem;
-//    line-height: 2.25rem;
-//    max-width: 880px;
-//  }
-//}
-
 .hero-work {
   padding-inline: 20px;
   padding-block: 30px 60px;
@@ -358,12 +339,12 @@ section + .slanted-background {
   $problematic-code: "0//9999px";
   border-image: conic-gradient(var(--slanted-bg-color, var(--background-gray)) 0 0) fill #{$problematic-code};
   clip-path:
-          polygon(
-                          -9999px calc(100% - tan(var(--a))*9999px),
-                          9999px calc(100% + tan(var(--a))*9999px),
-                          calc(100% + 9999px) calc(tan(var(--a))*9999px),
-                          calc(100% - 9999px) calc(tan(var(--a))*-9999px)
-          );
+    polygon(
+        -9999px calc(100% - tan(var(--a))*9999px),
+        9999px calc(100% + tan(var(--a))*9999px),
+        calc(100% + 9999px) calc(tan(var(--a))*9999px),
+        calc(100% - 9999px) calc(tan(var(--a))*-9999px)
+    );
   margin-bottom: 100px;
   margin-top: 11px;
   padding-block: 36px 90px;
@@ -554,9 +535,6 @@ summary {
   height: 300px;
   width: 100%;
   object-fit: contain;
-  //&:not(:first-child) {
-  //  margin-top: 30px;
-  //}
 }
 
 /* || MISC */
