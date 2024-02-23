@@ -39,4 +39,5 @@ logo: light
       </p>
     </div>
   </article>
+<div class="blog-seperator"></div>
 {% endfor %}
