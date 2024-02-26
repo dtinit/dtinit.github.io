@@ -10,11 +10,11 @@ We’ve come a long way in our one year of existence at DTI. This week, February
 
 We’re going to bring together expert panels of academics, civil society, industry, and government on the difficult policy questions surrounding the future of data portability. The event will combine presentations on original scholarship and cutting edge research as well as expert discussions about both the challenges and immense opportunities that lie ahead. In this piece I want to share a preview of the event and our thinking behind it.
 
-DTI’s mission is to empower people with respect to their data, so they can make their own decisions about it. On the product side, we continue to build tools that enable simpler, faster, and more secure data transfers through data portability at scale by providing dedicated engineering and product contributions for the design and implementation of open source data transfer tools.
+DTI’s mission is to empower people with respect to their data, so they can make their own decisions about it. On the technology side, we continue to build tools that enable simpler, faster, and more secure data transfers through data portability at scale by providing dedicated engineering and product contributions.
 
-Perhaps equally important though, is our policy work, where our priorities are to educate and convene thought leaders on the hardest and most important questions in data portability. One of the consequences of data portability being an issue that is broadly supported but rarely prioritized is, in essence, an accumulation of some amount of policy debt. We started the thought process for this event with a sort of call-for-papers type document raising many unanswered questions in the field of portability policy, and when we started talking to people about it, the main response we got was “You know, these are good questions, and we don’t really know who’s working on answering them.” Well, now that’s our job. And this event is a good first step.
+Equally important though, is our policy work, where our priorities are to educate and convene thought leaders on the hardest and most important questions in data portability. One of the consequences of data portability being an issue that is broadly supported but rarely prioritized is, in essence, an accumulation of some amount of policy debt. We started the thought process for this event with a sort of call-for-papers type document raising many unanswered questions in the field of portability policy, and when we started talking to people about it, the main response we got was “You know, these are good questions, and we don’t really know who’s working on answering them.” Well, now that’s our job. And this event is a good first step.
 
-**Why Now?**
+**Why now?**
 
 Whenever I speak on behalf of DTI at events, I always start my talk off by telling the audience that if there is one-take away they should leave with, it’s that we are at a turning point for data portability.
 
@@ -22,13 +22,13 @@ All around the world, we are seeing renewed or newfound interest in data portabi
 
 In the European Union, the Digital Markets Act (DMA) articulates new obligations for larger platforms to provide data portability, building on the GDPR’s existing data portability requirements – and the Data Act seeks to extend the GDPR portability right in additional ways. The DMA, in particular, includes requirements for designated gatekeepers to provide businesses and end users with tools that facilitate “continuous” and “real-time” data portability, raising deep and unresolved legal and technical questions about implementation and the intended scope of the laws.
 
-In the United States, the (proposed) ACCESS Act continues to carry interest, although it is dwarfed in political conversations by other proposed technology laws, although they too struggle to achieve critical masses of support. Yet the major antitrust and content policy lawsuits continue, proving that here, too, nothing is settled. And some states, notably New York, continue to explore laws that would advance data portability and related goals.
+In the United States, the (proposed) ACCESS Act continues to carry interest, where it is dwarfed in political conversations by other proposed technology laws, although they too struggle to achieve critical masses of support. Yet the major antitrust and content policy lawsuits continue, proving that here, too, nothing is settled. And some states, notably New York, continue to explore laws that would advance data portability and related goals.
 
 Elsewhere in the world, the Korean privacy authority is advancing a new substantial MyData framework under that country’s law, with the potential for significant change for data portability in practice. And just as GDPR contributed to the passage of data protection laws in countries around the world, so too will the DMA have its echoes. As global regulators consider, adopt, and implement laws and regulations that promote data portability, there are many open questions and opportunities for robust multi-disciplinary discussions about personal data empowerment through data portability.
 
 At DTI, we recognize that delivering the best collective outcomes will require extensive collaboration and cooperation among many multidisciplinary stakeholders.
 
-**The Importance of Multi-Disciplinary Discourse**
+**The importance of multi-disciplinary discourse**
 
 One of my favorite parts of working at DTI is the opportunity to collaborate with individuals who approach data portability problems from vastly different perspectives and backgrounds – including academia, engineering, industry, civil society, product, and law – as well as different cultures, given the global nature of the issue. There’s something special about sitting at the intersection of different worlds where cultures and viewpoints collide, and where you can draw parallels to figure out the bigger picture, identify shared ideals, learn different points of view, and understand the same concept from different perspectives, or identify where there are genuine disconnects that deserve further exploration and discussion.
 
@@ -36,7 +36,7 @@ This was a major part of the thought process in planning this summit. Our goal i
 
 As our Executive Director, Chris Riley, has acknowledged, neither our technical nor policy work on portability can succeed in a vacuum, and following this workshop, collaboration with a diverse set of stakeholders will remain among DTI’s highest priorities. The workshop is only the first step in exploring new policy ground, building a foundation of broad understanding, and exchanging insights and expertise among a diverse group of stakeholders.
 
-**What’s on Tap?**
+**What’s on tap?**
 
 We are very excited about our line-up, which includes:
 
@@ -46,7 +46,7 @@ We are very excited about our line-up, which includes:
 * a fireside chat with **Travis Hall,** Acting Associate Administrator at NTIA;
 * and more, featuring executives from Meta and Google as well as journalists, including **Molly Roberts** of **The Washington Post** and **Mark Scott**, Chief Technologist Correspondent at **POLITICO**. 
 
-**You Should Join Us!**
+**You should join us!**
 
 Often, the most valuable experiences and lessons come as a result of sitting at the edge of different cultures, disciplines, professions, and interests. It’s where differences meet to give and take, to struggle and cooperate, and create new beginnings. When we consider perspectives other than our own it makes us not only more well-rounded in our approaches to problem-solving, but serves to break down barriers and sometimes reveals that there are more parallels and similarities between seemingly different perspectives and approaches than one might expect.
 
