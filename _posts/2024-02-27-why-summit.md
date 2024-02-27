@@ -6,7 +6,9 @@ excerpt: "We are excited. We hope you are too. I am sharing a preview of our eve
 thumbnail: /images/blog/rocks-summit.jpg
 ---
 
-We’ve come a long way in our one year of existence at DTI. This week, February 29 to be precise, marks our first ever all-day event: “_The Data Transfer Summit – Empowerment through Portability_.” I know what you’re thinking: An all-day event on data portability? Can it be true? Yes. Yes it can. (We’re brimming with excitement, and if you are too, click **[here](https://dtinit.org/docs/feb29summit)** to register for the event and **[here](https://dtinit.org/docs/feb29summitagenda)** for an agenda of our programming.)
+We’ve come a long way in our one year of existence at DTI. This week, February 29 to be precise, marks our first ever all-day event: “_The Data Transfer Summit – Empowerment through Portability_.” I know what you’re thinking: An all-day event on data portability? Can it be true? Yes. Yes it can.
+
+_**FLASH UPDATE**: We’re thrilled to share that **Senator Markey** will join us in the morning to kick off the event with a few remarks. Come for coffee and the Senator; stay for lunch and **Travis Hall of NTIA**; and then you can’t miss the reception, that’s the best part. Go ahead and **[here](https://dtinit.org/docs/feb29summit)** to register for the event and **[here](https://dtinit.org/docs/feb29summitagenda)** for an agenda of our programming._
 
 We’re going to bring together expert panels of academics, civil society, industry, and government on the difficult policy questions surrounding the future of data portability. The event will combine presentations on original scholarship and cutting edge research as well as expert discussions about both the challenges and immense opportunities that lie ahead. In this piece I want to share a preview of the event and our thinking behind it.
 
