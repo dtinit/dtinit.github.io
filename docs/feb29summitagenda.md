@@ -26,7 +26,7 @@ The Data Transfer Summit will feature speakers from leading organizations includ
 
 <p><strong class="list-heading">9:30 - 9:40 am: Opening remarks</strong></p>
 
-<p><strong class="list-heading">9:40 am: Senator Edward J. Markey</strong></p>
+<p><strong class="list-heading">9:40 am: Keynote Remarks by Senator Edward J. Markey</strong></p>
 
 <p><strong class="list-heading">9:50 - 10:50 am: Scholar presentations and discussion</strong></p>
 
