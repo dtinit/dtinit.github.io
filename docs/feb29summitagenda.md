@@ -26,9 +26,9 @@ The Data Transfer Summit will feature speakers from leading organizations includ
 
 <p><strong class="list-heading">9:30 - 9:40 am: Opening remarks</strong></p>
 
-<p><strong class="list-heading">9:40 am:  Senator Markey</strong></p>
+<p><strong class="list-heading">9:40 am: Senator Edward J. Markey</strong></p>
 
-<p><strong class="list-heading">10:00 - 10:45 am: Scholar presentations and discussion</strong></p>
+<p><strong class="list-heading">9:50 - 10:50 am: Scholar presentations and discussion</strong></p>
 
 * "A Marketplace for Data Portability" – Chinmayi Sharma, Associate Professor of Law, Fordham Law
 * “Portable Trust: Fostering Both Autonomy and Privacy in Data Portability Mechanisms” - Cobun Zweifel-Keegan, Managing Director, International Association of Privacy Professional (IAPP)
