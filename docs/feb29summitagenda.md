@@ -30,10 +30,10 @@ The Data Transfer Summit will feature speakers from leading organizations includ
 
 <p><strong class="list-heading">9:50 - 10:50 am: Scholar presentations and discussion</strong></p>
 
-* "A Marketplace for Data Portability" – Chinmayi Sharma, Associate Professor of Law, Fordham Law
+* ["A Marketplace for Data Portability"](https://ssrn.com/abstract=4741065) – Chinmayi Sharma, Associate Professor of Law, Fordham Law
 * “Portable Trust: Fostering Both Autonomy and Privacy in Data Portability Mechanisms” - Cobun Zweifel-Keegan, Managing Director, International Association of Privacy Professional (IAPP)
-* “Data Portability IRL: A stakeholder assessment of data portability methods” -  Angela Woodall, Research Fellow, CELSA Sorbonne University
-* “Beyond Competition: Designing Data Portability to Support Research on the Digital Information Environment” - Zeve Sanderson, Executive Director, NYU's Center for Social Media and Politics
+* [“Data Portability IRL: A stakeholder assessment of data portability methods”](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4738496) -  Angela Woodall, Research Fellow, CELSA Sorbonne University
+* [“Beyond Competition: Designing Data Portability to Support Research on the Digital Information Environment”](https://dtinit.org/assets/DTIsanderson.pdf) - Zeve Sanderson, Executive Director, NYU's Center for Social Media and Politics
 
 <p><strong class="list-heading">11:00 am - 12:00 pm: <b>The Business Case for Data Portability</b> &mdash; <i>Panel Discussion</i></strong>
 
@@ -55,9 +55,9 @@ Numerous open questions remain about data portability, particularly concerning h
 
 <p><strong class="list-heading">2:00 pm - 2:45 pm: Scholar presentations and discussion</strong></p>
 
-* “Faces and Places: Exploring Portability in Immersive Technologies“ - Joseph Jerome, Visiting Assistant Professor, University of Tampa
-* “What if you move on from your AI companion? Data portability in the era of autonomous AI agents” - Cornelia Kutterer, Senior Researcher, Multidisciplinary Institute in Artificial Intelligence (Chair of AI Regulation), University of Grenoble
-* “Implementing 'Continuous and Real Time' Data Portability with Webhooks” - Chand Rajendra-Nicolucci, Director of Product, University of Massachusetts Amherst
+* [“Faces and Places: Exploring Portability in Immersive Technologies“](https://papers.ssrn.com/abstract=4739199) - Joseph Jerome, Visiting Assistant Professor, University of Tampa
+* [“What if you move on from your AI companion? Data portability in the era of autonomous AI agents”](https://ai-regulation.com/what-if-you-move-on-from-your-ai-companion-data-portability-rights-in-the-era-of-autonomous-ai-agents/) - Cornelia Kutterer, Senior Researcher, Multidisciplinary Institute in Artificial Intelligence (Chair of AI Regulation), University of Grenoble
+* [“Implementing 'Continuous and Real Time' Data Portability with Webhooks”](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4665300) - Chand Rajendra-Nicolucci, Director of Product, University of Massachusetts Amherst
 
 <p><strong class="list-heading">2:45 pm - 3:00 pm: <i>Lightning Talk:</i> <b>Consumer Reports Permission Slip</b></strong></p>
 
