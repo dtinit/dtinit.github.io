@@ -247,6 +247,28 @@ hr {
     z-index: 1;
   }
 }
+.hero-contact {
+  padding-inline: 20px;
+  padding-block: 30px 60px;
+  .hero-header {
+    font-size: 2rem;
+    margin-top: 0;
+  }
+  > img {
+    display: none;
+  }
+  &::after {
+    content: " ";
+    background: linear-gradient(180deg, var(--dark-blue) 0 33%, var(--golden-yellow) 33% 66%, var(--orange) 66% 100%);
+    bottom: 0;
+    height: 27px;
+    left: -2px;
+    position: absolute;
+    //transform: rotate(3deg);
+    width: calc(100vw + 3px);
+    z-index: 1;
+  }
+}
 
 .hero-home {
   background-clip: padding-box;
