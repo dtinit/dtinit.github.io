@@ -31,7 +31,7 @@ The Data Transfer Summit will feature speakers from leading organizations includ
 <p><strong class="list-heading">9:50 - 10:50 am: Scholar presentations and discussion</strong></p>
 
 * ["A Marketplace for Data Portability"](https://ssrn.com/abstract=4741065) – Chinmayi Sharma, Associate Professor of Law, Fordham Law
-* “Portable Trust: Fostering Both Autonomy and Privacy in Data Portability Mechanisms” - Cobun Zweifel-Keegan, Managing Director, International Association of Privacy Professional (IAPP)
+* [“Portable Trust: Fostering Both Autonomy and Privacy in Data Portability Mechanisms”](https://dtinit.org/assets/PortableTrustCZK.pdf) - Cobun Zweifel-Keegan, Managing Director, International Association of Privacy Professional (IAPP)
 * [“Data Portability IRL: A stakeholder assessment of data portability methods”](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4738496) -  Angela Woodall, Research Fellow, CELSA Sorbonne University
 * [“Beyond Competition: Designing Data Portability to Support Research on the Digital Information Environment”](https://dtinit.org/assets/SandersonDTI.pdf) - Zeve Sanderson, Executive Director, NYU's Center for Social Media and Politics
 
