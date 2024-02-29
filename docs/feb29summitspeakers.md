@@ -66,7 +66,10 @@ Zeve Sanderson is the founding Executive Director of NYU's Center for Social Med
 ## Lisa Dusseault
 
 
-Lisa Dusseault previously served as the CTO and Co-Founder of Compaas. Prior to Compaas, Ms. Dusseault served in technical roles at StubHub, Smule, and Microsoft among others, and spent several years as the Applications Area Director at the Internet Engineering Task Force.
+Lisa Dusseault is the CTO of the Data Transfer Initiative. Prior to joining DTI, she was the CTO and Co-Founder of Compaas, VP of Engineering at Klutch, and CTO at ShareTheVisit.  She has also held technical roles at StubHub, Smule and Microsoft.
+
+Along with product engineering work Lisa has also made contributions to Internet standards and interoperability.  As an author she brought the CalDAV specification forward to become RFC 4791, and revised the WebDAV protocol document.  She served as chair of IMAPEXT and XMPP working groups, and as Area Director of the Applications area of the IETF, where she helped shepherd standards like OAUTH and JSON in their early stages.
+
 
 <hr style="clear:left;;margin-bottom:40px;">
 
