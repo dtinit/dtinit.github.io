@@ -26,9 +26,9 @@ Chinmayi Sharma is an Associate Professor at Fordham Law School. Her research an
 <hr style="clear:left;;margin-bottom:40px;">
 
 
-<img src="/images/events/speakers/coburn.jpg" style="float:left;margin-right:20px;margin-bottom:20px;object-fit: cover;" width="190" height="180" />
+<img src="/images/events/speakers/cobun-zweifel-keegan.jpg" style="float:left;margin-right:20px;margin-bottom:20px;object-fit: cover;" width="190" height="180" />
 
-## Coburn Zweifel-Keegan
+## Cobun Zweifel-Keegan
 
 
 Cobun Zweifel-Keegan is the Managing Director for Washington, D.C. of the International Association of Privacy Professionals (IAPP). Through this role, Cobun works to integrate the diverse voices of privacy professionals and AI governance professionals into the evolving tech policy conversation, engaging with business representatives, civil society, policymakers, and federal government stakeholders. As a privacy lawyer, Cobun writes and speaks frequently about the ongoing policy conversation around responsible data governance, with a special focus on the role of professionals and independent accountability mechanisms in the spread of privacy best practices. 
