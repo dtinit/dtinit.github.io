@@ -58,9 +58,20 @@ Angela holds a Ph.D. from Columbia University in Communications and an M.A. in J
 
 Zeve Sanderson is the founding Executive Director of NYU's Center for Social Media and Politics. His research, which uses computational and experimental methods to study the digital information environment, has been published in Nature, Journal of Experimental Political Science, Journal of Online Trust & Safety, and more. He speaks regularly to the media, civil society organizations, and tech companies. His writing has appeared in The Washington Post, Slate, The Hill, and Brookings, among other popular outlets. Outside of NYU, he consults for international NGOs supporting information integrity efforts.
 
+
+<hr style="clear:left;;margin-bottom:40px;">
+
+<img src="/images/staff/lisadusseault.jpg" style="float:left;margin-right:20px;margin-bottom:20px;" width="190" />
+
+## Lisa Dusseault
+
+
+Lisa Dusseault previously served as the CTO and Co-Founder of Compaas. Prior to Compaas, Ms. Dusseault served in technical roles at StubHub, Smule, and Microsoft among others, and spent several years as the Applications Area Director at the Internet Engineering Task Force.
+
 <hr style="clear:left;;margin-bottom:40px;">
 
 <img src="/images/events/speakers/mark.jpg" style="float:left;margin-right:20px;margin-bottom:20px;" width="190" />
+
 
 ## Mark Scott
 
@@ -74,6 +85,46 @@ Mark Scott is the Chief Technology Correspondent at POLITICO, writing about the 
 ## Melinda Claybaugh
 
 Melinda Claybaugh is a Director of Privacy Policy at Meta.  She works to achieve Meta’s vision of globally-consistent privacy and data regulations that protect people’s data while enabling innovation—by driving advocacy on specific legislative proposals, while also helping design policy solutions for complicated or novel issues, including AI and immersive technology.  She previously spent 12 years at the Federal Trade Commission, where she worked in the Division of Privacy and Identity Protection on enforcement actions related to consumer.  Melinda later joined the FTC’s Office of International Affairs, where she specialized in international digital policy. She represented the United States in discussions at the OECD, the UN, and in APEC, where she helped design global frameworks to enhance consumer privacy protections and strengthen enforcement cooperation among data protection authorities.
+
+
+<hr style="clear:left;;margin-bottom:40px;">
+
+<img src="/images/events/speakers/kate-charlet.jpg" style="float:left;margin-right:20px;margin-bottom:20px;" width="190" />
+
+## Kate Charlet
+
+Kate Charlet works in Google’s Centers of Excellence as the Director for Data Governance, addressing issues related to privacy, information security, and government access. She was previously the inaugural director of the Technology and International Affairs Program at the Carnegie Endowment for International Peace. Prior to her role at Carnegie, she spent a decade as a civil servant in the U.S. government, including as the deputy assistant secretary of defense (acting) for cyber policy and as director for strategic planning at the White House National Security Council.
+
+
+
+<hr style="clear:left;;margin-bottom:40px;">
+
+<img src="/images/staff/mcriley.jpg" style="float:left;margin-right:20px;margin-bottom:20px;" width="190" />
+
+
+
+## Chris Riley 
+
+Chris comes from the R Street Institute, a Washington, DC-based think tank, prior to which he led the Mozilla Corporation’s global public policy efforts for several years. His open source roots go back even further to his time working on the internet freedom portfolio at the U.S. Department of State, where he supported open source security and anti-censorship tools dedicated to advancing human rights online. Chris received his B.S. in computer science from Wheeling Jesuit University, his Ph.D. in computer science from Johns Hopkins University and his J.D. from Yale Law School.
+
+<hr style="clear:left;;margin-bottom:40px;">
+
+<img src="/images/staff/delara.jpg"  style="float:left;margin-right:20px;margin-bottom:20px;object-fit: cover;" width="190" height="190" />
+
+## Delara Derakhshani
+
+Delara Derakhshani is Director of Policy for the Data Transfer Initiative. Her prior roles include advising on privacy, e-commerce, and accessibility issues in Meta’s Reality Labs division, the Entertainment Software Association, and Consumer Reports. Delara has testified before Congress on privacy and technology and has appeared on several national media outlets — including NBC Nightly News, NPR, Fox Business, and HuffPost Live. She received her JD from the Catholic University of America’s Columbus School of Law and her BA in Cognitive Science from the University of Virginia.
+
+<hr style="clear:left;;margin-bottom:40px;">
+
+<img src="/images/events/speakers/travis-hall.jpg" style="float:left;margin-right:20px;margin-bottom:20px;" width="190" />
+
+
+## Dr. Travis Hall
+
+Dr. Travis Hall is the Acting Associate Administrator for the National Telecommunications and Information Administration's Office of Policy and Development. In this role, oversees NTIA’s policy development on issues i ncluding Artificial Intelligence, privacy, cybersecurity, intellectual property, national security, and telecommunications. 
+
+Before joining the Department of Commerce in 2015, Travis taught at American University and was a research fellow at the Humboldt Institute for Internet and Society in Berlin, Germany.  He received his PhD in Media, Culture, and Communications from New York University, and his MA in International Communications and BA in International Relations from American University.
 
 
 <hr style="clear:left;;margin-bottom:40px;">
