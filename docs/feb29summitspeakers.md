@@ -138,6 +138,22 @@ Joseph Jerome teaches communication law and technology ethics at the University 
 <hr style="clear:left;;margin-bottom:40px;">
 
 
+<img src="/images/events/speakers/cornelia-kutterer.png" style="float:left;margin-right:20px;margin-bottom:20px;" width="190" />
+
+
+## Cornelia Kutterer
+
+Managing Director @considerati + Adjunct Senior Research Fellow at the Multidisciplinary Institute of Artificial Intelligence (Chair of AI Regulation) University of Grenoble-Alpes
+
+
+
+Cornelia Kutterer is the Managing Director of Considerati in Belgium, a boutique legal and PA consultancy, specialised in tech policy as well data protection and RAI services. She also serves as a Senior Research Fellow at the University of Grenoble, focusing on AI regulation. She is a board member of the IAPP AI Governance Centre, a member of the OECD's AI expert group on risk management, and she advises Safer.AI, a non-for-profit focusing on AI risks. She is also a board member of the new EU-focused Centre of Digital Constitutionalism and Policy (DICOPO) and participates in various other projects related to AI and digital policies. Previously, she led Microsoft's Responsible Tech and Competition team in EUrope, accumulating vast experience in tech policy areas. Kutterer, a qualified German lawyer, holds degrees from the University of Hamburg and the University of Strathclyde in Glasgow.
+
+
+
+<hr style="clear:left;;margin-bottom:40px;">
+
+
 <img src="/images/events/speakers/chand.jpg" style="float:left;margin-right:20px;margin-bottom:20px;" width="190" />
 
 
