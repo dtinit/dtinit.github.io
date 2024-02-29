@@ -57,7 +57,7 @@ accordion:
       Spring Policy Event in DC &mdash; Empowerment through Portability
     </h4>
     <p>
-      The <a href="/docs/feb29summit.html">Data Transfer Summit &mdash; Empowerment through Portability event</a> convenes academics, regulators and industry in DC to discuss difficult policy questions and the future of data portability policy.  <a href="/docs/feb29summitagenda">Agenda available now</a>!
+      The <a href="/docs/feb29summit.html">Data Transfer Summit &mdash; Empowerment through Portability event</a> convenes academics, regulators and industry in DC to discuss difficult policy questions and the future of data portability policy.  <a href="/docs/feb29summitagenda">Agenda</a>, <a href="/docs/feb29summitspeakers">Speaker bios</a> and <a href="">livestream link</a> available now!
     </p>
   </div>
   <h4>Past Events</h4>
