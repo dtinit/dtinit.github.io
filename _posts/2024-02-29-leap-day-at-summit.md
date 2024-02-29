@@ -2,6 +2,7 @@
 title: Ready for speakers!
 tags: events
 author: Lisa Dusseault
+excerpt: "As I sit here in the lovely National Union Building in DC, the folks around me are finishing preparation for our summit."
 thumbnail: /images/blog/speaker-podium-feb29.png
 ---
 
@@ -15,3 +16,4 @@ for our summit.  Speakers are beginning to arrive.  The podium is ready!   We ju
 ![Speaker podium and screen for slides at event](/images/blog/speaker-podium-feb29.png)
 
 I'm looking forward to sharing ideas and plans with everyone.
+
