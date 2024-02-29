@@ -18,7 +18,7 @@ The Data Transfer Summit will feature speakers from leading organizations includ
 <li>918 F St NW, Washington, DC 20004</li>
 </ul>
 
-Find [speaker bios here](feb29summitspeakers)
+Find [speaker bios here](feb29summitspeakers) and [livestream link here](https://vimeo.com/event/4110723/6b96907ccb)
 
 ## Agenda
 <hr/>
