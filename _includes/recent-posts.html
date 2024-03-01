@@ -8,12 +8,12 @@
 					<li class="tag-item">{{ tag }}</li>
 				{%- endfor -%}
 			</ul>
-			<h3 class="recent-post-header">
+			<h3 class="recent-post-header" style="margin-bottom: 10px">
 				{{ post.title | escape }}
 			</h3>
-			<p>
+			<span style="letter-spacing: 0.03125rem;line-height: 1.4rem;">
 				{{ post.excerpt }}
-			</p>
+			</span>
 			<a href="{{ post.url | relative_url }}">
 				Read more >
 			</a>
