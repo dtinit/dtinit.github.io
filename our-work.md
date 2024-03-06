@@ -122,7 +122,7 @@ accordion:
 
 <p>Stay tuned as we do more of our work </p>
 
-<p>Here is a <a  style="font-size: 16px" href="https://drive.google.com/file/d/1BEwqJXJAwCreD7xkO6SEgD8TfJN5vIPn/view?usp=sharing">Trust Model Policy(PDF) </a></p>
+<p>Here is a <a  style="font-size: 16px" href="/docs/TrustModelReport.pdf">Trust Model Policy(PDF) </a></p>
 
 
 </section>

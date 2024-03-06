@@ -312,6 +312,30 @@ hr {
   }
 }
 
+.hero-trust {
+  padding-inline: 20px;
+  padding-block: 30px 60px;
+  .hero-header {
+    font-size: 2rem;
+    margin-top: 0;
+  }
+  > img {
+    display: none;
+  }
+  &::after {
+    content: " ";
+    background: linear-gradient(180deg, var(--dark-blue) 0 33%, var(--golden-yellow) 33% 66%, var(--orange) 66% 100%);
+    bottom: 0;
+    height: 27px;
+    left: -2px;
+    position: absolute;
+    transform: rotate(3deg);
+    width: calc(100vw + 3px);
+    z-index: 1;
+  }
+}
+
+
 .hero-work {
   padding-inline: 20px;
   padding-block: 30px 60px;
@@ -896,6 +920,18 @@ table {
   }
 
   .hero-work {
+    align-items: center;
+    display: flex;
+    column-gap: 80px;
+    margin-block-end: 60px;
+    padding-block: 100px;
+    > p {
+      font-size: 1.75rem;
+      line-height: 2.625rem;
+    }
+  }
+
+  .hero-trust {
     align-items: center;
     display: flex;
     column-gap: 80px;
