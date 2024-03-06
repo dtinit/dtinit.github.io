@@ -1,5 +1,5 @@
 ---
-title: New from DTI: Trust Model and Portability Map
+title: New from DTI - Trust Model and Portability Map
 tags: news
 author: Chris Riley
 excerpt: "We are excited for two brand-new releases today, our first-ever portability map tool and the trust model report for third-party transfers. Check them out!"
