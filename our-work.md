@@ -119,10 +119,8 @@ accordion:
   <p>
      The question that arises as a consequence of this shift is, how to build trust in these direct transfers. Exchanges of personal data are not without risk. DTI counts privacy and security among its core principles: “Platforms should not be required to substantially threaten the privacy and security of individual users or the platforms. Platforms may require baseline privacy and security standards, including shared certification or accreditation processes, as a condition of enabling data transfer.” This report is an exercise in coordinating the development of such standards.
     </p>
+  <p> <a  style="font-size: 16px" href="/trust">Read More </a></p>
 
-<p>Stay tuned as we do more of our work </p>
-
-<p>Here is a <a  style="font-size: 16px" href="/docs/TrustModelReport.pdf">Trust Model Policy(PDF) </a></p>
 
 
 </section>
