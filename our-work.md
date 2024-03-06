@@ -104,11 +104,28 @@ accordion:
     </nav>
   </div>
 
+</section>
+
+
+<section class="slanted-background">
+
+ <h3 style="font-size: 1.45rem" > A third-party trust model for direct personal data transfers</h3>
+
+
+  <p>
+    Data portability is a powerful tool to allow individuals to exercise more agency over personal data. While its origins lie in data protection and fundamental rights contexts, and that context remains salient, portability’s nexus to competition gives it new relevance. Portability helps consumers have more choices of services, and it helps businesses both to compete over similar service offerings and to innovate new features and functions. To take full advantage of these benefits, portability is evolving from a tool principally exercised by individual users requesting and receiving their data from a service provider via download, to implementation through direct transfers, where a user requests a data host to transfer personal data directly to a third party.
+  </p>
+
+  <p>
+     The question that arises as a consequence of this shift is, how to build trust in these direct transfers. Exchanges of personal data are not without risk. DTI counts privacy and security among its core principles: “Platforms should not be required to substantially threaten the privacy and security of individual users or the platforms. Platforms may require baseline privacy and security standards, including shared certification or accreditation processes, as a condition of enabling data transfer.” This report is an exercise in coordinating the development of such standards.
+    </p>
+  <p> <a  style="font-size: 16px" href="/trust">Read More </a></p>
+
 
 
 </section>
 
-<section class="slanted-background">
+<section >
   <figure class="video-wrapper">
     <iframe class="video-embed" width="1100" height="622" src="https://www.youtube-nocookie.com/embed/_mVhmDnhrWo?si=BYbCUhmeT34HCHwQ" title="YouTube video player that plays a video describing the Data Transfer Project" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   </figure>
