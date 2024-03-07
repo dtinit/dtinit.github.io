@@ -12,5 +12,3 @@ hero: hero-trust.html
     <p>Here is a <a target="blank" style="font-size: 16px" href="/docs/TrustModelReport.pdf">Trust Model Policy(PDF) </a></p>
 
 </section>
-
-
