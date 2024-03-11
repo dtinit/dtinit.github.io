@@ -3,7 +3,7 @@ title: Threat Model Part 3 - Access, Content, and Spoofing
 tags: security
 author: Lisa Dusseault
 excerpt: Part three of a series on service-to-service user-data portability architectures and how we can do threat modeling against the generic architecture.  While exploring access control, harmful content and spoofing, many details turn out to be use-case dependent and the threat model must be considered again when we implement specific solutions. Hopefully this is a useful map of the threat territory.
-thumbnail: /images/blog/speaker-podium-feb29.png
+thumbnail: /images/blog/reference-arch-thumbnail.png
 ---
 
 In [part one of this series](/_posts/2023-12-04-reference-architecture.md), I defined a reference architecture (or technically, two variations) so that we could evaluate threat models in the context of a proposed system for inter-service transfer of user data.  The reference architecture was necessary because defining threat models for all possible systems wasn’t going to be very helpful.  [Part two evaluated seven classes of threats](/_posts/2024-01-16-threat-model-pt-one.md) against this reference architecture. This post will look at the last three classes of threats.  I hope the series of posts serves as a reference and explainer, especially as these situations come up in the future:
