@@ -11,5 +11,3 @@ hero: hero-trust.html
     <p>Please see our report, here: <a target="blank" style="font-size: 16px" href="/docs/TrustModelReport.pdf">Trust Model Report(PDF) </a></p>
 
 </section>
-
-

@@ -8,7 +8,7 @@ highlighter: rouge
 # Many of the plugins make use of these variables
 title : Data Transfer Initiative
 description: Home page for the Data Transfer Initiative, a nonprofit organization dedicated to promoting data transfers
-logo: /images/DTImeta.jpg
+logo: /images/favicon.png
 social:
   name: Data Transfer Initiative
   links:
