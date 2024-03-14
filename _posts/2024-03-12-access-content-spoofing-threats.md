@@ -19,7 +19,7 @@ So, in this blog post, I dive even deeper into the three threat categories that 
 
 [**Permission and Access**](#permission-and-access-challenges) are, if not a threat exactly, at least a challenging area to get right and possibly a source of confusion for spoofers to use. 
 
-Overall, while these are nontrivial sources of potential threat, none are unmanageable, and all are broadly comparable to threats in ordinary data processing systems and processes. While the characteristics unique to data portability can pose specific challenges, all can be managed.
+These are nontrivial sources of potential threat.  Many can be managed the same way the same threats are managed when content is acquired via existing channels (which is not to say that it's easy - harmful content for example is widely understood to be a very hard problem already). While the characteristics unique to data portability can pose specific challenges, adding data portability does not appear to break existing protections completely.  Much work needs to be done for specific verticals and scenarios.
 
 ## Harmful Content
 
@@ -110,6 +110,8 @@ E2EE is not the most common setup when user-approved server-to-server data trans
 
 To the extent that the interoperability of these use cases can be solved, the use of E2E encryption of content at-rest can make transfers somewhat more risky also. The server that originally stored the encrypted data can make few assurances if it does not hold keys to unencrypt the data; thus in these scenarios we can’t necessarily rely on the source server doing content filtering/moderation.  The destination does not necessarily operate under the same model.  A service model at the source wherein [harmful content detection is done at the client](https://nsfwjs.com/) (because of the E2EE design) would present extra challenges when that content is sent to a new destination with a different model to deal with harmful content.
 
+E2EE use cases present a good opportunity to remind ourselves that system models and user expectations can differ significantly between seemingly similar systems. When a personal messaging app that uses E2EE with client storage interoperates with a different personal messaging app that uses E2EE with server-side storage, or a non-E2EE messaging app, data portability can be difficult and even when achieved technically may be done in a way that users did not expect. Practitioners in the area already find that users can be surprised by the results of a data transfer even within the same system (e.g. merging 2 accounts)!
+
 To summarize, the existing challenges of E2EE content moderation are not significantly increased when data transfer is introduced.  In specific concrete cases, we do need to be mindful of the safety assumptions on both sides when E2EE content is transferred.   Techniques that may allow some [identification of harmful encrypted content](https://james.grimmelmann.net/files/articles/content-moderation-e2ee.pdf), such as homomorphic encryption, ought to work just as well in data transfer situations. 
 
 ## Spoofing
@@ -131,7 +133,7 @@ The architecture we’ve defined operates on the World Wide Web, and one of the 
 1. The attacker sends a notification appearing to be the source server sending a regular authentication renewal notification, with links to the attacker site rather than the source site
 1. The user attempts to quickly authorize the renewal but authorizes something else instead, or their password is phished.
 
-While there are undoubtedly new avenues like this, spoofing and phishing are already so common that we need mechanisms like two-factor authentication and authentication challenges whenever the stakes are high.
+While there are undoubtedly new avenues like this, spoofing and phishing are already so common that we need mechanisms like two-factor authentication and authentication challenges whenever the stakes are high.  Practitioners in the area have seen verified instances of data exfiltration attempts and successes using data portability tools.
  
 ### Vetting services
 
