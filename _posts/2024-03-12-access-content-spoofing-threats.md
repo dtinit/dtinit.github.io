@@ -31,7 +31,7 @@ Content that arrives in bulk can bypass **normal channels** (whatever channels a
 
 Many of the common content protection mechanisms are challenging or inappropriate to use in bulk submission, so we'll list some of these, define and explain the challenge.
 
-<table>
+<table class="blog-tables">
 <tr>
 <th></th><th>Explanation</th><th>Challenges</th>
 </tr>
@@ -118,7 +118,7 @@ To summarize, the existing challenges of E2EE content moderation are not signifi
 
 Recall our reference system architecture:
 
-![Steps and parties involved in source-initiated transfer](/images/blog/source-initiated-steps.png)
+![Steps and parties involved in source-initiated transfer](/images/blog/source-initiated-steps.png){:class="blog-image"}
 
 Since this architecture authenticates the user both to the source and then to the destination service, the overall system is well-protected from **bad actors impersonating the user**.  That’s great news, because many threats to services and users come from a small subset of users.  It doesn’t make the problem of bad actors go away, but it means that the problem has already been solved by robust systems.  A user who attempts to evade restrictions, post harmful content, or otherwise behave in ways that the service provider forbids or prevents, can still be identified in these scenarios, and may often be blocked or removed if their behavior is bad enough.
 
@@ -150,7 +150,7 @@ One of the greatest challenges remaining in doing data transfers with appropriat
 Photos once again provide a simple example of this. I may have many photos on a service, especially if that service collects photos automatically from my devices and conveniently stores them in one place. 
 
 <figure style="text-align:center">
-<img width=250 src="/images/blog/Albums including Docs.png"/>
+<img class="blog-image" width=250 src="/images/blog/Albums including Docs.png"/>
 <figcaption><i>The problem: my Docs album has images of vaccine documents, visas, health coverage, etc.</i></figcaption></figure>
 
 It’s all too easy for a photo migration project to include images I don’t even think of as photos: that picture I took of my driver’s license, or a screenshot of some HR data or scan of financial documents. Ideally the source of a data transfer would be able to check on the situation and help apply appropriate filters.  To that end, it would help for the source to know some of the context for the destination, such as whether the transfer will result in publicly accessible content.  This is an interesting feature to design for, and very content-dependent.
@@ -167,14 +167,14 @@ We illustrated the authentication issue with the source-initiated architecture. 
 
 In contrast, in the architecture where the destination initiates transfer, the destination (an app or a Web page) can show all kinds of UX to ensure that when the data arrives, the *correct permissions and licenses are applied to the incoming data*. 
 
-![Destination-initiated Transfer Architecture](/images/blog/destination-initiated-steps.png)
+![Destination-initiated Transfer Architecture](/images/blog/destination-initiated-steps.png){:class="blog-image"}
 
 Since both parties need to present these decisions in a clear informative UX, we need solutions  that allow both.
 
 
 Our choice of OAuth for the way that users authorize second service is key to this dilemma. Not only is it a good interoperable choice for authorizing the user, it also allows the responding service to include any number of decision-making steps in Web pages in the path of authorizing transfer.  It doesn’t make all the problems easy, but it is a pretty powerful framework.
 
-![GitHub authorizing CircleCI to access repositories](/images/blog/github-auth-circleci.png)
+![GitHub authorizing CircleCI to access repositories](/images/blog/github-auth-circleci.png){:class="blog-image"}
 
 *When CircleCI initiates an OAuth interaction with GitHub, GitHub’s interstitial Web page asks about scope and permissions in a clear way*
 
@@ -186,7 +186,7 @@ Consider the use case where there are detailed dispositions to be made after a c
 
 * Wikimedia Commons has a contributor flow that involves long Web forms for *several* of the steps in their flow. 
 
-![Wikimedia Commons image contribution information-gathering flow](/images/blog/wikimedia-img-contributor-flow.png)
+![Wikimedia Commons image contribution information-gathering flow](/images/blog/wikimedia-img-contributor-flow.png){:class="blog-image"}
 
 *Wikimedia contributor flow: Learn, Upload, Release rights, Describe, Add data, Use*
 

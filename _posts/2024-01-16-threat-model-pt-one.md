@@ -46,7 +46,7 @@ Both alternatives:
 * Allow the user to use Web pages to choose data and destination; and
 * Use secure transport for all interactions.
 
-![Steps and parties involved in source-initiated transfer](/images/blog/source-initiated-steps.png)
+![Steps and parties involved in source-initiated transfer](/images/blog/source-initiated-steps.png){:class="blog-image"}
 
 In source-initiated transfer, illustrated above:
 
@@ -57,7 +57,7 @@ In source-initiated transfer, illustrated above:
   b) During this, destination requires authentication (eg. login or session key).
 1. Data transfer can now begin using a protocol or API over secure transport. The source may use the destination’s API, the destination may use the source’s API, or they may use a standard protocol.
 
-![Steps and parties involved in destination-initiated transfer](/images/blog/destination-initiated-steps.png)
+![Steps and parties involved in destination-initiated transfer](/images/blog/destination-initiated-steps.png){:class="blog-image"}
 
 
 In destination-initiated transfer, second picture:

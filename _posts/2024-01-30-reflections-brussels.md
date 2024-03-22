@@ -8,7 +8,7 @@ thumbnail: /images/blog/brussels-snow.jpg
 
 Last May, I wrote [a LinkedIn article](https://www.linkedin.com/posts/mchrisriley_i-dont-consider-myself-a-road-warrior-activity-7061407026085560320-xQZV/) about my trip to Brussels to introduce DTI to EU stakeholders, and to advance our mission of building a vibrant ecosystem of data portability. It was my first international trip since COVID shut down the world in March of 2020. Brussels was an obvious destination, as the EU is leading the world on tech policy in many ways. The Digital Markets Act in particular takes data portability law further than it has ever gone before, and getting its implementation right will make a world of difference – for the future of internet innovation and for everyday internet users.
 
-<img style='width:500px;' src="/images/blog/brussels-snow.jpg"/>
+<img class="blog-image" style='width:500px;' src="/images/blog/brussels-snow.jpg"/>
 
 
 At the end of my 2023 piece, I said I’d be back. It took perhaps a little longer than I would have liked, but two weeks ago, DTI’s Director of Policy Delara Derakhshani and I went back across the Atlantic to connect with a number of the key people shaping EU tech policy. From northern California it takes about 18 hours to get to Brussels – there are no nonstops – but three packed days of engagement made it eminently worthwhile.
