@@ -31,3 +31,5 @@ DTP as a technology continues to have its unique utility, and because of that DT
 DTI as an organization is built to serve a mission: “Empower people by building a vibrant ecosystem for simple and secure data transfers.” That means doing more than just investing in DTP. That’s why we built the Portability Map, why we’ll continue our work on [trust models](https://dtinit.org/trust), why we contribute to standards with the W3C, and why we’re supporting the fediverse ecosystem, among other activities.
 
 Today we’re celebrating a step forward for DTP as we work alongside our partners at Apple and Google to deliver new world-class tools to help people. We do so in the context of our, and their, other efforts, many of which will get more airtime in the weeks and months to come. But I believe the most durable progress will come from the most user-friendly solutions, and for that reason in particular, we are excited for this progress.
+
+And, we’re always open to collaborating with more music streaming services, so please reach out if you’re interested!
