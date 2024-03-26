@@ -6,8 +6,6 @@ excerpt: "We are celebrating a milestone on our work to build a DTP-powered musi
 thumbnail: /images/blog/turntable.jpg
 ---
 
-**Progress towards real world portability solutions**
-
 The phrase “data portability” can make the average non-techie, non-policy listener’s eyes glaze over. Even if the values involved are universal, the mechanics of moving data are technical, and few people want the details. But when I’m in a cab from an airport traveling for work or talking to one of my in-laws about what I do, I can always get their attention with a good example. And most often, I tell them about music playlists.
 
 Playlists are an investment. We put time into making them, but more than that, we put emotion into them. And we’ve been making playlists for different services for decades. We live in a time of healthy competition among music services. Yet I’ve talked to a number of people who feel locked in to a single music service or even unable to try a different service because of their playlists. This is a solvable problem.
