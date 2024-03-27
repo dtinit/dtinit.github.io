@@ -1,0 +1,25 @@
+<section>
+    <div >
+        <h2 style="text-align: center">Catch up on the latest from DTI</h2>
+
+        {% for post in site.posts limit:10 %}
+        <ul style="text-align: right" class="tag-list">
+            {%- for tag in post.tags -%}
+            <li class="tag-item">{{ tag }}</li>
+            {%- endfor -%}
+        </ul>
+        <a style="text-decoration: none" href="{{ post.url | relative_url }}">
+            <strong>
+                {{ post.title | escape }}
+            </strong>
+        </a>
+
+        <time style="text-align: right" class="post-date" datetime="{{ post.date }}">
+            {{ post.date | date: "%B %-d, %Y"  }}
+        </time>
+
+        <br/>
+
+        {% endfor %}
+    </div>
+</section>
