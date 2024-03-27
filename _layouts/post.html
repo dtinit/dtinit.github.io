@@ -1,37 +1,46 @@
 ---
 layout: default
 ---
-<div class="post-meta">
-  <span>{{page.author}}</span>
-  <time class="post-date" datetime="{{ post.date }}">
-    {{ page.date | date: "%b %-d, %Y" }}
-  </time>
-  {%- if page.tags.size > 0-%}
-  <div>
-    <ul class="post-tags">
-      {%- for tag in page.tags -%}
-      <li>{{ tag }}</li>
-      {%- endfor -%}
-    </ul>
+
+
+<div class="blog-content">
+  <div class="post-meta">
+    <span>{{page.author}}</span>
+    <time class="post-date" datetime="{{ post.date }}">
+      {{ page.date | date: "%b %-d, %Y" }}
+    </time>
+    {%- if page.tags.size > 0-%}
+    <div>
+      <ul class="post-tags">
+        {%- for tag in page.tags -%}
+        <li>{{ tag }}</li>
+        {%- endfor -%}
+      </ul>
+    </div>
+    {%- endif -%}
   </div>
-  {%- endif -%}
+
+  <h1>{{ page.title }}</h1>
+
+  {{content}}
+
+  <br/>
+  <br/>
+  <div class="post_next">
+    {%- if page.next.url -%}
+    <a class="button" href="{{ page.next.url }}">Next Post</a>
+    {%- else -%}
+    <p></p>
+    {%- endif -%}
+  </div>
+  <div class="post_previous">
+    <a class="button" href="{{ page.previous.url }}">Previous Post</a>
+  </div>
+
+
 </div>
+<div class="blog-sidebar">
 
-<h1>{{ page.title }}</h1>
+  {% include blog-sidebar.html %}
 
-{{content}}
-
-<br/>
-<br/>
-<div class="post_next">
-  {%- if page.next.url -%}
-  <a class="button" href="{{ page.next.url }}">Next Post</a>
-  {%- else -%}
-  <p></p>
-  {%- endif -%}
 </div>
-<div class="post_previous">
-  <a class="button" href="{{ page.previous.url }}">Previous Post</a>
-</div>
-
-
