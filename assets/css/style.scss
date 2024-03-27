@@ -1170,9 +1170,26 @@ table {
     font-size: 1.2rem;
   }
 
+  .social-icon-container {
+    text-align: center;
+    width: 100%;
+    margin-top: 10px;
+  }
   .footer-links {
     text-align: center;
     width: 100%;
     margin-bottom: 10px;
+  }
+
+  .main-footer {
+    background-color: var(--black);
+    text-align: center;
+    color: var(--white);
+    grid-area: footer;
+    margin-top: 36px;
+    padding: 80px 64px;
+    a {
+      color: var(--white);
+    }
   }
 }
