@@ -46,7 +46,7 @@ Both alternatives:
 * Allow the user to use Web pages to choose data and destination; and
 * Use secure transport for all interactions.
 
-![Steps and parties involved in source-initiated transfer](/images/blog/source-initiated-steps.png)
+![Steps and parties involved in source-initiated transfer](/images/blog/source-initiated-steps.png){:class="blog-image"}
 
 In source-initiated transfer, illustrated above:
 
@@ -57,7 +57,7 @@ In source-initiated transfer, illustrated above:
   b) During this, destination requires authentication (eg. login or session key).
 1. Data transfer can now begin using a protocol or API over secure transport. The source may use the destination’s API, the destination may use the source’s API, or they may use a standard protocol.
 
-![Steps and parties involved in destination-initiated transfer](/images/blog/destination-initiated-steps.png)
+![Steps and parties involved in destination-initiated transfer](/images/blog/destination-initiated-steps.png){:class="blog-image"}
 
 
 In destination-initiated transfer, second picture:
@@ -139,7 +139,7 @@ Non-compliance is a threat when a system that tries to comply with regulations i
 
 Many compliance regulations that apply to companies hosting content are driven by the content itself, its subject matter or representation. However, there are additional regulations and policies that are not about what is in the content but how the company handles it.
 
-<table>
+<table class="blog-tables">
 <tr>
 <th>Compliance Considerations</th> <th>Considerations from content itself</th><th>  Issues in how content is handled </th>
 </tr>
@@ -181,7 +181,7 @@ Compliance overlaps with several other threats. For example, a company can exper
 
 For content hosting services, compliance considerations overlap especially with content moderation, but neither topic encompasses the other:
 
-![Venn diagram with overlap between moderation and compliance](/images/blog/venn diagram moderation and compliance.png)
+![Venn diagram with overlap between moderation and compliance](/images/blog/venn diagram moderation and compliance.png){:class="blog-image"}
 
 _Lines are blurry but some things overlap more than others_
 

@@ -12,7 +12,7 @@ for our summit.  Speakers are beginning to arrive.  The podium is ready!   We ju
 * Our [speaker bios](/docs/feb29summitspeakers.md) are up
 * The [livestream](https://vimeo.com/event/4110723/6b96907ccb)
 
-![Speaker podium and screen for slides at event](/images/blog/speaker-podium-feb29.png)
+![Speaker podium and screen for slides at event](/images/blog/speaker-podium-feb29.png){:class="blog-image"}
 
 I'm looking forward to sharing ideas and plans with everyone.
 

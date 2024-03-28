@@ -821,6 +821,26 @@ table {
   padding: 0 0 12px;
   margin:0 0 12px;
 }
+.blog-sidebar{
+  width: 23%;
+  float:left;
+  padding-left: 25px;
+  margin-top: 3%;
+  border-left: 2px solid #519f742e !important;
+}
+
+.blog-image{
+  width: 100%;
+}
+.blog-tables{
+  width: 100%;
+}
+
+.blog-content{
+  width: 75%;
+  float:left;
+  padding-right: 25px;
+}
 
 // MEDIA QUERIES
 
@@ -836,23 +856,23 @@ table {
   }
 
   h1 {
-    font-size: 1.8rem;
+    font-size: 1.5rem;
     line-height: 3rem;
   }
 
   h2 {
-    font-size: 1.5rem;
+    font-size: 1.3rem;
     line-height: 2.45rem;
   }
 
   h3 {
-    font-size: 1.3rem;
+    font-size: 1.1rem;
     line-height: 2.3rem;
     margin-block-end: 20px;
   }
 
   h4 {
-    font-size: 1.1rem;
+    font-size: 0.8rem;
     line-height: 2.1rem;
   }
 
@@ -1088,5 +1108,88 @@ table {
     margin:0 0 12px;
   }
 
+  .footer-links {
+    text-align: center;
+    width: 100%;
+    margin-bottom: 10px;
+  }
+}
 
+@media (max-width: 767px) {
+  .blog-sidebar{
+    display: none;
+  }
+
+  .blog-content{
+    width: 98%;
+    float:left;
+    margin:auto;
+
+  }
+
+  .main-content {
+    grid-area: main;
+    margin-inline: auto;
+    max-width: 100% !important;
+    padding-inline: 20px;
+  }
+
+  h1 {
+    font-size: 1.6rem;
+    line-height: 3rem;
+  }
+
+  h2 {
+    font-size: 1.4rem;
+    line-height: 2.45rem;
+  }
+
+  h3 {
+    font-size: 1.2rem;
+    line-height: 2.3rem;
+    margin-block-end: 20px;
+  }
+
+  h4 {
+    font-size: 1rem;
+    line-height: 2.1rem;
+  }
+  .blog-image{
+    width: 100%;
+  }
+  .blog-tables{
+    width: 100%;
+  }
+
+  .hero-about .hero-header {
+    font-size: 1.4rem;
+
+  }
+
+  .home-learn-more > span {
+    font-size: 1.2rem;
+  }
+
+  .social-icon-container {
+    text-align: center;
+    width: 100%;
+    margin-top: 10px;
+  }
+  .footer-links {
+    text-align: center;
+    width: 100%;
+    margin-bottom: 10px;
+  }
+
+  .main-footer {
+    background-color: var(--black);
+    text-align: center;
+    color: var(--white);
+    grid-area: footer;
+    margin-top: 36px;
+    padding: 80px 64px;
+    a {
+      color: var(--white);
+    }
+  }
 }

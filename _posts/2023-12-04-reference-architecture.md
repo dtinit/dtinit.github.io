@@ -25,7 +25,7 @@ _As a person with my data in a **source** service, I want to **move** it to a **
 
 A key assumption here is that data travels directly between services, as opposed to the Export/Import approach where data is stored on a personal computer or online storage in between services. 
 
-![alt_text](/images/transfer-arch-simple.png "image_tooltip")
+![alt_text](/images/transfer-arch-simple.png "image_tooltip"){:class="blog-image"}
 
 
 <center><i>Different interactions in Export/Import approach vs. server-to-server transfer</i></center>
@@ -43,7 +43,7 @@ The core interactions for server-to-server data portability look something like 
 This high-level description is missing a key decision, however. Does the authorization of the source service get sent to the destination so it can ask for data? Or does the authorization of the destination get sent to the source so that it can start sending? This is a question of who initiates the authorization request and who receives that authorization result.
 
 
-<table>
+<table class="blog-tables">
   <tr>
    <td><em>Source-initiated architecture</em>
    </td>
@@ -108,7 +108,7 @@ Finally, we can solve the case where users can be notified about transfer status
 One of the most obvious and simple use cases is when a user asks to transfer their personal photo collection from one service to another photo service. The same architecture can probably be used when the user asks to transfer their music playlists from one music service to another music service. If we use the same architecture for both, does that mean we’re going to have a photo server start to send photos to music streaming servers, or that a music streaming server starts to send music playlists to newsletter hosting sites? No - that’s the difference between _general-purpose_ and _universal_ solutions_. _A general-purpose solution can be re-used, without requiring each service to handle the universe of possible data types.
 
 
-![alt_text](/images/architecture-assumes-like-to-like.png "image_tooltip")
+![alt_text](/images/architecture-assumes-like-to-like.png "image_tooltip"){:class="blog-image"}
 
 
 _Even though C hosts both music and photos, like only transfers to like_
